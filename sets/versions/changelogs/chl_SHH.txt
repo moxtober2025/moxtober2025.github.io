@@ -1,4 +1,159 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+A Worthy Cause
+rules_text: Spend only mana of different colors to cast this spell.
+Whenever a creature you control enters, choose a Role type from among Lackey, Supporting, or [/i][i]Valiant[/i][i], then create a token of the chosen type attached to that creature. => Spend only mana of different colors to cast this spell.
+Whenever a creature you control enters, choose a Role type from among Lackey, Supporting, or [/i]Valiant[i], then create a token of the chosen type attached to that creature.
+
+Calamarie, the Octogarch
+rules_text: Calamarie and Tentacles you control each have protection from modified creatures.
+Whenever Calamarie attacks, you may create a Lackey Role token attached to target creature defending player controls. If you do, create a 1/1 blue Tentacle creature token for each Lackey Role token you control. [i](Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i] => Calamarie and Tentacles you control each have protection from modified creatures.
+Whenever Calamarie attacks, you may create a Lackey Role token attached to target creature defending player controls. If you do, create a 1/1 blue Tentacle creature token for each Lackey Role token you control.
+
+Crown Joule
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+If you casting a spell during combat would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+If you casting a spell during combat causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Feeding Time
+rules_text: Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]
+Sacrifice the creature you control with the greatest power among creatures you control unless this spell was kicked. Then draw cards equal to the greatest power among creatures you control. => Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]
+Sacrifice a creature with the greatest power among creatures you control if this spell wasn't kicked. Then draw cards equal to the greatest power among creatures you control.
+
+Terrifying Savior
+rules_text: When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Lackey Role attached to that creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i] => When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Lackey Role token attached to that creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]
+
+Touch of Eternity
+rules_text: Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Bulwark of Will
+rules_text: Target creature gains hexproof and indestructible until end of turn. Create a [/i][i]Valiant[/i] [i]Role attached to that creature. [i](If you control another Role on it, put that one into the graveyard. Once each turn when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i] => Target creature gains hexproof and indestructible until end of turn. Create a [/i]Valiant [i]Role attached to that creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]
+
+Compact of Mercury
+rules_text: You may sacrifice a modified creature rather than pay this spell's mana cost.
+Modified creatures you control gain hexproof and indestructible until end of turn. => You may sacrifice a modified creature rather than pay this spell's mana cost. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Modified creatures you control gain hexproof and indestructible until end of turn.
+
+Dance with Doom
+
+Force of One Thousand Suns
+rules_text: Choose one—
+• This spell deals 10 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.
+• Target creature you control gains lifelink, trample and indestructible until end of turn. => Choose one—
+• Force of One Thousand Suns deals 10 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.
+• Target creature you control gains lifelink, trample and indestructible until end of turn.
+
+Heartstone Synthesizer
+rules_text: [i]Sidekick [/i]— Whenever Heartstone Synthesizer attacks with another creature with greater power, create a Mox Emerald token. => [i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, create a Mox Emerald token.
+
+Just In Time
+rules_text: This spell deals 3 damage to target creature or planeswalker. Create a Supporting Role token attacked to a creature you control. [i](If you control another Role on it, put that one into the graveyard. It's an Aura Role with “At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.”)[/i] => This spell deals 3 damage to target creature or planeswalker. Create a Supporting Role token attached to up to one target creature you control. [i](If you control another Role on it, put that one into the graveyard. It's an Aura Role with “At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.”)[/i]
+
+Princess Vermora the Last
+rules_text: When Princess Vermora enters, create a 3/3 green Beast creature token.
+At the beginning of combat on your turn, create a [i]Valiant[/i] Role attached to target creature. [i](If you control another Role on it, put that one into the graveyard. Once each turn when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i] => When Princess Vermora enters, create a 3/3 green Beast creature token.
+At the beginning of combat on your turn, create a Valiant[i] [/i]Role attached to target creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]
+
+Rebirth of the Moon Man
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This saga deals 6 damage to each of up to three targets.
+II — Spells you cast this turn cost {U}{R} less to cast.
+III — Draw a card. You may put this Saga on top of its owner's library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 6 damage to each of up to three targets.
+II — Spells you cast this turn cost {U}{R} less to cast.
+III — Draw a card. You may put this Saga on top of its owner's library.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This saga deals 6 damage to each of up to three targets.
+II — Spells you cast this turn cost {U}{R} less to cast.
+III — Draw a card. You may put this Saga on top of its owner's library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 6 damage to each of up to three targets.
+II — Spells you cast this turn cost {U}{R} less to cast.
+III — Draw a card. You may put this Saga on top of its owner's library.
+
+Serenity Grace, Murder Queen
+rules_text: When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. 
+Whenever a modified creature you control dies, draw a card. => When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. 
+Whenever a modified creature you control dies, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Supremacy
+rules_text: At the beginning of your upkeep, create a 1/1 black Minion creature token.
+Whenever you create a creature token, create a Lackey role and attach it to that token. => At the beginning of your upkeep, create a 1/1 black Minion creature token.
+Whenever you create a creature token, create a Lackey Role and attach it to that token. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]
+
+Zarqa's Neophytes
+rules_text: At the beginning of combat on your turn, target creature you control gains haste until end of turn.
+[i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, those creatures gain double strike until end of turn. => At the beginning of combat on your turn, target creature gains haste until end of turn.
+[i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, those creatures gain double strike until end of turn.
+
+Bastion, People's Champion
+rules_text: Whenever another nontoken creature you control enters, you may create a Supporting Role token and attach it to that creature. => Whenever another nontoken creature you control enters, you may create a Supporting Role token and attach it to that creature. [i](If you control another Role on it, put that one into the graveyard. It's an Aura Role with “At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.”)[/i]
+
+Elseworlds Invader
+rules_text: Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+[i]Constellation[/i] — Whenever an enchantment you control enters, exile the top card of target opponent's library. You may play that card for as long as you control this creature, and mana of any color can be spent to cast it. => Ward—Pay 3 life.
+[i]Constellation[/i] — Whenever an enchantment you control enters, look at the top card of target opponent's library and exile it.
+You may play cards exiled with this creature. Mana of any type can be spent to cast them.
+
+Gritty Reboot
+rules_text: Any opponent may pay 4 life. If no opponent does, return target creature card with mana value 4 or less from your graveyard to the battlefield. => Any opponent may pay 4 life. If no one does, return target creature card with mana value 4 or less from your graveyard to the battlefield.
+
+Antimatter Destructron
+rules_text: Whenever a legendary permanent enters the battlefield under your control, untap Antimatter Destructron.
+{T}: Add one mana of any color.
+{100}: Antimatter Destructron deals 1000 damage to each opponent. => Whenever a legendary permanent enters the battlefield under your control, untap this artifact.
+{T}: Add one mana of any color.
+{100}: This artifact deals 1000 damage to each opponent.
+
+Clothes Make the Man
+rules_text: When Clothes Make the Man enters the battlefield, it becomes an Aura with enchant creature. Return a creature card from your graveyard to the battlefield and attach Clothes Make the Man to it.
+Enchanted creature has menace. => When this enchantment enters, it becomes an Aura with enchant creature. Return a creature card from your graveyard to the battlefield and attach this enchantment to it.
+Enchanted creature has menace.
+
+From Mighty Acorns
+rules_text: Enchant creature
+When From Mighty Acorns enters the battlefield, enchanted creature deals damage equal to its power to target creature, planeswalker, or battle.
+Enchanted creature gets +1/+1 for each Forest you control. => Enchant creature
+When From Mighty Acorns enters, enchanted creature deals damage equal to its power to target creature, planeswalker, or battle.
+Enchanted creature gets +1/+1 for each Forest you control.
+
+Multiversal Mooks
+rules_text: A deck can have any number of cards named Multiversal Mooks.
+When Multiversal Mooks enters the battlefield, you may reveal a card you own named Multiversal Mooks from outside the game and put it into your hand. => A deck can have any number of cards named Multiversal Mooks.
+When this creature enters, you may reveal a card you own named Multiversal Mooks from outside the game and put it into your hand.
+
+Punch the Moon
+rules_text: Each opponent sacrifices a nonbasic land. => Each opponent sacrifices a nonbasic land of their choice.
+
+Relentless Rescuer
+rules_text: As long as Relentless Rescuer is modified, creatures you control with base power and toughness 1/1 get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i] => As long as this creature is modified, creatures you control with base power and toughness 1/1 get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Sorcerous Sidekick
+rules_text: [i]Sidekick [/i]— Whenever Sorcerous Sidekick attacks with another creature with greater power, that creature gains “Whenever this creature dies, return it to the battlefield tapped under its owner's control with a menace counter on it” until end of turn. => [i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, that creature gains “Whenever this creature dies, return it to the battlefield tapped under its owner's control with a menace counter on it” until end of turn.
+
+The Crimson Mask Descends
+
+There's Always More Mooks
+rules_text: Choose X. You may choose the same mode more than once.
+• Create a 1/1 black Minion creature token.
+• Create a Lackey role token attached to a non-enchanted creature you control. [i](Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i] => Choose X. You may choose the same mode more than once.
+• Create a 1/1 black Minion creature token.
+• Create a Lackey role token attached to a creature you control that isn't enchanted. [i](Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]
+
+Take the Night Off
+rules_text: At the beginning of your end step, you may tap any number of untapped creatures you control. If you do, draw that many cards, then discard a card. => At the beginning of your end step, you may tap one or more untapped creatures you control. If you do, draw that many cards, then discard a card.
+
+Wyre's Strings
+rules_text: {T}: For each creature you control, if it was the target of a spell or ability you controlled this turn, you may create a [/i][i]Valiant[/i][i] Role token attached to that creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i] => {T}: For each creature you control, if it was the target of a spell or ability you controlled this turn, you may create a [/i]Valiant[i] Role token attached to that creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
