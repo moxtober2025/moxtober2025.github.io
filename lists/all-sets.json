@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "LDT",
+            "set_name": "Last Days of the Immortal Table",
+            "formats": ""
+        },
+        {
             "set_code": "SHH",
             "set_name": "Starfall Upon Halcyon Heights",
             "formats": ""

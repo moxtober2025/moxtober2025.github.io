@@ -1,0 +1,1760 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Tiny Beating Hearts",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/0.png"
+			}
+		},
+		{
+			"name": "Rabbit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/1.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/2.png"
+			}
+		},
+		{
+			"name": "Forsaken Shepherd",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/3.png"
+			}
+		},
+		{
+			"name": "Meditations on Hunger",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/4.png"
+			}
+		},
+		{
+			"name": "Make Prey of Them",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/5.png"
+			}
+		},
+		{
+			"name": "Seeker of Cosmic Ideals",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/6.png"
+			}
+		},
+		{
+			"name": "Oathweaver",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/7.png"
+			}
+		},
+		{
+			"name": "Spare Thyself",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/8.png"
+			}
+		},
+		{
+			"name": "Be Part of Me",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/9.png"
+			}
+		},
+		{
+			"name": "Skittering Hag",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hag",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/10.png"
+			}
+		},
+		{
+			"name": "Caelia, the South Star",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/11.png"
+			}
+		},
+		{
+			"name": "Mistress of the Hunt",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Human Werewolf Knight",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/12.png"
+			}
+		},
+		{
+			"name": "Syr Yseult of Seven Chimes",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/13.png"
+			}
+		},
+		{
+			"name": "Curse of Asceticism",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/14.png"
+			}
+		},
+		{
+			"name": "Ruin to Be Wrought",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/15.png"
+			}
+		},
+		{
+			"name": "Parting Calm Waters",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/16.png"
+			}
+		},
+		{
+			"name": "Immortal Silence",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/17.png"
+			}
+		},
+		{
+			"name": "The Red Grail",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/18.png"
+			}
+		},
+		{
+			"name": "Venerable Counsel",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/19.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/20.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/21.png"
+			}
+		},
+		{
+			"name": "Hound",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Hound",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/22.png"
+			}
+		},
+		{
+			"name": "Blade at Thy Back",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/23.png"
+			}
+		},
+		{
+			"name": "Now and Forever",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/24.png"
+			}
+		},
+		{
+			"name": "Nyneve, Daybreak's Promise",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/25.png"
+			}
+		},
+		{
+			"name": "Syr Llyr, Grief's Twilight",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/26.png"
+			}
+		},
+		{
+			"name": "Martyr of Runes",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/27.png"
+			}
+		},
+		{
+			"name": "Curse of Failure",
+			"rarity": "special",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/28.png"
+			}
+		},
+		{
+			"name": "Drinking of the Grail",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/29.png"
+			}
+		},
+		{
+			"name": "Hollow Worshipper",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/30.png"
+			}
+		},
+		{
+			"name": "Obsession",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/31.png"
+			}
+		},
+		{
+			"name": "Born Beneath Thy Ribs",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/32.png"
+			}
+		},
+		{
+			"name": "Ravaine, Heir Eternal",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/33.png"
+			}
+		},
+		{
+			"name": "Grounded Salvation",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/34.png"
+			}
+		},
+		{
+			"name": "Abandon All Restraint",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/35.png"
+			}
+		},
+		{
+			"name": "All Your Many Lives",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/36.png"
+			}
+		},
+		{
+			"name": "Blushing Bride",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/37.png"
+			}
+		},
+		{
+			"name": "Brush with Divinity",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/38.png"
+			}
+		},
+		{
+			"name": "Callous Sellsword",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/39.png"
+			}
+		},
+		{
+			"name": "Deconstruct Identity",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/40.png"
+			}
+		},
+		{
+			"name": "Duty",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/41.png"
+			}
+		},
+		{
+			"name": "Her Ladyship The Moon",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/42.png"
+			}
+		},
+		{
+			"name": "Meditations on Yearning",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/43.png"
+			}
+		},
+		{
+			"name": "Ride Ahead",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/44.png"
+			}
+		},
+		{
+			"name": "Scrying Sheet",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/45.png"
+			}
+		},
+		{
+			"name": "Shadowreathed Champion",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/46.png"
+			}
+		},
+		{
+			"name": "Siobhan, Who Failed",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Siobhan",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/47.png"
+			}
+		},
+		{
+			"name": "Steel Your Heart",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/48.png"
+			}
+		},
+		{
+			"name": "Sunken Chorus",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/49.png"
+			}
+		},
+		{
+			"name": "Sworn Sisters",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/50.png"
+			}
+		},
+		{
+			"name": "The Anointing of a Champion",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/51.png"
+			}
+		},
+		{
+			"name": "The Crowning of a Princess",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/52.png"
+			}
+		},
+		{
+			"name": "The Sealing of a God",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura Saga",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/53.png"
+			}
+		},
+		{
+			"name": "The Seeking of a Legend",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/54.png"
+			}
+		},
+		{
+			"name": "The Weaving of a Star",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/55.png"
+			}
+		},
+		{
+			"name": "To Slaughter",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/56.png"
+			}
+		},
+		{
+			"name": "Beseech the Lady",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/57.png"
+			}
+		},
+		{
+			"name": "Lunar Chaplain",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/58.png"
+			}
+		},
+		{
+			"name": "Leonum Non Refert Quid Oves Censeant",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/59.png"
+			}
+		},
+		{
+			"name": "Alum of the Rising Moon",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/60.png"
+			}
+		},
+		{
+			"name": "Cyclekeeper",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/61.png"
+			}
+		},
+		{
+			"name": "Face of Animosity",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/62.png"
+			}
+		},
+		{
+			"name": "Renah of the Waning Sun",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/63.png"
+			}
+		},
+		{
+			"name": "Drink Deep",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/64.png"
+			}
+		},
+		{
+			"name": "Oath of the Immortal Table",
+			"rarity": "special",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/65.png"
+			}
+		},
+		{
+			"name": "Schism",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/66.png"
+			}
+		},
+		{
+			"name": "Catacomb Consecrator",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/67.png"
+			}
+		},
+		{
+			"name": "Catacomb Hoarder",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/68.png"
+			}
+		},
+		{
+			"name": "Commanding Concubus",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/69.png"
+			}
+		},
+		{
+			"name": "Lotus-Pool Fishcat",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Fish Cat",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/70.png"
+			}
+		},
+		{
+			"name": "Obelia, Headless Huntress",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Spirit Peasant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/71.png"
+			}
+		},
+		{
+			"name": "Rise, Again and Again",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/72.png"
+			}
+		},
+		{
+			"name": "Starlight Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/73.png"
+			}
+		},
+		{
+			"name": "Banished From Heaven",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/74.png"
+			}
+		},
+		{
+			"name": "Secrets in the Stars",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/75.png"
+			}
+		},
+		{
+			"name": "Ruby Rager",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/76.png"
+			}
+		},
+		{
+			"name": "Undying Loyalist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/77.png"
+			}
+		},
+		{
+			"name": "Drink Deeply and Without Fear",
+			"rarity": "special",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/78.png"
+			}
+		},
+		{
+			"name": "Wyrdwood Guardian",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/79.png"
+			}
+		},
+		{
+			"name": "Final Masquerade",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/80.png"
+			}
+		},
+		{
+			"name": "Meditations on Devotion",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/81.png"
+			}
+		},
+		{
+			"name": "Timelost Relict",
+			"rarity": "special",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Dinosaur Spirit",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/82.png"
+			}
+		},
+		{
+			"name": "Bloodscent Tracker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Werewolf",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/83.png"
+			}
+		},
+		{
+			"name": "Wyrdwood Dryad",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/84.png"
+			}
+		},
+		{
+			"name": "Field of Swords",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/85.png"
+			}
+		},
+		{
+			"name": "Searing Brilliance",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/86.png"
+			}
+		},
+		{
+			"name": "Fervent Bloodletter",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Centaur Knight",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/87.png"
+			}
+		},
+		{
+			"name": "Forbidden Hex",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/88.png"
+			}
+		},
+		{
+			"name": "The Meek and Many",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/89.png"
+			}
+		},
+		{
+			"name": "Commandeered Barge",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/90.png"
+			}
+		},
+		{
+			"name": "Seek Unspoiled Lands",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/91.png"
+			}
+		},
+		{
+			"name": "A Sliver of Her Might",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/92.png"
+			}
+		},
+		{
+			"name": "Silverthread Spirit",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/93.png"
+			}
+		},
+		{
+			"name": "Soldier On",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/94.png"
+			}
+		},
+		{
+			"name": "Stone of Swords",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/95.png"
+			}
+		},
+		{
+			"name": "Perennial Penguins",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bird",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/96.png"
+			}
+		},
+		{
+			"name": "Knight of Unanswered Wishes",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/97.png"
+			}
+		},
+		{
+			"name": "Meditations on Obligation",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/98.png"
+			}
+		},
+		{
+			"name": "Knight's Last Wish",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/99.png"
+			}
+		},
+		{
+			"name": "Strike As One",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/100.png"
+			}
+		},
+		{
+			"name": "Lunar Reflection",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/101.png"
+			}
+		},
+		{
+			"name": "Vitreous Drifter",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue Knight",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/102.png"
+			}
+		},
+		{
+			"name": "Her Gaze Weighs Heavy",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/103.png"
+			}
+		},
+		{
+			"name": "A Heart Enraptured",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/104.png"
+			}
+		},
+		{
+			"name": "Sworn Shortsword",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/105.png"
+			}
+		},
+		{
+			"name": "Knight-Radiant",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/106.png"
+			}
+		},
+		{
+			"name": "Wildpath Paragon",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/107.png"
+			}
+		},
+		{
+			"name": "Duty Unending",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/108.png"
+			}
+		},
+		{
+			"name": "Glasswork Champion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/109.png"
+			}
+		},
+		{
+			"name": "Concoction of Strength",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/110.png"
+			}
+		},
+		{
+			"name": "Tainted-Shore Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/111.png"
+			}
+		},
+		{
+			"name": "Fraying Star-Guide",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/112.png"
+			}
+		},
+		{
+			"name": "Waters of the Lake",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/113.png"
+			}
+		},
+		{
+			"name": "Pristine Blade",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/114.png"
+			}
+		},
+		{
+			"name": "Fates Bound Forever",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/115.png"
+			}
+		},
+		{
+			"name": "Desperate Cradling",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/116.png"
+			}
+		},
+		{
+			"name": "Silver Apostate",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/117.png"
+			}
+		},
+		{
+			"name": "A Millenium Under the Oath",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/118.png"
+			}
+		},
+		{
+			"name": "Second Skin",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/119.png"
+			}
+		},
+		{
+			"name": "Her Ladyship's Truth",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/120.png"
+			}
+		},
+		{
+			"name": "The Stars Are Her Hands",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/121.png"
+			}
+		},
+		{
+			"name": "Rust-Souled Veteran",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/122.png"
+			}
+		},
+		{
+			"name": "Safira, High Priestess",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/123.png"
+			}
+		},
+		{
+			"name": "The Waning of the Sun",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/124.png"
+			}
+		},
+		{
+			"name": "Umbrette, Peculiar Princess",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Warlock Noble",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/125.png"
+			}
+		},
+		{
+			"name": "Sinking into the Lady's Grasp",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/126.png"
+			}
+		},
+		{
+			"name": "The Many Oaths of Siobhan",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/127.png"
+			}
+		},
+		{
+			"name": "Sinewtail",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Rabbit Horror",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/128.png"
+			}
+		},
+		{
+			"name": "Mooncursed Packleader",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Werewolf Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/129.png"
+			}
+		},
+		{
+			"name": "Feigned Innocence",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/130.png"
+			}
+		},
+		{
+			"name": "Meditations on Truth",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/131.png"
+			}
+		},
+		{
+			"name": "Answerer of Pleas",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/132.png"
+			}
+		},
+		{
+			"name": "The Pale Riders of the Mire",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Knight",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/133.png"
+			}
+		},
+		{
+			"name": "Knight of Refraction",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/134.png"
+			}
+		},
+		{
+			"name": "Forsaken Paladin",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/135.png"
+			}
+		},
+		{
+			"name": "Syr Grgkhshktsh, the Unruly",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Knight",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/136.png"
+			}
+		},
+		{
+			"name": "Seal Beneath the Lake",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/137.png"
+			}
+		},
+		{
+			"name": "Curse of Moonlight Sickness",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/138.png"
+			}
+		},
+		{
+			"name": "Curse of Warping Flesh",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/139.png"
+			}
+		},
+		{
+			"name": "Stir the Brew",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/140.png"
+			}
+		},
+		{
+			"name": "Natural Beauty",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/141.png"
+			}
+		},
+		{
+			"name": "War-Hardened Headhunter",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier Knight",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/142.png"
+			}
+		},
+		{
+			"name": "Questing Vessel",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/143.png"
+			}
+		},
+		{
+			"name": "Familiar's Watch",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/144.png"
+			}
+		},
+		{
+			"name": "Keeper of the Grail",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/145.png"
+			}
+		},
+		{
+			"name": "Crystal Clear",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/146.png"
+			}
+		},
+		{
+			"name": "Aneaena, Timeless Hermit",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Hag Warlock",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/147.png"
+			}
+		},
+		{
+			"name": "Hallowed Shieldbearer",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Knight",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/148.png"
+			}
+		},
+		{
+			"name": "Helpful Silversmith",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/149.png"
+			}
+		},
+		{
+			"name": "Ancient Lore",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/150.png"
+			}
+		},
+		{
+			"name": "Dressed to Kill",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/151.png"
+			}
+		},
+		{
+			"name": "Shroud of Moths",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/152.png"
+			}
+		},
+		{
+			"name": "Accursed Astrologist",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Warlock",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/153.png"
+			}
+		},
+		{
+			"name": "Sow the Seeds of Glory",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/154.png"
+			}
+		},
+		{
+			"name": "Lena of the Lunar Eclipse",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Avatar Knight",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/155.png"
+			}
+		},
+		{
+			"name": "Guiding Light",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/156.png"
+			}
+		},
+		{
+			"name": "Ravaine's Loyalist",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/157.png"
+			}
+		},
+		{
+			"name": "Curse of Overwhelming Ennui",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/158.png"
+			}
+		},
+		{
+			"name": "Vicious Cycle",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/LDT-files/img/159.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Tiny Beating Hearts
+	1 Forsaken Shepherd
+	1 Meditations on Hunger
+	1 Make Prey of Them
+	1 Seeker of Cosmic Ideals
+	1 Oathweaver
+	1 Spare Thyself
+	1 Be Part of Me
+	1 Skittering Hag
+	1 Caelia, the South Star
+	1 Mistress of the Hunt
+	1 Syr Yseult of Seven Chimes
+	1 Curse of Asceticism
+	1 Ruin to Be Wrought
+	1 Parting Calm Waters
+	1 Immortal Silence
+	1 The Red Grail
+	1 Venerable Counsel
+	1 Blade at Thy Back
+	1 Now and Forever
+	1 Nyneve, Daybreak's Promise
+	1 Syr Llyr, Grief's Twilight
+	1 Martyr of Runes
+	1 Curse of Failure
+	1 Drinking of the Grail
+	1 Hollow Worshipper
+	1 Obsession
+	1 Born Beneath Thy Ribs
+	1 Ravaine, Heir Eternal
+	1 Grounded Salvation
+	1 Abandon All Restraint
+	1 All Your Many Lives
+	1 Blushing Bride
+	1 Brush with Divinity
+	1 Callous Sellsword
+	1 Deconstruct Identity
+	1 Duty
+	1 Her Ladyship The Moon
+	1 Meditations on Yearning
+	1 Ride Ahead
+	1 Scrying Sheet
+	1 Shadowreathed Champion
+	1 Siobhan, Who Failed
+	1 Steel Your Heart
+	1 Sunken Chorus
+	1 Sworn Sisters
+	1 The Anointing of a Champion
+	1 The Crowning of a Princess
+	1 The Sealing of a God
+	1 The Seeking of a Legend
+	1 The Weaving of a Star
+	1 To Slaughter
+	1 Beseech the Lady
+	1 Lunar Chaplain
+	1 Leonum Non Refert Quid Oves Censeant
+	1 Alum of the Rising Moon
+	1 Cyclekeeper
+	1 Face of Animosity
+	1 Renah of the Waning Sun
+	1 Drink Deep
+	1 Oath of the Immortal Table
+	1 Schism
+	1 Catacomb Consecrator
+	1 Catacomb Hoarder
+	1 Commanding Concubus
+	1 Lotus-Pool Fishcat
+	1 Obelia, Headless Huntress
+	1 Rise, Again and Again
+	1 Starlight Titan
+	1 Banished From Heaven
+	1 Secrets in the Stars
+	1 Ruby Rager
+	1 Undying Loyalist
+	1 Drink Deeply and Without Fear
+	1 Wyrdwood Guardian
+	1 Final Masquerade
+	1 Meditations on Devotion
+	1 Timelost Relict
+	1 Bloodscent Tracker
+	1 Wyrdwood Dryad
+	1 Field of Swords
+	1 Searing Brilliance
+	1 Fervent Bloodletter
+	1 Forbidden Hex
+	1 The Meek and Many
+	1 Commandeered Barge
+	1 Seek Unspoiled Lands
+	1 A Sliver of Her Might
+	1 Silverthread Spirit
+	1 Soldier On
+	1 Stone of Swords
+	1 Perennial Penguins
+	1 Knight of Unanswered Wishes
+	1 Meditations on Obligation
+	1 Knight's Last Wish
+	1 Strike As One
+	1 Lunar Reflection
+	1 Vitreous Drifter
+	1 Her Gaze Weighs Heavy
+	1 A Heart Enraptured
+	1 Sworn Shortsword
+	1 Knight-Radiant
+	1 Wildpath Paragon
+	1 Duty Unending
+	1 Glasswork Champion
+	1 Concoction of Strength
+	1 Tainted-Shore Witch
+	1 Fraying Star-Guide
+	1 Waters of the Lake
+	1 Pristine Blade
+	1 Fates Bound Forever
+	1 Desperate Cradling
+	1 Silver Apostate
+	1 A Millenium Under the Oath
+	1 Second Skin
+	1 Her Ladyship's Truth
+	1 The Stars Are Her Hands
+	1 Rust-Souled Veteran
+	1 Safira, High Priestess
+	1 The Waning of the Sun
+	1 Umbrette, Peculiar Princess
+	1 Sinking into the Lady's Grasp
+	1 The Many Oaths of Siobhan
+	1 Sinewtail
+	1 Mooncursed Packleader
+	1 Feigned Innocence
+	1 Meditations on Truth
+	1 Answerer of Pleas
+	1 The Pale Riders of the Mire
+	1 Knight of Refraction
+	1 Forsaken Paladin
+	1 Syr Grgkhshktsh, the Unruly
+	1 Seal Beneath the Lake
+	1 Curse of Moonlight Sickness
+	1 Curse of Warping Flesh
+	1 Stir the Brew
+	1 Natural Beauty
+	1 War-Hardened Headhunter
+	1 Questing Vessel
+	1 Familiar's Watch
+	1 Keeper of the Grail
+	1 Crystal Clear
+	1 Aneaena, Timeless Hermit
+	1 Hallowed Shieldbearer
+	1 Helpful Silversmith
+	1 Ancient Lore
+	1 Dressed to Kill
+	1 Shroud of Moths
+	1 Accursed Astrologist
+	1 Sow the Seeds of Glory
+	1 Lena of the Lunar Eclipse
+	1 Guiding Light
+	1 Ravaine's Loyalist
+	1 Curse of Overwhelming Ennui
+	1 Vicious Cycle
