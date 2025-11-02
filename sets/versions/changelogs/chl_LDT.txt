@@ -1,4 +1,418 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Caelia, the South Star (Promo) added.
+Ruin to be Wrought (Promo) added.
+The Red Grail (Promo) added.
+
+
+Tiny Beating Hearts
+
+Rabbit
+
+Knight
+
+Forsaken Shepherd
+
+Meditations on Hunger
+
+Make Prey of Them
+
+Seeker of Cosmic Ideals
+
+Oathweaver
+
+Spare Thyself
+
+Be Part of Me
+
+Skittering Hag
+
+Caelia, the South Star
+
+Mistress of the Hunt
+
+Syr Yseult of Seven Chimes
+
+Curse of Asceticism
+rules_text: Enchant player
+At the beginning of enchanted player's upkeep, they sacrifice a noncreature permanent. They may search their library for a basic land card, put it onto the battlefield, then shuffle. => Enchant player
+At the beginning of enchanted player's upkeep, they sacrifice a noncreature, nonbasic permanent. They may search their library for a basic land card, put it onto the battlefield, then shuffle.
+
+Ruin to Be Wrought
+
+Parting Calm Waters
+cost: {1}{U}{U} => {1}{G}{U}
+
+Immortal Silence
+
+The Red Grail
+
+Venerable Counsel
+
+Spirit
+
+Spirit
+
+Hound
+
+Blade at Thy Back
+
+Now and Forever
+
+Nyneve, Daybreak's Promise
+
+Syr Llyr, Grief's Twilight
+
+Martyr of Runes
+
+Curse of Failure
+
+Drinking of the Grail
+
+Hollow Worshipper
+
+Obsession
+
+Born Beneath Thy Ribs
+
+Ravaine, Heir Eternal
+
+Grounded Salvation
+
+Abandon All Restraint
+
+All Your Many Lives
+
+Blushing Bride
+
+Brush with Divinity
+
+Callous Sellsword
+
+Deconstruct Identity
+
+Duty
+
+Her Ladyship The Moon
+
+Meditations on Yearning
+
+Ride Ahead
+
+Scrying Sheet
+
+Shadowreathed Champion
+
+Siobhan, Who Failed
+
+Steel Your Heart
+
+Sunken Chorus
+
+Sworn Sisters
+
+The Anointing of a Champion
+
+The Crowning of a Princess
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+
+The Sealing of a God
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This gains “Enchanted creature gets -2/-2.”
+This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This gains “Enchanted creature gets -2/-2.”
+This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+
+The Seeking of a Legend
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+
+The Weaving of a Star
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+
+To Slaughter
+
+Beseech the Lady
+
+Lunar Chaplain
+
+Leonum Non Refert Quid Oves Censeant
+cost: {B}{G} => {R}{G}
+rules_text: Double the power of target creature you control until end of turn. It gains trample and “When this deals combat damage to a player, you lose life equal to the damage dealt and draw that many cards.” until end of turn. Sacrifice it at the beginning of the next end step. => Double the power of target creature you control until end of turn. Until end of turn, it gains trample and “When this deals combat damage to a player, it deals that much damage to you and you exile that many cards from the top of your library. You may play those cards until your next end step.” Sacrifice it at the beginning of the next end step.
+
+Alum of the Rising Moon
+
+Cyclekeeper
+
+Face of Animosity
+
+Renah of the Waning Sun
+
+Drink Deep
+
+Oath of the Immortal Table
+
+Schism
+
+Catacomb Consecrator
+
+Catacomb Hoarder
+
+Commanding Concubus
+
+Lotus-Pool Fishcat
+
+Obelia, Headless Huntress
+
+Rise, Again and Again
+
+Starlight Titan
+
+Banished From Heaven
+
+Secrets in the Stars
+
+Ruby Rager
+
+Undying Loyalist
+
+Drink Deeply and Without Fear
+
+Wyrdwood Guardian
+
+Final Masquerade
+
+Meditations on Devotion
+
+Timelost Relict
+
+Bloodscent Tracker
+
+Wyrdwood Dryad
+
+Field of Swords
+
+Searing Brilliance
+
+Fervent Bloodletter
+
+Forbidden Hex
+
+The Meek and Many
+
+Commandeered Barge
+
+Seek Unspoiled Lands
+
+A Sliver of Her Might
+
+Silverthread Spirit
+
+Soldier On
+
+Stone of Swords
+
+Perennial Penguins
+
+Knight of Unanswered Wishes
+
+Meditations on Obligation
+
+Knight's Last Wish
+
+Strike As One
+
+Lunar Reflection
+
+Vitreous Drifter
+
+Her Gaze Weighs Heavy
+
+A Heart Enraptured
+
+Sworn Shortsword
+
+Knight-Radiant
+
+Wildpath Paragon
+
+Duty Unending
+
+Glasswork Champion
+
+Concoction of Strength
+
+Tainted-Shore Witch
+
+Fraying Star-Guide
+
+Waters of the Lake
+
+Pristine Blade
+
+Fates Bound Forever
+
+Desperate Cradling
+
+Silver Apostate
+
+A Millenium Under the Oath
+
+Second Skin
+
+Her Ladyship's Truth
+
+The Stars Are Her Hands
+
+Rust-Souled Veteran
+
+Safira, High Priestess
+
+The Waning of the Sun
+
+Umbrette, Peculiar Princess
+
+Sinking into the Lady's Grasp
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+
+Sinewtail
+
+Mooncursed Packleader
+
+Feigned Innocence
+
+Meditations on Truth
+
+Answerer of Pleas
+
+The Pale Riders of the Mire
+
+Knight of Refraction
+
+Forsaken Paladin
+
+Syr Grgkhshktsh, the Unruly
+
+Seal Beneath the Lake
+
+Curse of Moonlight Sickness
+
+Curse of Warping Flesh
+
+Stir the Brew
+
+Natural Beauty
+
+War-Hardened Headhunter
+
+Questing Vessel
+
+Familiar's Watch
+
+Keeper of the Grail
+
+Crystal Clear
+
+Aneaena, Timeless Hermit
+
+Hallowed Shieldbearer
+
+Helpful Silversmith
+
+Ancient Lore
+
+Dressed to Kill
+
+Shroud of Moths
+
+Accursed Astrologist
+
+Sow the Seeds of Glory
+
+Lena of the Lunar Eclipse
+
+Guiding Light
+
+Ravaine's Loyalist
+
+Curse of Overwhelming Ennui
+
+Vicious Cycle
+cost: {U}{B} => {1}{U}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

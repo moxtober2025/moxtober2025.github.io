@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "cube",
+    "draft_structure": "play booster",
     "unpreviewed": "empty",
     "image_name": "position",
     "v_mana": "",
@@ -11,7 +11,7 @@
         {
             "card_name": "Tiny Beating Hearts",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 74,
             "color_identity": "B",
@@ -31,7 +31,7 @@
         {
             "card_name": "Rabbit",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Rabbit",
             "number": 2,
             "color_identity": "W",
@@ -51,7 +51,7 @@
         {
             "card_name": "Knight",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Knight",
             "number": 1,
             "color_identity": "W",
@@ -71,7 +71,7 @@
         {
             "card_name": "Forsaken Shepherd",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
             "number": 8,
             "color_identity": "W",
@@ -91,7 +91,7 @@
         {
             "card_name": "Meditations on Hunger",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 65,
             "color_identity": "B",
@@ -122,7 +122,7 @@
         {
             "card_name": "Make Prey of Them",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 87,
             "color_identity": "R",
@@ -142,9 +142,9 @@
         {
             "card_name": "Seeker of Cosmic Ideals",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Wizard",
-            "number": 43,
+            "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Seeker of Cosmic Ideals has flying as long as it isn't Human.\n{2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nWhenever this creature deals combat damage to a player, draw a card.",
@@ -162,7 +162,7 @@
         {
             "card_name": "Oathweaver",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Druid",
             "number": 113,
             "color_identity": "WUBRG",
@@ -182,7 +182,7 @@
         {
             "card_name": "Spare Thyself",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 24,
             "color_identity": "W",
@@ -202,7 +202,7 @@
         {
             "card_name": "Be Part of Me",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 53,
             "color_identity": "B",
@@ -222,7 +222,7 @@
         {
             "card_name": "Skittering Hag",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Hag",
             "number": 118,
             "color_identity": "G",
@@ -242,7 +242,7 @@
         {
             "card_name": "Caelia, the South Star",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
             "number": 127,
             "color_identity": "WB",
@@ -262,7 +262,7 @@
         {
             "card_name": "Mistress of the Hunt",
             "color": "WRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Werewolf Knight",
             "number": 136,
             "color_identity": "WRG",
@@ -282,9 +282,9 @@
         {
             "card_name": "Syr Yseult of Seven Chimes",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 147,
+            "number": 148,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "Each opponent's maximum hand size is equal to the number of cards in your hand.\nWhen you have no cards in hand, you draw a card and you lose 2 life.",
@@ -302,12 +302,12 @@
         {
             "card_name": "Curse of Asceticism",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 104,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Enchant player\nAt the beginning of enchanted player's upkeep, they sacrifice a noncreature permanent. They may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+            "rules_text": "Enchant player\nAt the beginning of enchanted player's upkeep, they sacrifice a noncreature, nonbasic permanent. They may search their library for a basic land card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -333,9 +333,9 @@
         {
             "card_name": "Ruin to Be Wrought",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
-            "number": 141,
+            "number": 142,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
             "rules_text": "Each player chooses a creature they control, then sacrifices the rest.\nUnseal. Then if the seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]",
@@ -352,12 +352,12 @@
         },
         {
             "card_name": "Parting Calm Waters",
-            "color": "U",
-            "rarity": "cube",
+            "color": "UG",
+            "rarity": "rare",
             "type": "Instant",
-            "number": 41,
-            "color_identity": "U",
-            "cost": "{1}{U}{U}",
+            "number": 138,
+            "color_identity": "UG",
+            "cost": "{1}{G}{U}",
             "rules_text": "Counter up to two target spells and/or abilities.",
             "flavor_text": "[i]A century past, after the efforts of generations of questing knights guided by the whispers of the Lady, the Red Grail was found. And the Knights of the Immortal Table were born.[/i]",
             "pt": "",
@@ -373,7 +373,7 @@
         {
             "card_name": "Immortal Silence",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 11,
             "color_identity": "W",
@@ -393,7 +393,7 @@
         {
             "card_name": "The Red Grail",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Artifact",
             "number": 151,
             "color_identity": "C",
@@ -413,9 +413,9 @@
         {
             "card_name": "Venerable Counsel",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
-            "number": 48,
+            "number": 47,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Look at the top six cards of your library. Put three of them into your hand and the rest into your graveyard.",
@@ -433,7 +433,7 @@
         {
             "card_name": "Spirit",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
             "number": 3,
             "color_identity": "W",
@@ -453,7 +453,7 @@
         {
             "card_name": "Spirit",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
             "number": 4,
             "color_identity": "B",
@@ -473,7 +473,7 @@
         {
             "card_name": "Hound",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Hound",
             "number": 5,
             "color_identity": "G",
@@ -493,7 +493,7 @@
         {
             "card_name": "Blade at Thy Back",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Soldier",
             "number": 78,
             "color_identity": "R",
@@ -513,7 +513,7 @@
         {
             "card_name": "Now and Forever",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 18,
             "color_identity": "W",
@@ -533,7 +533,7 @@
         {
             "card_name": "Nyneve, Daybreak's Promise",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Merfolk",
             "number": 89,
             "color_identity": "R",
@@ -553,7 +553,7 @@
         {
             "card_name": "Syr Llyr, Grief's Twilight",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
             "number": 73,
             "color_identity": "WB",
@@ -573,7 +573,7 @@
         {
             "card_name": "Martyr of Runes",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Soldier",
             "number": 15,
             "color_identity": "W",
@@ -593,7 +593,7 @@
         {
             "card_name": "Curse of Failure",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 30,
             "color_identity": "U",
@@ -624,7 +624,7 @@
         {
             "card_name": "Drinking of the Grail",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 130,
             "color_identity": "WUBRG",
@@ -644,7 +644,7 @@
         {
             "card_name": "Hollow Worshipper",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 63,
             "color_identity": "B",
@@ -664,7 +664,7 @@
         {
             "card_name": "Obsession",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 90,
             "color_identity": "R",
@@ -684,7 +684,7 @@
         {
             "card_name": "Born Beneath Thy Ribs",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 102,
             "color_identity": "G",
@@ -704,9 +704,9 @@
         {
             "card_name": "Ravaine, Heir Eternal",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 138,
+            "number": 139,
             "color_identity": "WBR",
             "cost": "{3}{R}{W}{B}",
             "rules_text": "As Ravaine enters the battlefield, if it was cast, choose another creature you control and tap it.\nThe chosen creature has hexproof and \u201cWhenever this creature deals combat damage to a player, that player loses the game.\u201d",
@@ -724,7 +724,7 @@
         {
             "card_name": "Grounded Salvation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 108,
             "color_identity": "G",
@@ -744,7 +744,7 @@
         {
             "card_name": "Abandon All Restraint",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 77,
             "color_identity": "R",
@@ -764,7 +764,7 @@
         {
             "card_name": "All Your Many Lives",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 125,
             "color_identity": "WUBRG",
@@ -795,7 +795,7 @@
         {
             "card_name": "Blushing Bride",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 79,
             "color_identity": "R",
@@ -815,7 +815,7 @@
         {
             "card_name": "Brush with Divinity",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 28,
             "color_identity": "U",
@@ -835,7 +835,7 @@
         {
             "card_name": "Callous Sellsword",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Soldier",
             "number": 54,
             "color_identity": "B",
@@ -855,7 +855,7 @@
         {
             "card_name": "Deconstruct Identity",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 57,
             "color_identity": "B",
@@ -875,7 +875,7 @@
         {
             "card_name": "Duty",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Incarnation",
             "number": 7,
             "color_identity": "W",
@@ -895,7 +895,7 @@
         {
             "card_name": "Her Ladyship The Moon",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Enchantment Creature \u2014 God",
             "number": 34,
             "color_identity": "U",
@@ -915,7 +915,7 @@
         {
             "card_name": "Meditations on Yearning",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 88,
             "color_identity": "R",
@@ -946,9 +946,9 @@
         {
             "card_name": "Ride Ahead",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
-            "number": 139,
+            "number": 140,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Bind a Knight [i](When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)[/i]\nDraw a card. You may put a land card from your hand onto the battlefield.",
@@ -966,7 +966,7 @@
         {
             "card_name": "Scrying Sheet",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 152,
             "color_identity": "C",
@@ -986,7 +986,7 @@
         {
             "card_name": "Shadowreathed Champion",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 69,
             "color_identity": "B",
@@ -1006,9 +1006,9 @@
         {
             "card_name": "Siobhan, Who Failed",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Siobhan",
-            "number": 145,
+            "number": 146,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}",
             "rules_text": "{R}: Forswear loyalty. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\n[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]\n[0]: Target opponent discards a card. If they can't, you draw a card. \n[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.",
@@ -1026,7 +1026,7 @@
         {
             "card_name": "Steel Your Heart",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 95,
             "color_identity": "R",
@@ -1046,7 +1046,7 @@
         {
             "card_name": "Sunken Chorus",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 72,
             "color_identity": "B",
@@ -1066,7 +1066,7 @@
         {
             "card_name": "Sworn Sisters",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
             "number": 121,
             "color_identity": "G",
@@ -1086,7 +1086,7 @@
         {
             "card_name": "The Anointing of a Champion",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 100,
             "color_identity": "G",
@@ -1106,15 +1106,15 @@
         {
             "card_name": "The Crowning of a Princess",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures.\nPlayers can't cast spells this turn.\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy all creatures.\nPlayers can't cast spells this turn.\nWhen you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures.\nPlayers can't cast spells this turn.\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy all creatures.\nPlayers can't cast spells this turn.\nWhen you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1126,15 +1126,15 @@
         {
             "card_name": "The Sealing of a God",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Saga",
             "number": 68,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nI \u2014 This gains \u201cEnchanted creature gets -2/-2.\u201d\nII \u2014 This gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nIII \u2014 Exile enchanted creature.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nThis gains \u201cEnchanted creature gets -2/-2.\u201d\nThis gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nExile enchanted creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nI \u2014 This gains \u201cEnchanted creature gets -2/-2.\u201d\nII \u2014 This gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nIII \u2014 Exile enchanted creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nThis gains \u201cEnchanted creature gets -2/-2.\u201d\nThis gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nExile enchanted creature.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1146,15 +1146,15 @@
         {
             "card_name": "The Seeking of a Legend",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 44,
+            "number": 43,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white Knight creature token with vigilance. Scry 2.\nII \u2014 Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.\nIII \u2014 Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 white Knight creature token with vigilance. Scry 2.\nWhenever one or more creatures deal combat damage to an opponent this turn, draw a card.\nSearch your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white Knight creature token with vigilance. Scry 2.\nII \u2014 Whenever one or more creatures deal combat damage to an opponent this turn, draw a card.\nIII \u2014 Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 white Knight creature token with vigilance. Scry 2.\nWhenever one or more creatures deal combat damage to an opponent this turn, draw a card.\nSearch your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1166,15 +1166,15 @@
         {
             "card_name": "The Weaving of a Star",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile the top two cards of your library. You may play a card exiled with this Saga this turn.\nIII \u2014 [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile the top two cards of your library. You may play a card exiled with this Saga this turn.\n[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile the top two cards of your library. You may play a card exiled with this Saga this turn.\nIII \u2014 [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile the top two cards of your library. You may play a card exiled with this Saga this turn.\n[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1186,7 +1186,7 @@
         {
             "card_name": "To Slaughter",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 97,
             "color_identity": "R",
@@ -1206,7 +1206,7 @@
         {
             "card_name": "Beseech the Lady",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 27,
             "color_identity": "U",
@@ -1226,7 +1226,7 @@
         {
             "card_name": "Lunar Chaplain",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric Knight",
             "number": 14,
             "color_identity": "W",
@@ -1245,13 +1245,13 @@
         },
         {
             "card_name": "Leonum Non Refert Quid Oves Censeant",
-            "color": "BG",
-            "rarity": "cube",
+            "color": "RG",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 133,
-            "color_identity": "BG",
-            "cost": "{B}{G}",
-            "rules_text": "Double the power of target creature you control until end of turn. It gains trample and \u201cWhen this deals combat damage to a player, you lose life equal to the damage dealt and draw that many cards.\u201d until end of turn. Sacrifice it at the beginning of the next end step.",
+            "color_identity": "RG",
+            "cost": "{R}{G}",
+            "rules_text": "Double the power of target creature you control until end of turn. Until end of turn, it gains trample and \u201cWhen this deals combat damage to a player, it deals that much damage to you and you exile that many cards from the top of your library. You may play those cards until your next end step.\u201d Sacrifice it at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1266,7 +1266,7 @@
         {
             "card_name": "Alum of the Rising Moon",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
             "number": 26,
             "color_identity": "U",
@@ -1286,7 +1286,7 @@
         {
             "card_name": "Cyclekeeper",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Warlock",
             "number": 105,
             "color_identity": "G",
@@ -1306,7 +1306,7 @@
         {
             "card_name": "Face of Animosity",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 81,
             "color_identity": "R",
@@ -1326,7 +1326,7 @@
         {
             "card_name": "Renah of the Waning Sun",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Knight",
             "number": 92,
             "color_identity": "R",
@@ -1346,7 +1346,7 @@
         {
             "card_name": "Drink Deep",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 106,
             "color_identity": "G",
@@ -1366,7 +1366,7 @@
         {
             "card_name": "Oath of the Immortal Table",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 40,
             "color_identity": "U",
@@ -1386,9 +1386,9 @@
         {
             "card_name": "Schism",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
-            "number": 143,
+            "number": 144,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Schism deals 4 damage to any target. When a creature or planeswalker dealt damage this way dies this turn, its controller can't cast spells with the same name as that permanent for the rest of the game.",
@@ -1406,7 +1406,7 @@
         {
             "card_name": "Catacomb Consecrator",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
             "number": 3,
             "color_identity": "W",
@@ -1426,7 +1426,7 @@
         {
             "card_name": "Catacomb Hoarder",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Dragon Spirit",
             "number": 55,
             "color_identity": "B",
@@ -1446,7 +1446,7 @@
         {
             "card_name": "Commanding Concubus",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Demon",
             "number": 128,
             "color_identity": "BR",
@@ -1466,7 +1466,7 @@
         {
             "card_name": "Lotus-Pool Fishcat",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fish Cat",
             "number": 134,
             "color_identity": "WG",
@@ -1486,7 +1486,7 @@
         {
             "card_name": "Obelia, Headless Huntress",
             "color": "BG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit Peasant",
             "number": 137,
             "color_identity": "BG",
@@ -1506,9 +1506,9 @@
         {
             "card_name": "Rise, Again and Again",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
-            "number": 140,
+            "number": 141,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "At the beginning of your end step, put a time counter on this enchantment. Mill a card for each time counter on this, then you may return a creature card with mana value less than or equal to the number of time counters on this enchantment from your graveyard to the battlefield with a finality counter on it.",
@@ -1526,9 +1526,9 @@
         {
             "card_name": "Starlight Titan",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Giant",
-            "number": 146,
+            "number": 147,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
             "rules_text": "First strike\nWhenever Starlight Titan enters or attacks, exile the top two cards of your library. You may play those cards. For each card you don't play, create a 1/1 white Soldier creature token with lifelink.",
@@ -1546,7 +1546,7 @@
         {
             "card_name": "Banished From Heaven",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 2,
             "color_identity": "W",
@@ -1566,9 +1566,9 @@
         {
             "card_name": "Secrets in the Stars",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
-            "number": 42,
+            "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "{1}{U}: Exile the top card of your library. Activate only as a sorcery.\nYou may play the most recently-exiled card exiled with Secrets in the Stars. [i](Once the most recent card is played, the next-most recent can be played.)[/i]",
@@ -1586,7 +1586,7 @@
         {
             "card_name": "Ruby Rager",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Elemental",
             "number": 93,
             "color_identity": "R",
@@ -1606,9 +1606,9 @@
         {
             "card_name": "Undying Loyalist",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Knight",
-            "number": 148,
+            "number": 149,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Double strike\n{2}{B}{R}, Tap an untapped modified creature you control: If this is in your graveyard, exchange it with the tapped creature. [i](You must both own and control that creature. This keeps that creature's counters and attachments.)[/i]",
@@ -1626,7 +1626,7 @@
         {
             "card_name": "Drink Deeply and Without Fear",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 6,
             "color_identity": "W",
@@ -1646,7 +1646,7 @@
         {
             "card_name": "Wyrdwood Guardian",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Elemental Knight",
             "number": 124,
             "color_identity": "G",
@@ -1666,7 +1666,7 @@
         {
             "card_name": "Final Masquerade",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 83,
             "color_identity": "R",
@@ -1686,7 +1686,7 @@
         {
             "card_name": "Meditations on Devotion",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 16,
             "color_identity": "W",
@@ -1717,9 +1717,9 @@
         {
             "card_name": "Timelost Relict",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Dinosaur Spirit",
-            "number": 47,
+            "number": 46,
             "color_identity": "U",
             "cost": "{6}{U}{U}",
             "rules_text": "This spell costs {1} less to cast for each instant or sorcery card in your graveyard or that you own in exile.\nWard {2}\nIslandcycling {2}",
@@ -1737,7 +1737,7 @@
         {
             "card_name": "Bloodscent Tracker",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Werewolf",
             "number": 101,
             "color_identity": "G",
@@ -1757,7 +1757,7 @@
         {
             "card_name": "Wyrdwood Dryad",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Dryad",
             "number": 123,
             "color_identity": "G",
@@ -1777,7 +1777,7 @@
         {
             "card_name": "Field of Swords",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 155,
             "color_identity": "C",
@@ -1797,7 +1797,7 @@
         {
             "card_name": "Searing Brilliance",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 94,
             "color_identity": "R",
@@ -1817,7 +1817,7 @@
         {
             "card_name": "Fervent Bloodletter",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Centaur Knight",
             "number": 82,
             "color_identity": "R",
@@ -1837,7 +1837,7 @@
         {
             "card_name": "Forbidden Hex",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 60,
             "color_identity": "B",
@@ -1857,7 +1857,7 @@
         {
             "card_name": "The Meek and Many",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 17,
             "color_identity": "W",
@@ -1877,7 +1877,7 @@
         {
             "card_name": "Commandeered Barge",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Vehicle",
             "number": 29,
             "color_identity": "U",
@@ -1897,7 +1897,7 @@
         {
             "card_name": "Seek Unspoiled Lands",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 116,
             "color_identity": "G",
@@ -1917,7 +1917,7 @@
         {
             "card_name": "A Sliver of Her Might",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 71,
             "color_identity": "B",
@@ -1937,7 +1937,7 @@
         {
             "card_name": "Silverthread Spirit",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spirit",
             "number": 21,
             "color_identity": "W",
@@ -1957,7 +1957,7 @@
         {
             "card_name": "Soldier On",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 23,
             "color_identity": "W",
@@ -1977,7 +1977,7 @@
         {
             "card_name": "Stone of Swords",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 153,
             "color_identity": "C",
@@ -1997,7 +1997,7 @@
         {
             "card_name": "Perennial Penguins",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bird",
             "number": 114,
             "color_identity": "G",
@@ -2017,7 +2017,7 @@
         {
             "card_name": "Knight of Unanswered Wishes",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 37,
             "color_identity": "U",
@@ -2037,7 +2037,7 @@
         {
             "card_name": "Meditations on Obligation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 109,
             "color_identity": "G",
@@ -2068,7 +2068,7 @@
         {
             "card_name": "Knight's Last Wish",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 64,
             "color_identity": "B",
@@ -2088,7 +2088,7 @@
         {
             "card_name": "Strike As One",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 25,
             "color_identity": "W",
@@ -2108,7 +2108,7 @@
         {
             "card_name": "Lunar Reflection",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 38,
             "color_identity": "U",
@@ -2128,7 +2128,7 @@
         {
             "card_name": "Vitreous Drifter",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Rogue Knight",
             "number": 49,
             "color_identity": "U",
@@ -2148,7 +2148,7 @@
         {
             "card_name": "Her Gaze Weighs Heavy",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 86,
             "color_identity": "R",
@@ -2168,7 +2168,7 @@
         {
             "card_name": "A Heart Enraptured",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 62,
             "color_identity": "B",
@@ -2199,7 +2199,7 @@
         {
             "card_name": "Sworn Shortsword",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 154,
             "color_identity": "C",
@@ -2219,7 +2219,7 @@
         {
             "card_name": "Knight-Radiant",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 13,
             "color_identity": "W",
@@ -2239,7 +2239,7 @@
         {
             "card_name": "Wildpath Paragon",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 122,
             "color_identity": "G",
@@ -2259,7 +2259,7 @@
         {
             "card_name": "Duty Unending",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 107,
             "color_identity": "G",
@@ -2279,7 +2279,7 @@
         {
             "card_name": "Glasswork Champion",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 85,
             "color_identity": "R",
@@ -2299,7 +2299,7 @@
         {
             "card_name": "Concoction of Strength",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 103,
             "color_identity": "G",
@@ -2319,9 +2319,9 @@
         {
             "card_name": "Tainted-Shore Witch",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Warlock",
-            "number": 46,
+            "number": 45,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Noncreature spells you cast cost {1} less to cast.\nWhenever you cast a noncreature spell, tap target creature. If that spell was a Curse, put a stun counter on that creature and a +1/+1 counter on Tainted-Shore Witch.",
@@ -2339,7 +2339,7 @@
         {
             "card_name": "Fraying Star-Guide",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Scout",
             "number": 33,
             "color_identity": "U",
@@ -2359,7 +2359,7 @@
         {
             "card_name": "Waters of the Lake",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 50,
             "color_identity": "U",
@@ -2379,7 +2379,7 @@
         {
             "card_name": "Pristine Blade",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 19,
             "color_identity": "W",
@@ -2399,7 +2399,7 @@
         {
             "card_name": "Fates Bound Forever",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 131,
             "color_identity": "WG",
@@ -2419,7 +2419,7 @@
         {
             "card_name": "Desperate Cradling",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 58,
             "color_identity": "B",
@@ -2439,7 +2439,7 @@
         {
             "card_name": "Silver Apostate",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
             "number": 20,
             "color_identity": "W",
@@ -2459,7 +2459,7 @@
         {
             "card_name": "A Millenium Under the Oath",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 110,
             "color_identity": "G",
@@ -2479,7 +2479,7 @@
         {
             "card_name": "Second Skin",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 115,
             "color_identity": "G",
@@ -2499,7 +2499,7 @@
         {
             "card_name": "Her Ladyship's Truth",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 35,
             "color_identity": "U",
@@ -2519,9 +2519,9 @@
         {
             "card_name": "The Stars Are Her Hands",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
-            "number": 45,
+            "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Enchant player\nWhenever a creature deals combat damage to enchanted player, that creature's controller draws a card.",
@@ -2550,7 +2550,7 @@
         {
             "card_name": "Rust-Souled Veteran",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 67,
             "color_identity": "B",
@@ -2570,9 +2570,9 @@
         {
             "card_name": "Safira, High Priestess",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 142,
+            "number": 143,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
             "rules_text": "When Safira enters, create a 2/2 white Knight creature token with vigilance.\nNoncreature spells you cast have bind a Knight. [i](Whenever you cast a noncreature spell, you may copy it and you may choose new targets for the copy. If you don't copy it, create a 2/2 white Knight creature token with vigilance.)[/i]",
@@ -2590,7 +2590,7 @@
         {
             "card_name": "The Waning of the Sun",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Enchantment",
             "number": 76,
             "color_identity": "B",
@@ -2610,7 +2610,7 @@
         {
             "card_name": "Umbrette, Peculiar Princess",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Warlock Noble",
             "number": 75,
             "color_identity": "B",
@@ -2630,7 +2630,7 @@
         {
             "card_name": "Sinking into the Lady's Grasp",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 22,
             "color_identity": "W",
@@ -2650,15 +2650,15 @@
         {
             "card_name": "The Many Oaths of Siobhan",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 135,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nI \u2014 Return target creature card from your graveyard to your hand.\nII \u2014 Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nIII \u2014 Each player sacrifices a creature.",
+            "rules_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nReturn target creature card from your graveyard to your hand.\nPut a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nEach player sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nI \u2014 Return target creature card from your graveyard to your hand.\nII \u2014 Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nIII \u2014 Each player sacrifices a creature.",
+            "special_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nReturn target creature card from your graveyard to your hand.\nPut a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nEach player sacrifices a creature.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -2670,7 +2670,7 @@
         {
             "card_name": "Sinewtail",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Rabbit Horror",
             "number": 117,
             "color_identity": "G",
@@ -2690,7 +2690,7 @@
         {
             "card_name": "Mooncursed Packleader",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Werewolf Knight",
             "number": 111,
             "color_identity": "G",
@@ -2710,7 +2710,7 @@
         {
             "card_name": "Feigned Innocence",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 59,
             "color_identity": "B",
@@ -2730,7 +2730,7 @@
         {
             "card_name": "Meditations on Truth",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 39,
             "color_identity": "U",
@@ -2761,7 +2761,7 @@
         {
             "card_name": "Answerer of Pleas",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 1,
             "color_identity": "W",
@@ -2781,7 +2781,7 @@
         {
             "card_name": "The Pale Riders of the Mire",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Knight",
             "number": 66,
             "color_identity": "B",
@@ -2801,7 +2801,7 @@
         {
             "card_name": "Knight of Refraction",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 36,
             "color_identity": "U",
@@ -2821,7 +2821,7 @@
         {
             "card_name": "Forsaken Paladin",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 84,
             "color_identity": "R",
@@ -2841,7 +2841,7 @@
         {
             "card_name": "Syr Grgkhshktsh, the Unruly",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Knight",
             "number": 96,
             "color_identity": "R",
@@ -2861,9 +2861,9 @@
         {
             "card_name": "Seal Beneath the Lake",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
-            "number": 144,
+            "number": 145,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
             "rules_text": "Bind a God [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a God creature token.)[/i]\nShuffle up to one target creature and up to two target cards from a single graveyard into their owners' libraries.",
@@ -2881,7 +2881,7 @@
         {
             "card_name": "Curse of Moonlight Sickness",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 56,
             "color_identity": "B",
@@ -2912,7 +2912,7 @@
         {
             "card_name": "Curse of Warping Flesh",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 31,
             "color_identity": "U",
@@ -2943,7 +2943,7 @@
         {
             "card_name": "Stir the Brew",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 120,
             "color_identity": "G",
@@ -2963,7 +2963,7 @@
         {
             "card_name": "Natural Beauty",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 112,
             "color_identity": "G",
@@ -2983,7 +2983,7 @@
         {
             "card_name": "War-Hardened Headhunter",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Soldier Knight",
             "number": 98,
             "color_identity": "R",
@@ -3003,7 +3003,7 @@
         {
             "card_name": "Questing Vessel",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Vehicle",
             "number": 150,
             "color_identity": "C",
@@ -3023,7 +3023,7 @@
         {
             "card_name": "Familiar's Watch",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 32,
             "color_identity": "U",
@@ -3043,7 +3043,7 @@
         {
             "card_name": "Keeper of the Grail",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
             "number": 12,
             "color_identity": "W",
@@ -3063,7 +3063,7 @@
         {
             "card_name": "Crystal Clear",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 129,
             "color_identity": "UR",
@@ -3083,7 +3083,7 @@
         {
             "card_name": "Aneaena, Timeless Hermit",
             "color": "BG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Hag Warlock",
             "number": 126,
             "color_identity": "BG",
@@ -3103,7 +3103,7 @@
         {
             "card_name": "Hallowed Shieldbearer",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Knight",
             "number": 61,
             "color_identity": "B",
@@ -3123,7 +3123,7 @@
         {
             "card_name": "Helpful Silversmith",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 10,
             "color_identity": "W",
@@ -3143,7 +3143,7 @@
         {
             "card_name": "Ancient Lore",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 52,
             "color_identity": "B",
@@ -3163,7 +3163,7 @@
         {
             "card_name": "Dressed to Kill",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 80,
             "color_identity": "R",
@@ -3183,7 +3183,7 @@
         {
             "card_name": "Shroud of Moths",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 70,
             "color_identity": "B",
@@ -3203,7 +3203,7 @@
         {
             "card_name": "Accursed Astrologist",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Insect Warlock",
             "number": 51,
             "color_identity": "B",
@@ -3223,7 +3223,7 @@
         {
             "card_name": "Sow the Seeds of Glory",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 119,
             "color_identity": "G",
@@ -3243,7 +3243,7 @@
         {
             "card_name": "Lena of the Lunar Eclipse",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Avatar Knight",
             "number": 132,
             "color_identity": "WG",
@@ -3263,7 +3263,7 @@
         {
             "card_name": "Guiding Light",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 9,
             "color_identity": "W",
@@ -3283,7 +3283,7 @@
         {
             "card_name": "Ravaine's Loyalist",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Knight",
             "number": 91,
             "color_identity": "R",
@@ -3303,7 +3303,7 @@
         {
             "card_name": "Curse of Overwhelming Ennui",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
             "number": 5,
             "color_identity": "W",
@@ -3333,12 +3333,12 @@
         },
         {
             "card_name": "Vicious Cycle",
-            "color": "UB",
-            "rarity": "cube",
+            "color": "U",
+            "rarity": "rare",
             "type": "Enchantment",
-            "number": 149,
-            "color_identity": "UB",
-            "cost": "{U}{B}",
+            "number": 48,
+            "color_identity": "U",
+            "cost": "{1}{U}",
             "rules_text": "If you would draw a card while your library has no cards in it, instead shuffle your graveyard and any number of cards you own in exile into your library, then draw seven cards.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]\nWhen you cycle this card, mill three cards.",
             "flavor_text": "[i]Everything changes, and in doing so, nothing will.[/i]",
             "pt": "",
@@ -3350,7 +3350,67 @@
             "alias": "",
             "position": "159",
             "notes": "Day 31 \u2014 Infinity"
+        },
+        {
+            "card_name": "Caelia, the South Star (Promo)",
+            "color": "WB",
+            "rarity": "masterpiece",
+            "type": "Legendary Creature \u2014 Human Warlock",
+            "number": 1,
+            "color_identity": "WB",
+            "cost": "{1}{W}{B}",
+            "rules_text": "Whenever an enchantment spell you control resolves, draw a card and create a 1/1 white Spirit creature token with lifelink.\nWhenever an Omen spell you control resolves, draw a card and create a 1/1 black Spirit creature token with deathtouch and \u201cThis creature can't block.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LDT",
+            "loyalty": "",
+            "artist": "Anna Christenson",
+            "alias": "",
+            "position": "160",
+            "notes": "!exportname Caelia, the South Star (Promo)"
+        },
+        {
+            "card_name": "Ruin to be Wrought (Promo)",
+            "color": "WBR",
+            "rarity": "masterpiece",
+            "type": "Sorcery",
+            "number": 2,
+            "color_identity": "WBR",
+            "cost": "{1}{R}{W}{B}",
+            "rules_text": "Each player chooses a creature they control, then sacrifices the rest.\nUnseal. Then if the seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LDT",
+            "loyalty": "",
+            "artist": "Sebastian Giacobino",
+            "alias": "",
+            "position": "161",
+            "notes": "!exportname Ruin to be Wrought (Promo)"
+        },
+        {
+            "card_name": "The Red Grail (Promo)",
+            "color": "",
+            "rarity": "masterpiece",
+            "type": "Legendary Artifact",
+            "number": 3,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "Indestructible\nWhen The Red Grail enters, if it was cast, you may put a creature card with mana value less than or equal to the number of lands you control from your hand onto the battlefield.\n{1}, {T}: Put a +1/+1 counter on target creature. It gains indestructible until end of turn. You lose life equal to that creature's power.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LDT",
+            "loyalty": "",
+            "artist": "Tiago Sousa",
+            "alias": "",
+            "position": "162",
+            "notes": "!exportname The Red Grail (Promo)"
         }
     ],
-    "version": 4
+    "version": 5
 }

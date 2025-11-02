@@ -532,11 +532,11 @@
         "position": "81"
     },
     {
-        "card_name": "Parting Calm Waters",
+        "card_name": "Secrets in the Stars",
         "number": 41,
         "shape": "normal",
         "set": "LDT",
-        "position": "16"
+        "position": "75"
     },
     {
         "card_name": "The Pale Riders of the Mire",
@@ -567,11 +567,11 @@
         "position": "89"
     },
     {
-        "card_name": "Secrets in the Stars",
+        "card_name": "Seeker of Cosmic Ideals",
         "number": 42,
         "shape": "normal",
         "set": "LDT",
-        "position": "75"
+        "position": "6"
     },
     {
         "card_name": "Rust-Souled Veteran",
@@ -602,11 +602,11 @@
         "position": "24"
     },
     {
-        "card_name": "Seeker of Cosmic Ideals",
+        "card_name": "The Seeking of a Legend",
         "number": 43,
-        "shape": "normal",
+        "shape": "saga",
         "set": "LDT",
-        "position": "6"
+        "position": "54"
     },
     {
         "card_name": "The Sealing of a God",
@@ -637,11 +637,11 @@
         "position": "114"
     },
     {
-        "card_name": "The Seeking of a Legend",
+        "card_name": "The Stars Are Her Hands",
         "number": 44,
-        "shape": "saga",
+        "shape": "adventure",
         "set": "LDT",
-        "position": "54"
+        "position": "121"
     },
     {
         "card_name": "Shadowreathed Champion",
@@ -672,11 +672,11 @@
         "position": "117"
     },
     {
-        "card_name": "The Stars Are Her Hands",
+        "card_name": "Tainted-Shore Witch",
         "number": 45,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "LDT",
-        "position": "121"
+        "position": "111"
     },
     {
         "card_name": "Shroud of Moths",
@@ -707,11 +707,11 @@
         "position": "93"
     },
     {
-        "card_name": "Tainted-Shore Witch",
+        "card_name": "Timelost Relict",
         "number": 46,
         "shape": "normal",
         "set": "LDT",
-        "position": "111"
+        "position": "82"
     },
     {
         "card_name": "A Sliver of Her Might",
@@ -742,11 +742,11 @@
         "position": "126"
     },
     {
-        "card_name": "Timelost Relict",
+        "card_name": "Venerable Counsel",
         "number": 47,
         "shape": "normal",
         "set": "LDT",
-        "position": "82"
+        "position": "19"
     },
     {
         "card_name": "Sunken Chorus",
@@ -777,11 +777,11 @@
         "position": "94"
     },
     {
-        "card_name": "Venerable Counsel",
+        "card_name": "Vicious Cycle",
         "number": 48,
         "shape": "normal",
         "set": "LDT",
-        "position": "19"
+        "position": "159"
     },
     {
         "card_name": "Syr Llyr, Grief's Twilight",
@@ -900,7 +900,7 @@
     "a->gold",
     {
         "card_name": "Seal Beneath the Lake",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "LDT",
         "position": "137"
@@ -920,7 +920,11 @@
         "position": "69"
     },
     {
-        "card_name": "e"
+        "card_name": "Leonum Non Refert Quid Oves Censeant",
+        "number": 133,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "59"
     },
     {
         "card_name": "Fates Bound Forever",
@@ -934,14 +938,14 @@
     },
     {
         "card_name": "Siobhan, Who Failed",
-        "number": 145,
+        "number": 146,
         "shape": "planeswalker",
         "set": "LDT",
         "position": "47"
     },
     {
         "card_name": "Undying Loyalist",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "LDT",
         "position": "77"
@@ -961,7 +965,7 @@
     },
     {
         "card_name": "Syr Yseult of Seven Chimes",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "LDT",
         "position": "13"
@@ -978,25 +982,6 @@
         "shape": "normal",
         "set": "LDT",
         "position": "70"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vicious Cycle",
-        "number": 149,
-        "shape": "normal",
-        "set": "LDT",
-        "position": "159"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1036,47 +1021,24 @@
     },
     {
         "card_name": "Schism",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "LDT",
         "position": "66"
     },
     {
-        "card_name": "Ride Ahead",
-        "number": 139,
+        "card_name": "Parting Calm Waters",
+        "number": 138,
         "shape": "normal",
         "set": "LDT",
-        "position": "44"
+        "position": "16"
     },
     {
         "card_name": "Rise, Again and Again",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "LDT",
         "position": "72"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Leonum Non Refert Quid Oves Censeant",
-        "number": 133,
-        "shape": "normal",
-        "set": "LDT",
-        "position": "59"
-    },
-    {
-        "card_name": "Starlight Titan",
-        "number": 146,
-        "shape": "normal",
-        "set": "LDT",
-        "position": "73"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1089,10 +1051,18 @@
         "position": "71"
     },
     {
-        "card_name": "e"
+        "card_name": "Starlight Titan",
+        "number": 147,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "73"
     },
     {
-        "card_name": "e"
+        "card_name": "Ride Ahead",
+        "number": 140,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "44"
     },
     {
         "card_name": "er"
@@ -1118,21 +1088,21 @@
     },
     {
         "card_name": "Ravaine, Heir Eternal",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "LDT",
         "position": "33"
     },
     {
         "card_name": "Ruin to Be Wrought",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "LDT",
         "position": "15"
     },
     {
         "card_name": "Safira, High Priestess",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "LDT",
         "position": "123"
@@ -1292,6 +1262,46 @@
         "shape": "token",
         "set": "LDT",
         "position": "22"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "The Red Grail (Promo)",
+        "number": 3,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "162"
+    },
+    {
+        "card_name": "Caelia, the South Star (Promo)",
+        "number": 1,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "160"
+    },
+    {
+        "card_name": "Ruin to be Wrought (Promo)",
+        "number": 2,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "161"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
