@@ -1599,36 +1599,6 @@
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/159.png"
 			}
-		},
-		{
-			"name": "Caelia, the South Star",
-			"rarity": "special",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/LDT-files/img/160.png"
-			}
-		},
-		{
-			"name": "Ruin to Be Wrought",
-			"rarity": "special",
-			"mana_cost": "{1}{R}{W}{B}",
-			"type": "Sorcery",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/LDT-files/img/161.png"
-			}
-		},
-		{
-			"name": "The Red Grail",
-			"rarity": "special",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/LDT-files/img/162.png"
-			}
 		}
 	]
 
@@ -1788,6 +1758,3 @@
 	1 Ravaine's Loyalist
 	1 Curse of Overwhelming Ennui
 	1 Vicious Cycle
-	1 Caelia, the South Star
-	1 Ruin to Be Wrought
-	1 The Red Grail
