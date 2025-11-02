@@ -1,4 +1,53 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Caelia, the South Star added.
+Ruin to Be Wrought added.
+The Red Grail added.
+
+
+The Sealing of a God
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+III — Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This gains “Enchanted creature gets -2/-2.”
+II — This gains “Enchanted creature can't block.”
+III — Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II, III — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+II — Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II, III — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+II — Each player sacrifices a creature.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

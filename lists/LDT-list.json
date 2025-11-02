@@ -1015,10 +1015,10 @@
     },
     {
         "card_name": "Caelia, the South Star",
-        "number": 127,
+        "number": 1,
         "shape": "normal",
         "set": "LDT",
-        "position": "11"
+        "position": "160"
     },
     {
         "card_name": "Crystal Clear",
@@ -1110,6 +1110,13 @@
         "card_name": "er"
     },
     {
+        "card_name": "Ruin to Be Wrought",
+        "number": 2,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "161"
+    },
+    {
         "card_name": "Mistress of the Hunt",
         "number": 136,
         "shape": "normal",
@@ -1122,13 +1129,6 @@
         "shape": "normal",
         "set": "LDT",
         "position": "33"
-    },
-    {
-        "card_name": "Ruin to Be Wrought",
-        "number": 141,
-        "shape": "normal",
-        "set": "LDT",
-        "position": "15"
     },
     {
         "card_name": "Safira, High Priestess",
@@ -1177,18 +1177,18 @@
     },
     "a->colorless",
     {
+        "card_name": "The Red Grail",
+        "number": 3,
+        "shape": "normal",
+        "set": "LDT",
+        "position": "162"
+    },
+    {
         "card_name": "Questing Vessel",
         "number": 150,
         "shape": "normal",
         "set": "LDT",
         "position": "143"
-    },
-    {
-        "card_name": "The Red Grail",
-        "number": 151,
-        "shape": "normal",
-        "set": "LDT",
-        "position": "18"
     },
     {
         "card_name": "Scrying Sheet",
