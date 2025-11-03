@@ -1181,7 +1181,7 @@
 			}
 		},
 		{
-			"name": "A Millenium Under the Oath",
+			"name": "A Millennium Under the Oath",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
@@ -1746,7 +1746,7 @@
 	2 Fates Bound Forever
 	2 Desperate Cradling
 	2 Silver Apostate
-	2 A Millenium Under the Oath
+	2 A Millennium Under the Oath
 	2 Second Skin
 	2 Her Ladyship's Truth
 	2 The Stars Are Her Hands
@@ -1904,7 +1904,7 @@
 	2 Fates Bound Forever
 	2 Desperate Cradling
 	2 Silver Apostate
-	2 A Millenium Under the Oath
+	2 A Millennium Under the Oath
 	2 Second Skin
 	2 Her Ladyship's Truth
 	2 The Stars Are Her Hands
@@ -2060,7 +2060,7 @@
 	7 Fates Bound Forever
 	7 Desperate Cradling
 	7 Silver Apostate
-	7 A Millenium Under the Oath
+	7 A Millennium Under the Oath
 	7 Second Skin
 	7 Her Ladyship's Truth
 	7 The Stars Are Her Hands
