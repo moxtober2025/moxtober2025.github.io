@@ -119,11 +119,11 @@
         "position": "90"
     },
     {
-        "card_name": "Callous Sellsword",
+        "card_name": "Catacomb Hoarder",
         "number": 54,
         "shape": "normal",
         "set": "LDT",
-        "position": "39"
+        "position": "68"
     },
     {
         "card_name": "Dressed to Kill",
@@ -154,11 +154,11 @@
         "position": "28"
     },
     {
-        "card_name": "Catacomb Hoarder",
+        "card_name": "Curse of Moonlight Sickness",
         "number": 55,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "LDT",
-        "position": "68"
+        "position": "138"
     },
     {
         "card_name": "Face of Animosity",
@@ -189,11 +189,11 @@
         "position": "139"
     },
     {
-        "card_name": "Curse of Moonlight Sickness",
+        "card_name": "Deconstruct Identity",
         "number": 56,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "LDT",
-        "position": "138"
+        "position": "40"
     },
     {
         "card_name": "Fervent Bloodletter",
@@ -224,11 +224,11 @@
         "position": "144"
     },
     {
-        "card_name": "Deconstruct Identity",
+        "card_name": "Desperate Cradling",
         "number": 57,
         "shape": "normal",
         "set": "LDT",
-        "position": "40"
+        "position": "116"
     },
     {
         "card_name": "Final Masquerade",
@@ -259,11 +259,11 @@
         "position": "112"
     },
     {
-        "card_name": "Desperate Cradling",
+        "card_name": "Feigned Innocence",
         "number": 58,
         "shape": "normal",
         "set": "LDT",
-        "position": "116"
+        "position": "130"
     },
     {
         "card_name": "Forsaken Paladin",
@@ -294,11 +294,11 @@
         "position": "42"
     },
     {
-        "card_name": "Feigned Innocence",
+        "card_name": "Forbidden Hex",
         "number": 59,
         "shape": "normal",
         "set": "LDT",
-        "position": "130"
+        "position": "88"
     },
     {
         "card_name": "Glasswork Champion",
@@ -329,11 +329,11 @@
         "position": "120"
     },
     {
-        "card_name": "Forbidden Hex",
+        "card_name": "Hallowed Shieldbearer",
         "number": 60,
         "shape": "normal",
         "set": "LDT",
-        "position": "88"
+        "position": "148"
     },
     {
         "card_name": "Her Gaze Weighs Heavy",
@@ -364,11 +364,11 @@
         "position": "134"
     },
     {
-        "card_name": "Hallowed Shieldbearer",
+        "card_name": "A Heart Enraptured",
         "number": 61,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "LDT",
-        "position": "148"
+        "position": "104"
     },
     {
         "card_name": "Make Prey of Them",
@@ -399,11 +399,11 @@
         "position": "97"
     },
     {
-        "card_name": "A Heart Enraptured",
+        "card_name": "Hollow Worshipper",
         "number": 62,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "LDT",
-        "position": "104"
+        "position": "30"
     },
     {
         "card_name": "Meditations on Yearning",
@@ -434,11 +434,11 @@
         "position": "101"
     },
     {
-        "card_name": "Hollow Worshipper",
+        "card_name": "Knight's Last Wish",
         "number": 63,
         "shape": "normal",
         "set": "LDT",
-        "position": "30"
+        "position": "99"
     },
     {
         "card_name": "Nyneve, Daybreak's Promise",
@@ -469,11 +469,11 @@
         "position": "131"
     },
     {
-        "card_name": "Knight's Last Wish",
+        "card_name": "Meditations on Hunger",
         "number": 64,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "LDT",
-        "position": "99"
+        "position": "4"
     },
     {
         "card_name": "Obsession",
@@ -504,11 +504,11 @@
         "position": "65"
     },
     {
-        "card_name": "Meditations on Hunger",
+        "card_name": "Opportunistic Sellsword",
         "number": 65,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "LDT",
-        "position": "4"
+        "position": "39"
     },
     {
         "card_name": "Ravaine's Loyalist",
@@ -1161,7 +1161,7 @@
         "position": "18"
     },
     {
-        "card_name": "Scrying Sheet",
+        "card_name": "Scrying Slab",
         "number": 152,
         "shape": "normal",
         "set": "LDT",

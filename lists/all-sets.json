@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "1ND",
+            "set_name": "One Night in the Dragon\u2019s Den",
+            "formats": ""
+        },
+        {
             "set_code": "LDT",
             "set_name": "Last Days of the Immortal Table",
             "formats": ""

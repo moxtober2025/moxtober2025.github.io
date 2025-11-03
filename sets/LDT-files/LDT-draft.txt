@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/4.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/30.png"
 			}
@@ -391,11 +391,11 @@
 			}
 		},
 		{
-			"name": "Callous Sellsword",
+			"name": "Opportunistic Sellsword",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "54",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/40.png"
 			}
@@ -451,7 +451,7 @@
 			}
 		},
 		{
-			"name": "Scrying Sheet",
+			"name": "Scrying Slab",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
@@ -685,7 +685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Dragon Spirit",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/68.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/88.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/99.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/104.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/116.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/130.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/138.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Knight",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/LDT-files/img/148.png"
 			}
@@ -1667,13 +1667,13 @@
 	2 All Your Many Lives
 	2 Blushing Bride
 	2 Brush with Divinity
-	2 Callous Sellsword
+	2 Opportunistic Sellsword
 	2 Deconstruct Identity
 	2 Duty
 	2 Her Ladyship The Moon
 	2 Meditations on Yearning
 	2 Ride Ahead
-	2 Scrying Sheet
+	2 Scrying Slab
 	2 Shadowreathed Champion
 	2 Siobhan, Who Failed
 	2 Steel Your Heart
@@ -1825,13 +1825,13 @@
 	2 All Your Many Lives
 	2 Blushing Bride
 	2 Brush with Divinity
-	2 Callous Sellsword
+	2 Opportunistic Sellsword
 	2 Deconstruct Identity
 	2 Duty
 	2 Her Ladyship The Moon
 	2 Meditations on Yearning
 	2 Ride Ahead
-	2 Scrying Sheet
+	2 Scrying Slab
 	2 Shadowreathed Champion
 	2 Siobhan, Who Failed
 	2 Steel Your Heart
@@ -1981,13 +1981,13 @@
 	7 All Your Many Lives
 	7 Blushing Bride
 	7 Brush with Divinity
-	7 Callous Sellsword
+	7 Opportunistic Sellsword
 	7 Deconstruct Identity
 	7 Duty
 	7 Her Ladyship The Moon
 	7 Meditations on Yearning
 	7 Ride Ahead
-	7 Scrying Sheet
+	7 Scrying Slab
 	7 Shadowreathed Champion
 	7 Siobhan, Who Failed
 	7 Steel Your Heart
