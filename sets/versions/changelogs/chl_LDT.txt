@@ -1,4 +1,107 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Her Ladyship The Moon
+rules_text: Flying, indestructible
+Her Ladyship The Moon isn't a creature unless the seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Flying, indestructible
+Her Ladyship The Moon isn't a creature unless the seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal.
+
+The Crowning of a Princess
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+
+The Sealing of a God
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+III — Enchanted creature's controller loses 2 life.
+IV — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+III — Enchanted creature's controller loses 2 life.
+IV — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+
+The Seeking of a Legend
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+
+The Weaving of a Star
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Opportunistic Sellsword added.
