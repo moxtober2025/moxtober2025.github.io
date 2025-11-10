@@ -1,4 +1,40 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Harmonious Viola
+rules_text: Masquerade [i](When this Equipment enters, manifest the top card of your library and attach this to it.)[/i]
+At the beginning of combat on your turn, if you control another creature with flying, equipped creature gains flying until end of turn. The same is true for first strike, vigilance, and lifelink.
+Equip {1}{W} => Masquerade [i](When this Equipment enters, manifest the top card of your library as a 2/2 and attach this to it.)[/i]
+At the beginning of combat on your turn, if you control another creature with flying, equipped creature gains flying until end of turn. The same is true for first strike, vigilance, and lifelink.
+Equip {1}{W}
+
+Witches' Broom
+rules_text: Masquerade [i](When this Equipment enters, manifest the top card of your library and attach this to it.)[/i]
+Equipped creature has flying, deathtouch, and lifelink.
+Equip {B} => Masquerade [i](When this Equipment enters, manifest the top card of your library as a 2/2 and attach this to it.)[/i]
+Equipped creature has flying, deathtouch, and lifelink.
+Equip {B}
+
+The First Crew
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+III — Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 black Rogue creature tokens with menace.
+Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+Sacrifice two creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+III — Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two 1/1 black Rogue creature tokens with menace.
+Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+Sacrifice two creatures.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Plot Unfolding added.

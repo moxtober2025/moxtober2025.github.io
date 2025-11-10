@@ -1,23 +1,13 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "A Worthy Cause",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Enchantment",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/0.png"
-			}
-		},
-		{
 			"name": "Anton Sheer, Moxite Man",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "63",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/1.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/0.png"
 			}
 		},
 		{
@@ -25,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Drake Minion",
-			"collector_number": "22",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/2.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/1.png"
 			}
 		},
 		{
@@ -35,9 +25,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Mutant Rogue",
-			"collector_number": "102",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/3.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/2.png"
 			}
 		},
 		{
@@ -45,9 +35,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/4.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/3.png"
 			}
 		},
 		{
@@ -55,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Scientist Minion",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/5.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/4.png"
 			}
 		},
 		{
@@ -65,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Dryad Ranger",
-			"collector_number": "107",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/6.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/5.png"
 			}
 		},
 		{
@@ -75,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Instant",
-			"collector_number": "108",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/7.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/6.png"
 			}
 		},
 		{
@@ -85,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Doctor",
-			"collector_number": "49",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/8.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/7.png"
 			}
 		},
 		{
@@ -95,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/9.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/8.png"
 			}
 		},
 		{
@@ -105,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Minion",
-			"collector_number": "69",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/10.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/9.png"
 			}
 		},
 		{
@@ -115,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact Creature — Cyborg Minion",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/11.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/10.png"
 			}
 		},
 		{
@@ -125,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Plant Dog Minion",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/12.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/11.png"
 			}
 		},
 		{
@@ -135,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Minion",
-			"collector_number": "115",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/13.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/12.png"
 			}
 		},
 		{
@@ -145,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "116",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/14.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/13.png"
 			}
 		},
 		{
@@ -155,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "72",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/15.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/14.png"
 			}
 		},
 		{
@@ -165,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "90",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/16.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/15.png"
 			}
 		},
 		{
@@ -177,17 +167,17 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/17.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/16.png"
 			}
 		},
 		{
-			"name": "Pretty Penny, Aurumancer",
+			"name": "Pretty Penny, Auramancer",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "127",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/18.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/17.png"
 			}
 		},
 		{
@@ -197,7 +187,7 @@
 			"type": "Creature — Human Warlock Minion",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/19.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/18.png"
 			}
 		},
 		{
@@ -205,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/20.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/19.png"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Creature — Human Soldier Minion",
-			"collector_number": "56",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/21.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/20.png"
 			}
 		},
 		{
@@ -225,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "132",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/22.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/21.png"
 			}
 		},
 		{
@@ -235,9 +225,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "136",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/23.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/22.png"
 			}
 		},
 		{
@@ -245,9 +235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "138",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/24.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/23.png"
 			}
 		},
 		{
@@ -255,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/25.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/24.png"
 			}
 		},
 		{
@@ -267,7 +257,7 @@
 			"type": "Legendary Enchantment — Aura",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/26.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/25.png"
 			}
 		},
 		{
@@ -275,29 +265,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "94",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/27.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/26.png"
 			}
 		},
 		{
 			"name": "Tux.exe, Version 3.14",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}{B}",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Artifact Creature — Robot Detective",
-			"collector_number": "140",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/28.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/27.png"
 			}
 		},
 		{
 			"name": "Vigilante's Hopalong",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Rabbit Minion",
-			"collector_number": "142",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/29.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/28.png"
 			}
 		},
 		{
@@ -305,19 +295,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Artifact Creature — Cyborg",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/30.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/29.png"
 			}
 		},
 		{
 			"name": "Better in Pairs",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "23",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/31.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/30.png"
 			}
 		},
 		{
@@ -325,9 +315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Mutant",
-			"collector_number": "101",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/32.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/31.png"
 			}
 		},
 		{
@@ -335,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "44",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/33.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/32.png"
 			}
 		},
 		{
@@ -347,7 +337,7 @@
 			"type": "Artifact Creature — Rabbit",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/34.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/33.png"
 			}
 		},
 		{
@@ -355,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "66",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/35.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/34.png"
 			}
 		},
 		{
@@ -365,9 +355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/36.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/35.png"
 			}
 		},
 		{
@@ -375,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/37.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/36.png"
 			}
 		},
 		{
@@ -385,9 +375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "67",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/38.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/37.png"
 			}
 		},
 		{
@@ -395,9 +385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/39.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/38.png"
 			}
 		},
 		{
@@ -405,9 +395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/40.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/39.png"
 			}
 		},
 		{
@@ -417,7 +407,7 @@
 			"type": "Legendary Land",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/41.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/40.png"
 			}
 		},
 		{
@@ -425,9 +415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/42.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/41.png"
 			}
 		},
 		{
@@ -435,9 +425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/43.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/42.png"
 			}
 		},
 		{
@@ -445,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "51",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/44.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/43.png"
 			}
 		},
 		{
@@ -455,19 +445,19 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/45.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/44.png"
 			}
 		},
 		{
 			"name": "Karate King, Final Threat",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "53",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/46.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/45.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Shark Minion",
-			"collector_number": "88",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/47.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/46.png"
 			}
 		},
 		{
@@ -485,19 +475,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "54",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/48.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/47.png"
 			}
 		},
 		{
 			"name": "Lord Dissonance",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Avatar Performer",
-			"collector_number": "118",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/49.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/48.png"
 			}
 		},
 		{
@@ -505,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "119",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/50.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/49.png"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{R}",
 			"type": "Legendary Artifact Creature — Dragon",
-			"collector_number": "121",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/51.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/50.png"
 			}
 		},
 		{
@@ -525,9 +515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "123",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/52.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/51.png"
 			}
 		},
 		{
@@ -535,19 +525,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "124",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/53.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/52.png"
 			}
 		},
 		{
 			"name": "Moon Man, First Hero",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "125",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/54.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/53.png"
 			}
 		},
 		{
@@ -555,9 +545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Zombie Pilot",
-			"collector_number": "75",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/55.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/54.png"
 			}
 		},
 		{
@@ -565,9 +555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "33",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/56.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/55.png"
 			}
 		},
 		{
@@ -575,19 +565,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "139",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/57.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/56.png"
 			}
 		},
 		{
 			"name": "This Time, They Will Live",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "60",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/58.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/57.png"
 			}
 		},
 		{
@@ -595,9 +585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "61",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/59.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/58.png"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "79",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/60.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/59.png"
 			}
 		},
 		{
@@ -615,9 +605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "98",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/61.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/60.png"
 			}
 		},
 		{
@@ -627,7 +617,7 @@
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/62.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/61.png"
 			}
 		},
 		{
@@ -635,9 +625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/63.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/62.png"
 			}
 		},
 		{
@@ -645,9 +635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Elemental Human",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/64.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/63.png"
 			}
 		},
 		{
@@ -655,9 +645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "42",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/65.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/64.png"
 			}
 		},
 		{
@@ -665,9 +655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/66.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/65.png"
 			}
 		},
 		{
@@ -675,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Legendary Creature — Beast",
-			"collector_number": "43",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/67.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/66.png"
 			}
 		},
 		{
@@ -685,9 +675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/68.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/67.png"
 			}
 		},
 		{
@@ -695,9 +685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/69.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/68.png"
 			}
 		},
 		{
@@ -705,9 +695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "47",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/70.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/69.png"
 			}
 		},
 		{
@@ -717,17 +707,17 @@
 			"type": "Artifact",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/71.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/70.png"
 			}
 		},
 		{
 			"name": "Exile from the Hell Dimension",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Demon",
-			"collector_number": "109",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/72.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/71.png"
 			}
 		},
 		{
@@ -737,7 +727,7 @@
 			"type": "Legendary Creature — Faerie Elemental",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/73.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/72.png"
 			}
 		},
 		{
@@ -745,9 +735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/74.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/73.png"
 			}
 		},
 		{
@@ -755,9 +745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "87",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/75.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/74.png"
 			}
 		},
 		{
@@ -765,9 +755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/76.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/75.png"
 			}
 		},
 		{
@@ -775,19 +765,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/77.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/76.png"
 			}
 		},
 		{
 			"name": "Leap Into Action",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/78.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/77.png"
 			}
 		},
 		{
@@ -795,9 +785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "91",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/79.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/78.png"
 			}
 		},
 		{
@@ -805,9 +795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "74",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/80.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/79.png"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "128",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/81.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/80.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "129",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/82.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/81.png"
 			}
 		},
 		{
@@ -835,9 +825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Rogue Ranger",
-			"collector_number": "130",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/83.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/82.png"
 			}
 		},
 		{
@@ -845,9 +835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "78",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/84.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/83.png"
 			}
 		},
 		{
@@ -855,9 +845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "131",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/85.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/84.png"
 			}
 		},
 		{
@@ -865,9 +855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "59",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/86.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/85.png"
 			}
 		},
 		{
@@ -875,9 +865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Minion",
-			"collector_number": "45",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/87.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/86.png"
 			}
 		},
 		{
@@ -885,9 +875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "84",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/88.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/87.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Planeswalker — Okus",
-			"collector_number": "120",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/89.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/88.png"
 			}
 		},
 		{
@@ -907,7 +897,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/90.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/89.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/91.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/90.png"
 			}
 		},
 		{
@@ -925,9 +915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/92.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/91.png"
 			}
 		},
 		{
@@ -935,19 +925,19 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "80",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/93.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/92.png"
 			}
 		},
 		{
 			"name": "Ancient Power",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Instant",
-			"collector_number": "99",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/94.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/93.png"
 			}
 		},
 		{
@@ -957,7 +947,7 @@
 			"type": "Artifact",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/95.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/94.png"
 			}
 		},
 		{
@@ -965,9 +955,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/96.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/95.png"
 			}
 		},
 		{
@@ -977,7 +967,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/97.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/96.png"
 			}
 		},
 		{
@@ -985,9 +975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment",
-			"collector_number": "46",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/98.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/97.png"
 			}
 		},
 		{
@@ -995,9 +985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/99.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/98.png"
 			}
 		},
 		{
@@ -1005,9 +995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/100.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/99.png"
 			}
 		},
 		{
@@ -1015,9 +1005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "86",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/101.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/100.png"
 			}
 		},
 		{
@@ -1025,9 +1015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Merfolk Minion",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/102.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/101.png"
 			}
 		},
 		{
@@ -1035,9 +1025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/103.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/102.png"
 			}
 		},
 		{
@@ -1047,7 +1037,7 @@
 			"type": "Creature — Mutant Minion",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/104.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/103.png"
 			}
 		},
 		{
@@ -1055,9 +1045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "76",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/105.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/104.png"
 			}
 		},
 		{
@@ -1065,9 +1055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Hero",
-			"collector_number": "95",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/106.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/105.png"
 			}
 		},
 		{
@@ -1075,9 +1065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elemental Minion",
-			"collector_number": "58",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/107.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/106.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/108.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/107.png"
 			}
 		},
 		{
@@ -1097,7 +1087,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/109.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/108.png"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/110.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/109.png"
 			}
 		},
 		{
@@ -1115,9 +1105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Creature — Elk Wolf Spirit",
-			"collector_number": "81",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/111.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/110.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/112.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/111.png"
 			}
 		},
 		{
@@ -1135,9 +1125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/113.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/112.png"
 			}
 		},
 		{
@@ -1145,9 +1135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/114.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/113.png"
 			}
 		},
 		{
@@ -1155,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "106",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/115.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/114.png"
 			}
 		},
 		{
@@ -1165,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/116.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/115.png"
 			}
 		},
 		{
@@ -1175,9 +1165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/117.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/116.png"
 			}
 		},
 		{
@@ -1187,7 +1177,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/118.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/117.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/119.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/118.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Bird",
-			"collector_number": "113",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/120.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/119.png"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/121.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/120.png"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "70",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/122.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/121.png"
 			}
 		},
 		{
@@ -1235,19 +1225,19 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "89",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/123.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/122.png"
 			}
 		},
 		{
 			"name": "Lumin Starbright",
 			"rarity": "rare",
-			"mana_cost": "{G/W}",
-			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "147",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Insect Druid",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/124.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/123.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "73",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/125.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/124.png"
 			}
 		},
 		{
@@ -1267,7 +1257,7 @@
 			"type": "Sorcery",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/126.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/125.png"
 			}
 		},
 		{
@@ -1275,9 +1265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "93",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/127.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/126.png"
 			}
 		},
 		{
@@ -1285,9 +1275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/128.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/127.png"
 			}
 		},
 		{
@@ -1295,29 +1285,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Robot Insect",
-			"collector_number": "57",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/129.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/128.png"
 			}
 		},
 		{
 			"name": "Split the Storm",
 			"rarity": "rare",
-			"mana_cost": "{X}{U}{U}{R}",
+			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/130.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/129.png"
 			}
 		},
 		{
 			"name": "Starborn Stomper",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}{W}{W}",
+			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Insect Beast",
-			"collector_number": "134",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/131.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/130.png"
 			}
 		},
 		{
@@ -1325,9 +1315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/132.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/131.png"
 			}
 		},
 		{
@@ -1335,9 +1325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "137",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/133.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/132.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/134.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/133.png"
 			}
 		},
 		{
@@ -1355,9 +1345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "36",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/135.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/134.png"
 			}
 		},
 		{
@@ -1365,9 +1355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Planeswalker",
-			"collector_number": "126",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/136.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/135.png"
 			}
 		},
 		{
@@ -1375,19 +1365,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/137.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/136.png"
 			}
 		},
 		{
 			"name": "Utter Annihilation",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/138.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/137.png"
 			}
 		},
 		{
@@ -1395,9 +1385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/139.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/138.png"
 			}
 		},
 		{
@@ -1405,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/140.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/139.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Artifact",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/141.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/140.png"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "62",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/142.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/141.png"
 			}
 		},
 		{
@@ -1435,9 +1425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "40",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/143.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/142.png"
 			}
 		},
 		{
@@ -1445,9 +1435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/144.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/143.png"
 			}
 		},
 		{
@@ -1455,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/145.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/144.png"
 			}
 		},
 		{
@@ -1465,9 +1455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/146.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/145.png"
 			}
 		},
 		{
@@ -1475,9 +1465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Alien Rogue",
-			"collector_number": "50",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/147.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/146.png"
 			}
 		},
 		{
@@ -1485,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Alien Warrior",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/148.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/147.png"
 			}
 		},
 		{
@@ -1495,9 +1485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/149.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/148.png"
 			}
 		},
 		{
@@ -1505,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Creature — Werewolf Warrior",
-			"collector_number": "92",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/150.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/149.png"
 			}
 		},
 		{
@@ -1517,7 +1507,7 @@
 			"type": "Artifact",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/151.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/150.png"
 			}
 		},
 		{
@@ -1525,9 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/152.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/151.png"
 			}
 		},
 		{
@@ -1535,9 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/153.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/152.png"
 			}
 		},
 		{
@@ -1545,9 +1535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://moxtober2025.github.io/sets/SHH-files/img/154.png"
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/153.png"
 			}
 		},
 		{
@@ -1555,7 +1545,17 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Rabbit Warrior",
-			"collector_number": "20",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://moxtober2025.github.io/sets/SHH-files/img/154.png"
+			}
+		},
+		{
+			"name": "Mr. E, Burning Question",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Inquisitor",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/155.png"
 			}
@@ -1563,7 +1563,6 @@
 	]
 
 [rare(1)]
-	2 A Worthy Cause
 	2 Anton Sheer, Moxite Man
 	2 Beebo, Swooping Guardian
 	2 Calamarie, the Octogarch
@@ -1581,7 +1580,7 @@
 	2 Love Interest
 	2 Lunar Manawave Project
 	2 Power of Flight
-	2 Pretty Penny, Aurumancer
+	2 Pretty Penny, Auramancer
 	2 Prodigious Protégé
 	2 Refract
 	2 Shooting Star
@@ -1718,10 +1717,10 @@
 	2 Renegade Geneticist
 	2 Unassuming Reporter
 	2 Valorous Bouncer
+	2 Mr. E, Burning Question
 [uncommon(3)]
 [common(7)]
 [foil(1)]
-	2 A Worthy Cause
 	2 Anton Sheer, Moxite Man
 	2 Beebo, Swooping Guardian
 	2 Calamarie, the Octogarch
@@ -1739,7 +1738,7 @@
 	2 Love Interest
 	2 Lunar Manawave Project
 	2 Power of Flight
-	2 Pretty Penny, Aurumancer
+	2 Pretty Penny, Auramancer
 	2 Prodigious Protégé
 	2 Refract
 	2 Shooting Star
@@ -1876,8 +1875,8 @@
 	2 Renegade Geneticist
 	2 Unassuming Reporter
 	2 Valorous Bouncer
+	2 Mr. E, Burning Question
 [wildcard(1)]
-	7 A Worthy Cause
 	7 Anton Sheer, Moxite Man
 	7 Beebo, Swooping Guardian
 	7 Calamarie, the Octogarch
@@ -1895,7 +1894,7 @@
 	7 Love Interest
 	7 Lunar Manawave Project
 	7 Power of Flight
-	7 Pretty Penny, Aurumancer
+	7 Pretty Penny, Auramancer
 	7 Prodigious Protégé
 	7 Refract
 	7 Shooting Star
@@ -2032,3 +2031,4 @@
 	7 Renegade Geneticist
 	7 Unassuming Reporter
 	7 Valorous Bouncer
+	7 Mr. E, Burning Question

@@ -9,31 +9,11 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": "A Worthy Cause",
-            "color": "",
-            "rarity": "rare",
-            "type": "Enchantment",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "{3}",
-            "rules_text": "Spend only mana of different colors to cast this spell.\nWhenever a creature you control enters, choose a Role type from among Lackey, Supporting, or [/i]Valiant[i], then create a token of the chosen type attached to that creature.",
-            "flavor_text": "[i]Everyone fights for something.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SHH",
-            "loyalty": "",
-            "artist": "Vincent Carrozza",
-            "alias": "",
-            "position": "0",
-            "notes": ""
-        },
-        {
             "card_name": "Anton Sheer, Moxite Man",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Artificer",
-            "number": 63,
+            "number": 66,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "Flying, haste\nWhenever Moxite Man attacks, exile the top X cards of your library, where X is the number of permanents attached to him. You may cast spells with mana value X or less from among the exiled cards without paying their mana costs.",
@@ -45,7 +25,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "1",
+            "position": "0",
             "notes": ""
         },
         {
@@ -53,7 +33,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Drake Minion",
-            "number": 22,
+            "number": 24,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Flying, vigilance\n{1}{U}, {T}: Exile another target creature you control and all permanents attached to it, then return that card to the battlefield tapped under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature.",
@@ -65,7 +45,7 @@
             "loyalty": "",
             "artist": "BloodOfDragons.net (Edited)",
             "alias": "",
-            "position": "2",
+            "position": "1",
             "notes": ""
         },
         {
@@ -73,7 +53,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Rogue",
-            "number": 102,
+            "number": 109,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Calamarie and Tentacles you control each have protection from modified creatures.\nWhenever Calamarie attacks, you may create a Lackey Role token attached to target creature defending player controls. If you do, create a 1/1 blue Tentacle creature token for each Lackey Role token you control.",
@@ -85,7 +65,7 @@
             "loyalty": "",
             "artist": "Peter Xiao",
             "alias": "",
-            "position": "3",
+            "position": "2",
             "notes": ""
         },
         {
@@ -93,7 +73,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 103,
+            "number": 110,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "Create a 4/4 colorless Vehicle artifact creature token with trample and haste. It must be blocked this turn if able. Sacrifice it at the beginning of the next end step.",
@@ -105,7 +85,7 @@
             "loyalty": "",
             "artist": "rafid sadman",
             "alias": "",
-            "position": "4",
+            "position": "3",
             "notes": ""
         },
         {
@@ -113,7 +93,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Human Scientist Minion",
-            "number": 26,
+            "number": 27,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "When this creature enters, if you cast it, tap all creatures target opponent controls. Those creatures don't untap during that player's next untap step.",
@@ -125,7 +105,7 @@
             "loyalty": "",
             "artist": "lap pun cheung",
             "alias": "",
-            "position": "5",
+            "position": "4",
             "notes": ""
         },
         {
@@ -133,7 +113,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dryad Ranger",
-            "number": 107,
+            "number": 114,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
             "rules_text": "Vigilance\nWhenever Dandylion becomes the target of a spell or ability you control for the first time each turn, you may have her become a white Plant with base power and toughness 1/1, lose all abilities, and gain flying and hexproof until end of turn.",
@@ -145,7 +125,7 @@
             "loyalty": "",
             "artist": "Egil Thompson",
             "alias": "",
-            "position": "6",
+            "position": "5",
             "notes": ""
         },
         {
@@ -153,7 +133,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Instant",
-            "number": 108,
+            "number": 115,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Choose one \u2014\n\u2022 Destroy target creature or enchantment you don't control.\n\u2022 Return target creature or enchantment card from your graveyard to the battlefield tapped with a finality counter on it.",
@@ -165,7 +145,7 @@
             "loyalty": "",
             "artist": "rebekah aikobo kong",
             "alias": "",
-            "position": "7",
+            "position": "6",
             "notes": ""
         },
         {
@@ -173,7 +153,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Doctor",
-            "number": 49,
+            "number": 53,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Whenever an enchantment you control enters, put a +1/+1 counter on Dr. Darkstar and surveil 1.\nOnce during each of your turns, you may cast an enchantment spell from your graveyard by paying life equal to its mana value rather than paying its mana cost. If you cast a spell this way, that enchantment enters with a finality counter on it.",
@@ -185,7 +165,7 @@
             "loyalty": "",
             "artist": "Mateusz Majewski",
             "alias": "",
-            "position": "8",
+            "position": "7",
             "notes": ""
         },
         {
@@ -193,7 +173,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 68,
+            "number": 72,
             "color_identity": "R",
             "cost": "{X}{R}",
             "rules_text": "Falling Star deals X damage to target creature. Exile a number of cards from the top of your library equal to the amount of excess damage dealt this way. Until the end of your next turn, you may play those cards.",
@@ -205,7 +185,7 @@
             "loyalty": "",
             "artist": "Skottie Young",
             "alias": "",
-            "position": "9",
+            "position": "8",
             "notes": ""
         },
         {
@@ -213,7 +193,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Minion",
-            "number": 69,
+            "number": 73,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "When this creature enters, create three 1/1 black Minion creature tokens.\nMinions and modified creatures you control have menace. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -225,7 +205,7 @@
             "loyalty": "",
             "artist": "piotr kupsc",
             "alias": "",
-            "position": "10",
+            "position": "9",
             "notes": ""
         },
         {
@@ -233,7 +213,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Cyborg Minion",
-            "number": 10,
+            "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Ward {2}\nOther modified creatures you control have ward {2}.\nWhenever you cast a spell that targets this creature, put a +1/+1 counter on each creature you control.",
@@ -245,7 +225,7 @@
             "loyalty": "",
             "artist": "Renato Spiller",
             "alias": "",
-            "position": "11",
+            "position": "10",
             "notes": ""
         },
         {
@@ -253,7 +233,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Plant Dog Minion",
-            "number": 12,
+            "number": 11,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "[i]Sidekick[/i] \u2014 Whenever this creature attacks with another creature with greater power, up to one target attacking creature with greater power gains indestructible until end of turn.",
@@ -265,7 +245,7 @@
             "loyalty": "",
             "artist": "TheRoguez",
             "alias": "",
-            "position": "12",
+            "position": "11",
             "notes": ""
         },
         {
@@ -273,7 +253,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Minion",
-            "number": 115,
+            "number": 121,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Menace\n[i]Sidekick[/i] \u2014 Whenever Interrobang attacks with another creature with greater power, reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and exile the other. Interrobang deals 1 damage to each opponent for each card exiled this way.",
@@ -285,7 +265,7 @@
             "loyalty": "",
             "artist": "Pixiv Id 26023086",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "notes": ""
         },
         {
@@ -293,7 +273,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 116,
+            "number": 122,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Flash\nEnchant creature\nEnchanted creature is an Illusion with base power and toughness 1/1 and indestructible in addition to its other types and abilities.",
@@ -305,7 +285,7 @@
             "loyalty": "",
             "artist": "Ravietta",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "notes": ""
         },
         {
@@ -313,7 +293,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Elf Citizen",
-            "number": 72,
+            "number": 76,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "This creature can't block.\nWhen this creature dies, up to one target creature you control deals damage equal to its power to another target creature.",
@@ -325,7 +305,7 @@
             "loyalty": "",
             "artist": "Carla Cordelia",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "notes": ""
         },
         {
@@ -333,7 +313,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 90,
+            "number": 95,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Enchant creature\nAs this Aura enters, choose Success or Failure.\n\u2022 Success \u2014 Enchanted creature has base power and toughness 6/6 and trample.\n\u2022 Failure \u2014 Enchanted creature has base power and toughness 2/2.\nEnchanted creature loses all other abilities and is a green Lizard Mutant creature.",
@@ -345,7 +325,7 @@
             "loyalty": "",
             "artist": "Peter Xiao",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "notes": ""
         },
         {
@@ -365,18 +345,18 @@
             "loyalty": "",
             "artist": "Lancercross",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "notes": ""
         },
         {
-            "card_name": "Pretty Penny, Aurumancer",
-            "color": "UB",
+            "card_name": "Pretty Penny, Auramancer",
+            "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 127,
-            "color_identity": "UB",
-            "cost": "{1}{U}{B}",
-            "rules_text": "Vigilance\nWhenever Pretty Penny becomes blocked by a creature, gain control of that creature. It becomes a Treasure artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color,\u201d and it loses all other abilities. [i](It's no longer a creature.This effect lasts indefinitely.)[/i]",
+            "number": 59,
+            "color_identity": "B",
+            "cost": "{4}{B}{B}{B}",
+            "rules_text": "Flash\nWard\u2014Sacrifice a modified creature.\nWhen Pretty Penny enters, destroy up to one target creature or enchantment you don't control.\nIf a creature or enchantment card would be put into an opponent's graveyard from the battlefield, instead exile it and create a Treasure token.",
             "flavor_text": "[i]\u201cAnother bauble for my collection.\u201d[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -385,7 +365,7 @@
             "loyalty": "",
             "artist": "koyamamichiru",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "notes": ""
         },
         {
@@ -405,7 +385,7 @@
             "loyalty": "",
             "artist": "Carla Cordelia",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "notes": ""
         },
         {
@@ -413,7 +393,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Instant",
-            "number": 77,
+            "number": 81,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Change the target of target spell or ability with a single target. If you change the target to a creature you control, copy that spell or ability. The copy targets another creature you control.",
@@ -425,7 +405,7 @@
             "loyalty": "",
             "artist": "rahim rahimi",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "notes": ""
         },
         {
@@ -433,7 +413,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Human Soldier Minion",
-            "number": 56,
+            "number": 60,
             "color_identity": "B",
             "cost": "{X}{B}{B}",
             "rules_text": "When this creature enters, up to one target creature gets -X/-X until end of turn.\nMinions and modified creatures you control have deathtouch. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -445,7 +425,7 @@
             "loyalty": "",
             "artist": "Natalie Olivari",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "notes": ""
         },
         {
@@ -453,7 +433,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 132,
+            "number": 137,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Enchant creature or land you control\nCreatures you control get +1/+1.\nEnchanted permanent has \u201c{T}: Add one mana of any color.\u201d",
@@ -465,7 +445,7 @@
             "loyalty": "",
             "artist": "Mingchen Shen",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "notes": ""
         },
         {
@@ -473,7 +453,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 136,
+            "number": 139,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "When this enchantment enters, draw a card.\nThe first spell you cast each turn that targets a creature you control costs {1} less to cast and can't be countered.\nThe first ability you activate each turn that targets a creature you control costs {1} less to activate and can't be countered.",
@@ -485,7 +465,7 @@
             "loyalty": "",
             "artist": "Meinarch",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": ""
         },
         {
@@ -493,7 +473,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 138,
+            "number": 141,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "As long as it's your turn, TeleKay has first strike.\nWhenever TeleKay deals combat damage to a creature, gain control of up to one target permanent attached to it, then attach it to TeleKay.\nWhenever TeleKay deals combat damage to a player, for each permanent attached to TeleKay, you gain 1 life and draw a card.",
@@ -505,7 +485,7 @@
             "loyalty": "",
             "artist": "Peter Xiao",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": ""
         },
         {
@@ -513,7 +493,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 111,
+            "number": 117,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Amass Minions X, where X is 2 plus the total power of modified creatures you control. [i](Put a +1/+1 counter on an Army you control. It's also a Minion. If you don't control an Army, create a 0/0 black Minion Army creature token first. Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -525,7 +505,7 @@
             "loyalty": "",
             "artist": "SIXMOREVODKA STUDIO",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "notes": ""
         },
         {
@@ -545,7 +525,7 @@
             "loyalty": "",
             "artist": "Kevin Spoonfish Lee Broberg (Edited)",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": ""
         },
         {
@@ -553,7 +533,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Pirate",
-            "number": 94,
+            "number": 99,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Flash\nVigilance, reach, trample\nWhenever The Overfisher deals combat damage to a creature with flying or a player, create that many tapped 1/1 blue Fish creature tokens.",
@@ -565,17 +545,17 @@
             "loyalty": "",
             "artist": "Jae Seung Cho",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "notes": ""
         },
         {
             "card_name": "Tux.exe, Version 3.14",
-            "color": "WB",
+            "color": "W",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot Detective",
-            "number": 140,
-            "color_identity": "WB",
-            "cost": "{4}{W}{B}",
+            "number": 19,
+            "color_identity": "W",
+            "cost": "{4}{W}{W}",
             "rules_text": "Pay 3 life: Tux.exe phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]\nWhenever a player casts a spell that targets Tux.exe or another creature you control, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cAnalyzing. . .\u201d[/i]",
             "pt": "4/4",
@@ -585,18 +565,18 @@
             "loyalty": "",
             "artist": "warosuOrg",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": ""
         },
         {
             "card_name": "Vigilante's Hopalong",
-            "color": "UR",
+            "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Rabbit Minion",
-            "number": 142,
-            "color_identity": "UR",
-            "cost": "{U}{R}",
-            "rules_text": "Haste\n[i]Sidekick[/i] \u2014 Whenever this creature attacks with another creature with greater power, you may have this creature becomes a copy of that creature, except it's a 2/2 Rabbit Minion, it isn't legendary, and it has this ability.",
+            "number": 43,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "[i]Sidekick[/i] \u2014 Whenever this creature attacks with another creature with greater power, you may have this creature becomes a copy of that creature, except it's a 2/2 Rabbit Minion, it isn't legendary, and it has this ability.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -605,7 +585,7 @@
             "loyalty": "",
             "artist": "Marshy",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": ""
         },
         {
@@ -613,7 +593,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Cyborg",
-            "number": 145,
+            "number": 146,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever Wyre or an Aura you control enters, surveil 1. If this is the first time this ability has resolved this turn, draw a card.\nEach modified creature you control has vigilance and \u201c{T}: Add one mana of any color.\u201d [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -625,17 +605,17 @@
             "loyalty": "",
             "artist": "Riot Games",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": ""
         },
         {
             "card_name": "Better in Pairs",
-            "color": "U",
+            "color": "WU",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 23,
-            "color_identity": "U",
-            "cost": "{1}{U}",
+            "number": 107,
+            "color_identity": "WU",
+            "cost": "{W}{U}",
             "rules_text": "Enchant creature\nIf a triggered ability of enchanted creature or a permanent you control attached to it triggers, that ability triggers an additional time.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -645,7 +625,7 @@
             "loyalty": "",
             "artist": "Manuel Castanon",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": ""
         },
         {
@@ -653,7 +633,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Mutant",
-            "number": 101,
+            "number": 108,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "As long as this creature is modified, it has trample and haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nWhenever this creature deals combat damage to a player, create a token that's a copy of it.\nAs long as you control four creatures named Biosymphony Project, you may cast spells without paying their mana costs.",
@@ -665,7 +645,7 @@
             "loyalty": "",
             "artist": "Donatien Meeus",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": ""
         },
         {
@@ -673,7 +653,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 44,
+            "number": 48,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever you cast a black spell, Cassian deals 1 damage to each opponent. Surveil 1.\nExhaust \u2014 {1}{B}: Create an X/X black Elemental creature token, where X is the number of black mana symbols among mana costs of cards in your graveyard. [i](Activate each exhaust ability only once.)[/i]",
@@ -685,7 +665,7 @@
             "loyalty": "",
             "artist": "freedom XI",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": ""
         },
         {
@@ -705,7 +685,7 @@
             "loyalty": "",
             "artist": "Kai Satoshi",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": ""
         },
         {
@@ -713,7 +693,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 66,
+            "number": 69,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nIf you casting a spell during combat causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
@@ -725,7 +705,7 @@
             "loyalty": "",
             "artist": "WTH153",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": ""
         },
         {
@@ -733,7 +713,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 105,
+            "number": 112,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Each player chooses a creature they control. Destroy the rest. Each player loses life equal to the total mana value of creatures they control.",
@@ -745,7 +725,7 @@
             "loyalty": "",
             "artist": "Michele Esposito",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -753,7 +733,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 28,
+            "number": 29,
             "color_identity": "U",
             "cost": "{U}{U}{U}",
             "rules_text": "Choose one\u2014\n\u2022 Counter target spell an opponent controls with mana value 3 or greater.\n\u2022 Draw three cards, then discard two cards.\n\u2022 Create a token that's a copy of target creature you control with mana value 3 or less.",
@@ -765,7 +745,7 @@
             "loyalty": "",
             "artist": "amirul hhf",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": "The Final Day"
         },
         {
@@ -773,7 +753,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 67,
+            "number": 70,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Flash\nWhen this enchantment enters, it deals 2 damage divided as you choose among one or two targets.\nWhenever a creature an opponent controls dies, this enchantment deals 1 damage to that player.",
@@ -785,7 +765,7 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": "Day 8"
         },
         {
@@ -793,7 +773,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 7,
+            "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n{4}{W}{W}, Exile this card from your graveyard: Until end of turn, the base power and toughness of each creature you control becomes equal to the number of creatures you control. Activate only as a sorcery.",
@@ -805,7 +785,7 @@
             "loyalty": "",
             "artist": "freedom XI",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "notes": "The Final Day"
         },
         {
@@ -813,7 +793,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 85,
+            "number": 89,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]\nSacrifice a creature with the greatest power among creatures you control if this spell wasn't kicked. Then draw cards equal to the greatest power among creatures you control.",
@@ -825,7 +805,7 @@
             "loyalty": "",
             "artist": "Peter Xiao",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": "The Final Day"
         },
         {
@@ -845,7 +825,7 @@
             "loyalty": "",
             "artist": "Madison Johnson",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "notes": ""
         },
         {
@@ -853,7 +833,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 31,
+            "number": 32,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "Counter target spell with mana value less than or equal to the greatest power among creatures you control.",
@@ -865,7 +845,7 @@
             "loyalty": "",
             "artist": "Feig-Art",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": "Day 12"
         },
         {
@@ -873,7 +853,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Human Scout",
-            "number": 11,
+            "number": 10,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Whenever you cast a legendary spell, create a 1/1 black Minion creature token. This ability triggers only once each turn.",
@@ -885,7 +865,7 @@
             "loyalty": "",
             "artist": "Javier Charro",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": ""
         },
         {
@@ -893,7 +873,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 51,
+            "number": 55,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature. Create a Treasure token.",
@@ -905,7 +885,7 @@
             "loyalty": "",
             "artist": "Andrea De Dominicis",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": ""
         },
         {
@@ -913,7 +893,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 52,
+            "number": 56,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Return target creature card from your graveyard to the battlefield. Until your next turn, that creature can't block and all damage that would be dealt to you is dealt to that creature instead.",
@@ -925,17 +905,17 @@
             "loyalty": "",
             "artist": "Clayton Henry",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "Day 2"
         },
         {
             "card_name": "Karate King, Final Threat",
-            "color": "B",
+            "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Samurai",
-            "number": 53,
-            "color_identity": "B",
-            "cost": "{2}{B}{B}",
+            "number": 123,
+            "color_identity": "BG",
+            "cost": "{2}{B}{G}",
             "rules_text": "When Karate King enters, destroy up to one other target creature. It's controller creates two tokens that are copies of it, except the tokens are 1/1 and aren't legendary.\nWhenever another legendary creature you control dies, draw a card.",
             "flavor_text": "[i]The first villain to slay the hero.[/i]",
             "pt": "3/2",
@@ -945,7 +925,7 @@
             "loyalty": "",
             "artist": "Justice Wong",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": ""
         },
         {
@@ -953,7 +933,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Shark Minion",
-            "number": 88,
+            "number": 92,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Whenever another creature you control enters, if that creature has greater power than this creature, put a +1/+1 counter on this creature.\n[i]Sidekick[/i] \u2014 Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.",
@@ -965,7 +945,7 @@
             "loyalty": "",
             "artist": "Biago D'Alessandro",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": ""
         },
         {
@@ -973,7 +953,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dragon",
-            "number": 54,
+            "number": 57,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Flying\nWhen Kuzuryo dies, each player loses half their life, then discards half the cards in their hand, then sacrifices half the creatures they control of their choice. Round up each time.",
@@ -985,18 +965,18 @@
             "loyalty": "",
             "artist": "yananana",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "Day 5"
         },
         {
             "card_name": "Lord Dissonance",
-            "color": "BR",
+            "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Avatar Performer",
-            "number": 118,
+            "number": 124,
             "color_identity": "WUBRG",
-            "cost": "{2}{B}{R}",
-            "rules_text": "You may pay {W}{U}{B}{R}{G} rather than pay the mana costs for spells you cast. Whenever you cast a spell with mana value less than 5 this way, Lord Dissonance deals X damage to any target and you gain X life, where X is the difference.",
+            "cost": "{2}{R}{G}",
+            "rules_text": "You may pay {W}{U}{B}{R}{G} rather than pay the mana costs for spells you cast. Whenever you cast a spell with mana value less than 5 this way, put a number of +1/+1 counters on Lord Dissonance equal to the difference.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1005,7 +985,7 @@
             "loyalty": "",
             "artist": "Sven Puister",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": "Final Day"
         },
         {
@@ -1013,7 +993,7 @@
             "color": "UBR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 119,
+            "number": 125,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
             "rules_text": "Flying, menace\nWhenever Lucy Chaos attacks, draw a card, then discard a card.\nLucy Chaos has all activated and triggered abilities of legendary cards in your graveyard.",
@@ -1025,7 +1005,7 @@
             "loyalty": "",
             "artist": "Raijin Art",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": ""
         },
         {
@@ -1033,7 +1013,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Dragon",
-            "number": 121,
+            "number": 127,
             "color_identity": "BR",
             "cost": "{5}{B}{R}",
             "rules_text": "Flying\nWhen Mechatyrant Kuzuryo enters, create three tapped colorless artifact tokens each named Meteorite with \u201cWhen this token enters, it deals 2 damage to any target\u201d and \u201c{T}: Add one mana of any color.\u201d",
@@ -1045,7 +1025,7 @@
             "loyalty": "",
             "artist": "LEO",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": "Day 11"
         },
         {
@@ -1053,7 +1033,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Pilot",
-            "number": 123,
+            "number": 129,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Flying, vigilance\n{WU}, {T}: Copy target creature spell with flying you control. Activate only if Miss Mach attacked this turn.",
@@ -1065,7 +1045,7 @@
             "loyalty": "",
             "artist": "Huu Ha",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": "Day 10"
         },
         {
@@ -1073,7 +1053,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Pilot",
-            "number": 124,
+            "number": 130,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Flash\nHaste\n{UR}, {T}: Copy target spell you control. You may choose new targets for the copies. Activate only during an opponent's turn.",
@@ -1085,17 +1065,17 @@
             "loyalty": "",
             "artist": "Astrov",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": ""
         },
         {
             "card_name": "Moon Man, First Hero",
-            "color": "UR",
+            "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Avatar",
-            "number": 125,
-            "color_identity": "UR",
-            "cost": "{1}{U}{R}",
+            "number": 33,
+            "color_identity": "U",
+            "cost": "{1}{U}{U}",
             "rules_text": "Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nAs long as you have an odd number of cards in hand, noncreature spells you cast cost {X} less to cast, where X is Moon Man's power.",
             "flavor_text": "[i]He stands vigil among the stars, protecting the world from interstellar threats.[/i]",
             "pt": "1/2",
@@ -1105,7 +1085,7 @@
             "loyalty": "",
             "artist": "UNIQASPERMA",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1113,7 +1093,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Zombie Pilot",
-            "number": 75,
+            "number": 79,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "You may look at the top card of your library any time.\nOnce during each of your turns, you may cast the top card of your library by discarding a card in addition to that spell's other costs.\n{T}: Another target creature gains haste until end of turn.",
@@ -1125,7 +1105,7 @@
             "loyalty": "",
             "artist": "mist XG",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "Day 9"
         },
         {
@@ -1133,7 +1113,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 33,
+            "number": 35,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "You may look at the top card of your library any time.\nOnce during each of your turns, you may cast a spell from the top of your library if you spend only mana of different types to cast it.",
@@ -1145,7 +1125,7 @@
             "loyalty": "",
             "artist": "Kevin Glint",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": "Day 6"
         },
         {
@@ -1153,7 +1133,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Human Rogue",
-            "number": 139,
+            "number": 142,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Lackey Role token attached to that creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]",
@@ -1165,17 +1145,17 @@
             "loyalty": "",
             "artist": "Gediminas Milieska",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": ""
         },
         {
             "card_name": "This Time, They Will Live",
-            "color": "B",
+            "color": "UB",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 60,
-            "color_identity": "B",
-            "cost": "{2}{B}",
+            "number": 143,
+            "color_identity": "UB",
+            "cost": "{1}{U}{B}",
             "rules_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nI \u2014 Each player discards a card, then mills two cards.\nII \u2014 Exile up to one target creature card from a graveyard.\nIII \u2014 You may sacrifice this Saga. If you do, put all creature cards exiled with it onto the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -1185,7 +1165,7 @@
             "loyalty": "",
             "artist": "mibry",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "The Final Day"
         },
         {
@@ -1193,7 +1173,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 61,
+            "number": 64,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Enchant creature\n[i]Sidekick[/i] \u2014 Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.\nUmbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]",
@@ -1205,7 +1185,7 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1213,7 +1193,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 79,
+            "number": 83,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "When this enchantment enters, create a tapped colorless artifact token named Meteorite with \u201cWhen this token enters, it deals 2 damage to any target\u201d and \u201c{T}: Add one mana of any color.\u201d\nOnce during each of your turns, you may cast a spell you own from outside the game if you spend only mana from nonland sources to cast it.",
@@ -1225,7 +1205,7 @@
             "loyalty": "",
             "artist": "Natalia Kai Kazantseva",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": "Day 3"
         },
         {
@@ -1233,7 +1213,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 98,
+            "number": 104,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Once during each of your turns, you may play a land from your graveyard.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, add {G}.\n{5}{G}{G}: Target land you control becomes a 8/8 Elemental creature with haste until end of turn. It's still a land.",
@@ -1245,7 +1225,7 @@
             "loyalty": "",
             "artist": "Madison Johnson",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1265,7 +1245,7 @@
             "loyalty": "",
             "artist": "James Daly III",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": "james-daly-cultist-withfamiliar"
         },
         {
@@ -1273,7 +1253,7 @@
             "color": "UBG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 100,
+            "number": 106,
             "color_identity": "UBG",
             "cost": "{3}{B}{G}{U}",
             "rules_text": "Exile your hand, graveyard, and the top twenty cards of your library. You may put any number of cards you own from exile or from outside the game on top of your library, then shuffle. Draw seven cards.",
@@ -1285,7 +1265,7 @@
             "loyalty": "",
             "artist": "Igor Teixeira",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "igor-chakal-teixeira-dokumaan-5"
         },
         {
@@ -1293,7 +1273,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Elemental Human",
-            "number": 24,
+            "number": 25,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "When Karnolia enters, create a Supporting Role token attached to her. [i](It's an Aura Role with \u201cAt the beginning of combat on your turn, target creature gets +1/+1 until end of turn.\u201d)[/i]\nWhenever a creature you control deals combat damage to a player, if it was the target of a spell or ability you controlled this turn, draw a card.",
@@ -1305,7 +1285,7 @@
             "loyalty": "",
             "artist": "Facundo Moyano",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "facundo-moyano-oceania-db"
         },
         {
@@ -1313,7 +1293,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 42,
+            "number": 46,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Menace\n[i]Sidekick [/i]\u2014 When Boris Deadman enters and whenever he attacks with another creature with greater power, return target creature from your graveyard to the battlefield.",
@@ -1325,7 +1305,7 @@
             "loyalty": "",
             "artist": "Ivan Shavrin",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1333,7 +1313,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 82,
+            "number": 86,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature gains hexproof and indestructible until end of turn. Create a [/i]Valiant [i]Role attached to that creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]",
@@ -1345,7 +1325,7 @@
             "loyalty": "",
             "artist": "Alexandre Mokhov",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "alexandre-mokhov-bulwark-1919x1200-copyright"
         },
         {
@@ -1353,7 +1333,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Beast",
-            "number": 43,
+            "number": 47,
             "color_identity": "B",
             "cost": "{6}{B}{B}",
             "rules_text": "Flying, menace\nWhen Caleborn the Punished enters, if you cast it, each player shuffles their hand and graveyard into their library, then searches their library for five cards and exiles the rest.",
@@ -1365,7 +1345,7 @@
             "loyalty": "",
             "artist": "Drew Edward Johnson",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "drew-edward-johnson-asset\n\u201cFifty times you have stood against me. Fifty times you have failed.\u201d"
         },
         {
@@ -1373,7 +1353,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
-            "number": 5,
+            "number": 4,
             "color_identity": "W",
             "cost": "{W}{W}",
             "rules_text": "You may sacrifice a modified creature rather than pay this spell's mana cost. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nCreatures you control gain hexproof and indestructible until end of turn.",
@@ -1385,7 +1365,7 @@
             "loyalty": "",
             "artist": "Prasad Rao, Izoneto Ademar",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "press-color-atw"
         },
         {
@@ -1393,7 +1373,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 25,
+            "number": 26,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Draw two cards. Then discard a card unless you control a modified creature.",
@@ -1405,7 +1385,7 @@
             "loyalty": "",
             "artist": "Facundo Moyano",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1413,7 +1393,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 47,
+            "number": 51,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Each player sacrifices a creature. If they can't, they discard a card. If they can't, they lose 3 life. Repeat this process three times.",
@@ -1425,7 +1405,7 @@
             "loyalty": "",
             "artist": "Daniel Erm",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "daniel-erm-ewo4ptnwyai7v-c.jpg"
         },
         {
@@ -1445,17 +1425,17 @@
             "loyalty": "",
             "artist": "Rod Mendez",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
             "card_name": "Exile from the Hell Dimension",
-            "color": "BR",
+            "color": "R",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Demon",
-            "number": 109,
-            "color_identity": "BR",
-            "cost": "{1}{B}{R}",
+            "number": 71,
+            "color_identity": "R",
+            "cost": "{2}{R}",
             "rules_text": "Flying, haste\nThis creature can't block.\nWhenever this creature deals combat damage to a player, sacrifice it unless you sacrifice a permanent attached to it.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
@@ -1465,7 +1445,7 @@
             "loyalty": "",
             "artist": "Jordan Gunderson",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1485,7 +1465,7 @@
             "loyalty": "",
             "artist": "Brian Lim",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "brian-lim-wave7-enhanced"
         },
         {
@@ -1493,7 +1473,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 110,
+            "number": 116,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Choose one\u2014\n\u2022 Force of One Thousand Suns deals 10 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.\n\u2022 Target creature you control gains lifelink, trample and indestructible until end of turn.",
@@ -1505,7 +1485,7 @@
             "loyalty": "",
             "artist": "Everard McBain",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1513,7 +1493,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 87,
+            "number": 91,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "[i]Sidekick [/i]\u2014 Whenever this creature attacks with another creature with greater power, create a Mox Emerald token. [i](It's a colorless artifact with \u201c{T}: Add {G}.\u201d)[/i]",
@@ -1525,7 +1505,7 @@
             "loyalty": "",
             "artist": "Zulkarnaen Hasan Basri",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "zulkarnaen-hasan-basri-juggernaut08"
         },
         {
@@ -1533,7 +1513,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Instant",
-            "number": 71,
+            "number": 75,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "This spell deals 3 damage to target creature or planeswalker. Create a Supporting Role token attached to up to one target creature you control. [i](If you control another Role on it, put that one into the graveyard. It's an Aura Role with \u201cAt the beginning of combat on your turn, target creature gets +1/+1 until end of turn.\u201d)[/i]",
@@ -1545,7 +1525,7 @@
             "loyalty": "",
             "artist": "Haje 714",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1553,7 +1533,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Avatar",
-            "number": 55,
+            "number": 58,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Deathtouch\nAs long as you control no other creatures, you may cast creature spells from your graveyard.",
@@ -1565,17 +1545,17 @@
             "loyalty": "",
             "artist": "Daniel Erm",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "daniel-erm-e-g3zbxxmae8i2l.jpg"
         },
         {
             "card_name": "Leap Into Action",
-            "color": "WB",
+            "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 117,
-            "color_identity": "WB",
-            "cost": "{2}{W}{B}",
+            "number": 12,
+            "color_identity": "W",
+            "cost": "{2}{W}{W}",
             "rules_text": "Mill four cards. Then put up to two creature cards each with mana value 3 or less from your hand or graveyard onto the battlefield.",
             "flavor_text": "[i]\u201cWardens, give \u2018em hell.\u201d[/i]",
             "pt": "",
@@ -1585,7 +1565,7 @@
             "loyalty": "",
             "artist": "Prasad Rao",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1593,7 +1573,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Druid",
-            "number": 91,
+            "number": 96,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Modified creatures you control have trample and haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nLands you control have \u201cAt the beginning of combat on your turn, put a +1/+1 counter on target creature.\u201d",
@@ -1605,7 +1585,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "alexander-mokhov-xiomara-earthshaper-1500x1192-cr"
         },
         {
@@ -1613,7 +1593,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 74,
+            "number": 78,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "Haste\nWhenever Papercut attacks, create a token that's a copy of target token you control. If it's a creature, it enters tapped and attacking. Exile it at the beginning of the next upkeep.",
@@ -1625,7 +1605,7 @@
             "loyalty": "",
             "artist": "Envar Studio",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1633,7 +1613,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Druid",
-            "number": 128,
+            "number": 133,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "When Princess Vermora enters, create a 3/3 green Beast creature token.\nAt the beginning of combat on your turn, create a Valiant[i] [/i]Role attached to target creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]",
@@ -1645,7 +1625,7 @@
             "loyalty": "",
             "artist": "Everard McBain",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1653,7 +1633,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 129,
+            "number": 134,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
             "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 This Saga deals 6 damage to each of up to three targets.\nII \u2014 Spells you cast this turn cost {U}{R} less to cast.\nIII \u2014 Draw a card. You may put this Saga on top of its owner's library.",
@@ -1665,7 +1645,7 @@
             "loyalty": "",
             "artist": "Pius Bak",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "pius-bak-1v4"
         },
         {
@@ -1673,7 +1653,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue Ranger",
-            "number": 130,
+            "number": 135,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Haste\nWhen Rose enters, target creature can't block this turn. When Rose deals combat damage to a player this turn, destroy that creature.",
@@ -1685,7 +1665,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": ""
         },
         {
@@ -1693,7 +1673,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Mercenary",
-            "number": 78,
+            "number": 82,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Double strike\nWhenever Scratch deals combat damage to a player, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it this turn.",
@@ -1705,7 +1685,7 @@
             "loyalty": "",
             "artist": "Toni Infante",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": "toni-infante-husks-2cover-final-copia"
         },
         {
@@ -1713,10 +1693,10 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 131,
+            "number": 136,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. \nWhenever a modified creature you control dies, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
+            "rules_text": "When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. \nWhenever a modified creature you control leaves the battlefield, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1725,7 +1705,7 @@
             "loyalty": "",
             "artist": "Pius Bak",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1733,7 +1713,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 59,
+            "number": 63,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
             "rules_text": "At the beginning of your upkeep, create a 1/1 black Minion creature token.\nWhenever you create a creature token, create a Lackey Role and attach it to that token. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]",
@@ -1745,7 +1725,7 @@
             "loyalty": "",
             "artist": "Prasad Rao",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1753,7 +1733,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Minion",
-            "number": 45,
+            "number": 49,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "When The Cat's Paw enters, each player discards a card. Create a Lackey Role token attached to a creature you control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]",
@@ -1765,7 +1745,7 @@
             "loyalty": "",
             "artist": "Facundo Moyano",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1773,7 +1753,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 84,
+            "number": 88,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When The Enchantrix enters, create a Supporting Role token attached to her. [i](It's an Aura Role with \u201cAt the beginning of combat on your turn, target creature gets +1/+1 until end of turn.\u201d)[/i]\nWhenever an enchantment you control enters, draw a card.",
@@ -1785,7 +1765,7 @@
             "loyalty": "",
             "artist": "Meghan Hetrick",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1793,7 +1773,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Okus",
-            "number": 120,
+            "number": 126,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Modified creatures you don't control get -2/-2.\n[+1]: Create a Lackey Role attached to target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When the Role leaves play, draw a card.)[/i]\n[-1]: Each opponent loses X life and you gain X life, where X is the number of tokens you control.\n[-3]: Create a Dapper Role attached to target creature. [i](If you control another Role on it, put that one into the graveyard. You control enchanted creature as long as you control an Okus.)[/i]",
@@ -1805,7 +1785,7 @@
             "loyalty": "4",
             "artist": "James Daly III",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "james-daly-innsmouth32-highpriestessofdagon"
         },
         {
@@ -1825,7 +1805,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1833,7 +1813,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 38,
+            "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "As an additional cost to cast Time After Time, shuffle a modified creature you control into your library or pay {3}. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nTake an extra turn after this one. Exile Time After Time.",
@@ -1845,7 +1825,7 @@
             "loyalty": "",
             "artist": "Katherine Makoyana",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": "katherine-makoyana-fgupk7vxwaemef"
         },
         {
@@ -1853,7 +1833,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human",
-            "number": 144,
+            "number": 145,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Whenever Worldwalker deals combat damage to a player, if she's modified, you may exile her. If you do, you may put a card you own from outside the game into your hand. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -1865,7 +1845,7 @@
             "loyalty": "",
             "artist": "Facundo Moyano",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1873,7 +1853,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warlock",
-            "number": 80,
+            "number": 84,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
             "rules_text": "At the beginning of combat on your turn, target creature gains haste until end of turn.\n[i]Sidekick [/i]\u2014 Whenever this creature attacks with another creature with greater power, those creatures gain double strike until end of turn.",
@@ -1885,17 +1865,17 @@
             "loyalty": "",
             "artist": "Mukhlis Nur",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": "mukhlis-nur-092020-milleniumexile-fin.jpg"
         },
         {
             "card_name": "Ancient Power",
-            "color": "BR",
+            "color": "WR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 99,
-            "color_identity": "BR",
-            "cost": "{1}{B}{R}",
+            "number": 105,
+            "color_identity": "WR",
+            "cost": "{1}{R}{W}",
             "rules_text": "Ancient Power deals 1000 damage to target creature or planeswalker you don't control.",
             "flavor_text": "[i]Morning breath one thousand years in the making.[/i]",
             "pt": "",
@@ -1905,7 +1885,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1925,7 +1905,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1933,7 +1913,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 21,
+            "number": 23,
             "color_identity": "U",
             "cost": "{3}{U}{U}{U}",
             "rules_text": "Choose one \u2014\n\u2022 End the turn.\n\u2022 Take an extra turn after this one.\nExile At the End of the Day.",
@@ -1945,7 +1925,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1965,7 +1945,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1973,7 +1953,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 46,
+            "number": 50,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "When this enchantment enters, it becomes an Aura with enchant creature. Return a creature card from your graveyard to the battlefield and attach this enchantment to it.\nEnchanted creature has menace.",
@@ -1985,7 +1965,7 @@
             "loyalty": "",
             "artist": "Fifth Planet games",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1993,7 +1973,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
-            "number": 6,
+            "number": 5,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Target permanent gains protection from all colors until end of turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything that's white, blue, black, red, or green.)[/i]",
@@ -2005,7 +1985,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2013,7 +1993,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 83,
+            "number": 87,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature gains hexproof until end of turn. Create a Supporting Role token attached to it. [i](It's an Aura Role with \u201cAt the beginning of combat on your turn, target creature gets +1/+1 until end of turn.\u201d)[/i]",
@@ -2025,7 +2005,7 @@
             "loyalty": "",
             "artist": "Fifth Plan et Games",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2033,7 +2013,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 86,
+            "number": 90,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Enchant creature\nWhen From Mighty Acorns enters, enchanted creature deals damage equal to its power to target creature, planeswalker, or battle.\nEnchanted creature gets +1/+1 for each Forest you control.",
@@ -2045,7 +2025,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": ""
         },
         {
@@ -2053,7 +2033,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Merfolk Minion",
-            "number": 30,
+            "number": 31,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Creatures you control with power X or less can't be blocked, where X is the number of basic Islands you control.",
@@ -2065,7 +2045,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Ganes",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2073,11 +2053,11 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 122,
+            "number": 128,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "You and permanents you control gain hexproof until end of turn.\nPermanents you control gain indestructible until end of turn.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Your life total becomes equal to the total power of creatures you control.",
+            "flavor_text": "[i]\u201cI'm on my lunch break. it's Professor Skypuncher's problem now.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2085,7 +2065,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": ""
         },
         {
@@ -2105,7 +2085,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": ""
         },
         {
@@ -2113,7 +2093,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 76,
+            "number": 80,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Each opponent sacrifices a nonbasic land of their choice.",
@@ -2125,7 +2105,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2133,7 +2113,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Human Hero",
-            "number": 95,
+            "number": 100,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "As long as this creature is modified, creatures you control with base power and toughness 1/1 get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -2145,7 +2125,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2153,7 +2133,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Minion",
-            "number": 58,
+            "number": 62,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "[i]Sidekick [/i]\u2014 Whenever this creature attacks with another creature with greater power, that creature gains \u201cWhenever this creature dies, return it to the battlefield tapped under its owner's control with a menace counter on it\u201d until end of turn.",
@@ -2165,7 +2145,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2173,7 +2153,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 65,
+            "number": 68,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Gain control of target creature until end of turn. Untap it. Until end of turn it gets +1/+0 and gains haste, trample, and \u201cWhenever this creature deals combat damage to a player, it deals that much damage to each other permanent.\u201d",
@@ -2185,7 +2165,7 @@
             "loyalty": "",
             "artist": "Fifth Planet games",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2205,7 +2185,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2213,7 +2193,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 39,
+            "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Put a +1/+1 counter, a flying counter, and an argent counter on target creature. It's an artifact creature for as long as it has an argent counter on it.",
@@ -2225,7 +2205,7 @@
             "loyalty": "",
             "artist": "Fifth Planet Games",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": ""
         },
         {
@@ -2233,7 +2213,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elk Wolf Spirit",
-            "number": 81,
+            "number": 85,
             "color_identity": "G",
             "cost": "{X}{G}",
             "rules_text": "This creature enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\n[i]Sidekick[/i] \u2014 Whenever this creature attacks with another creature with greater power, double the number of +1/+1 counters on this creature.",
@@ -2245,7 +2225,7 @@
             "loyalty": "",
             "artist": "sakimichan",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": "Day 22: Millenium\n\nhttps://www.deviantart.com/sakimichan/art/Passing-Through-282907124"
         },
         {
@@ -2253,7 +2233,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 41,
+            "number": 45,
             "color_identity": "B",
             "cost": "{X}{B}{B}{B}",
             "rules_text": "Choose X target creature cards in your graveyard. Return one of them to the battlefield and the rest to your hand.",
@@ -2265,7 +2245,7 @@
             "loyalty": "",
             "artist": "James Daly III",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": "Day 11: Transformation\n\n\nhttps://www.artstation.com/artwork/RYQLX"
         },
         {
@@ -2273,7 +2253,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 4,
+            "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Flash\nEnchant creature you control\nAs this Aura enters, choose a card name.\nEnchanted creature gets +1/+1 and has protection from the chosen name. [i](It can't be targeted, dealt damage, enchanted, or equipped by anything with the chosen name.)[/i]",
@@ -2285,7 +2265,7 @@
             "loyalty": "",
             "artist": "Maria Ovcharenko",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": "Day 1: Rabbit\n\nhttps://protorc.artstation.com/projects/Ya3lRY"
         },
         {
@@ -2293,7 +2273,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 104,
+            "number": 111,
             "color_identity": "WR",
             "cost": "{R}{R}{W}{W}",
             "rules_text": "Catch the Stars deals 4 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead. Until the end of your next turn, you may cast a creature card you own exiled this way.",
@@ -2305,7 +2285,7 @@
             "loyalty": "",
             "artist": "Paul Madrugaba",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": "Day 31: Infinity\n\n\nhttps://www.artstation.com/artwork/lDR4Ao"
         },
         {
@@ -2313,7 +2293,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Ninja",
-            "number": 106,
+            "number": 113,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Haste\nWhenever Damsel deals combat damage to a player, put your choice of counter on her from among first strike, menace, or deathtouch.\nWhen Damsel dies, if she had three or more counters on her, return her to your hand.",
@@ -2325,7 +2305,7 @@
             "loyalty": "",
             "artist": "Jeleynai",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "Day 13: Pretty\n\nhttps://www.artstation.com/artwork/ZG8kDm\n\n\n\u201cCome along little hero. Show me how well you dance!\u201d\n\u201cSeems I'm not so helpless after all.\u201d\n\nvengeful"
         },
         {
@@ -2333,7 +2313,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 29,
+            "number": 30,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "Return target spell or nonland permanent to its owner's hand. If you controlled it, you may cast a spell with lesser mana value from your hand without paying its mana cost.",
@@ -2345,7 +2325,7 @@
             "loyalty": "",
             "artist": "Prasad Rao",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": "Day 9: Compact\n\nhttps://www.artstation.com/artwork/GXlXGW"
         },
         {
@@ -2353,7 +2333,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Instant",
-            "number": 48,
+            "number": 52,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target player draws a card and loses 1 life. If there are three or more cards named Doom Desired in your graveyard, instead that player draws seven cards and loses 7 life.",
@@ -2365,7 +2345,7 @@
             "loyalty": "",
             "artist": "Daniel Erm",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "Day 8: Punish\n\nhttps://www.artstation.com/artwork/d0E3ex"
         },
         {
@@ -2385,7 +2365,7 @@
             "loyalty": "",
             "artist": "Haki // Curry Shika",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "card_name2": "Power",
             "color2": "RG",
             "type2": "Sorcery",
@@ -2404,7 +2384,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 112,
+            "number": 118,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "When this enchantment enters, search your library for exactly seven cards with different names, exile them, then shuffle.\nIf you would draw a card, you may instead choose a card at random exiled with this enchantment and put it into your hand.",
@@ -2416,7 +2396,7 @@
             "loyalty": "",
             "artist": "Kitt Lape\u00f1a",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "Day 3: Wish\nhttps://www.artstation.com/artwork/dKPL5x"
         },
         {
@@ -2424,7 +2404,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature \u2014 Bird",
-            "number": 113,
+            "number": 119,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Flying\nWhenever this creature deals combat damage to a player, you may choose one \u2014\n\u2022 Draw two cards. If you do, discard three cards at the beginning of the next end step.\n\u2022 Discard two cards. If you do, draw three cards at the beginning of the next end step.",
@@ -2436,7 +2416,7 @@
             "loyalty": "",
             "artist": "Oana Rinaldi",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": "Day 21: Silver\n\nhttps://www.artstation.com/marketplace/p/LG6Ja/ethereal-sanctuary-a-highly-detailed-fantasy-painting-of-winged-birds-and-the-natural-world-6"
         },
         {
@@ -2444,7 +2424,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 9,
+            "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Enchant creature you control\nWhen this Aura enters, draw a card for each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nModified creatures you control get +1/+1 and have flying.",
@@ -2456,7 +2436,7 @@
             "loyalty": "",
             "artist": "Helga Le",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "Day 15: Sailor\n\nhttps://www.artstation.com/artwork/ykYQB8"
         },
         {
@@ -2464,7 +2444,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Cat Wizard",
-            "number": 70,
+            "number": 74,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever Jazi Stormblood attacks, you may pay {R}{R}{R}, reduced by {R} for each kind of modification on her. If you do, create a 6/1 red Elemental creature token with trample that's tapped and attacking. Sacrifice that token at the beginning of the next end step. [i](The kinds of modifications are Equipment, Auras you control, and counters.)[/i]",
@@ -2476,7 +2456,7 @@
             "loyalty": "",
             "artist": "Anty",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": "Day 18: Crystal\n\nhttps://www.artstation.com/artwork/xJlRyX"
         },
         {
@@ -2484,29 +2464,29 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Elf Shaman",
-            "number": 89,
+            "number": 93,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "If you would lose unspent mana of a color, you lose all but one mana of that color instead.\nThis creature gets +1/+0 for each color of unspent mana you have.",
-            "flavor_text": "[i]\u201cThere is magic inside all of us. All it takes is a little patience.\u201d[/i]",
+            "flavor_text": "[i]\u201cHalcyon needs heroes. Will you join me?[/i]",
             "pt": "0/2",
             "special_text": "",
             "shape": "normal",
             "set": "SHH",
             "loyalty": "",
-            "artist": "LadyKraken",
+            "artist": "TaeKwon Kim",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": "Day 6: Prism\n\nhttps://www.artstation.com/artwork/B19V1k\n\npotential: https://www.artstation.com/artwork/EaDyv8"
         },
         {
             "card_name": "Lumin Starbright",
-            "color": "WG",
+            "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Insect Cleric",
-            "number": 147,
-            "color_identity": "WG",
-            "cost": "{GW}",
+            "type": "Legendary Creature \u2014 Insect Druid",
+            "number": 94,
+            "color_identity": "G",
+            "cost": "{G}",
             "rules_text": "Whenever another creature or enchantment you control enters, Lumin gets +1/+1 until end of turn.\nWhenever Lumin attacks, if her power is seven or greater, search your library for an Insect creature card, put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
@@ -2516,7 +2496,7 @@
             "loyalty": "",
             "artist": "Michelle Jorgensen",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": "Day 17: Grail\n\nhttps://www.artstation.com/artwork/Gawwe1"
         },
         {
@@ -2524,7 +2504,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Human Wizard",
-            "number": 73,
+            "number": 77,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Ward\u2014Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]\nWhenever this creature attacks, create three tapped and attacking tokens that are copies of this creature. At end of combat, choose this creature or a token created this way, then sacrifice each one of those creatures not chosen this way.",
@@ -2536,7 +2516,7 @@
             "loyalty": "",
             "artist": "Ho\u00e0ng L\u1eadp (Solan)",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": "Day 4: Quartet\n\nhttps://www.artstation.com/artwork/RnD11e"
         },
         {
@@ -2556,7 +2536,7 @@
             "loyalty": "",
             "artist": "Edward Cheekokseang",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "Day 7: Power\n\n\nhttps://www.artstation.com/artwork/g0618L\n\npotential: https://www.artstation.com/artwork/532OO"
         },
         {
@@ -2564,7 +2544,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 93,
+            "number": 98,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "Enchant creature you control\nWhen this enchantment enters, draw cards equal to enchanted creature's power.\nEnchanted creature has vigilance and \u201c{T}: Add an amount of {G} equal to this creature's power.\u201d",
@@ -2576,7 +2556,7 @@
             "loyalty": "",
             "artist": "Ivan Fiorelli",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "Day 28: Daylight\n\nhttps://www.artstation.com/artwork/ELE9rN"
         },
         {
@@ -2584,7 +2564,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 35,
+            "number": 37,
             "color_identity": "U",
             "cost": "{1}{U}{U}{U}",
             "rules_text": "At the beginning of your end step, if you have no cards in hand, draw seven cards.\n{2}, Discard a card: Create a tapped 1/1 blue Fish creature token.",
@@ -2596,7 +2576,7 @@
             "loyalty": "",
             "artist": "Laurens Spruit",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "Day 25: Cosmos\n\nhttps://www.artstation.com/artwork/B6a8D"
         },
         {
@@ -2604,7 +2584,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Robot Insect",
-            "number": 57,
+            "number": 61,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flying\nWhenever this creature attacks, you may sacrifice a non-Insect, nonland permanent. If you do, create a tapped and attacking token that's a copy of this creature.",
@@ -2616,17 +2596,17 @@
             "loyalty": "",
             "artist": "Benedikt Dietrich",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "Day 16: Scout\n\nhttps://www.artstation.com/artwork/Ka9AQ4"
         },
         {
             "card_name": "Split the Storm",
-            "color": "UR",
+            "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 133,
-            "color_identity": "UR",
-            "cost": "{X}{U}{U}{R}",
+            "number": 38,
+            "color_identity": "U",
+            "cost": "{X}{U}{U}{U}",
             "rules_text": "Counter target spell, activated ability, or triggered ability. If it had a single target, copy it up to X times, and you may choose new targets for the copies. Each copy must target a different target.",
             "flavor_text": "[i]\u201cYou think I'm not prepared for a few sparks?\u201d\n\u2014Tyrant, to Jazi[/i]",
             "pt": "",
@@ -2636,18 +2616,18 @@
             "loyalty": "",
             "artist": "Wolfytaro Long Pham",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "Day 19: Eternal\n\nhttps://www.artstation.com/artwork/ZRGvx\n\nSiphon\n\n\u201cYou think I'm not prepared for a few of your sparks?\u201d\n\u2014<>, to Jasmine"
         },
         {
             "card_name": "Starborn Stomper",
-            "color": "WG",
+            "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Insect Beast",
-            "number": 134,
-            "color_identity": "WG",
-            "cost": "{3}{G}{G}{W}{W}",
-            "rules_text": "Flying, vigilance, trample\nWhenever a creature you control deals 7 or more damage, put seven +1/+1 counters on that creature.",
+            "number": 101,
+            "color_identity": "G",
+            "cost": "{5}{G}{G}",
+            "rules_text": "Trample\nOther creatures you control have trample.\nWhenever one or more creatures you control deal combat damage to a player, put that many +1/+1 counters on this creature, then create a 1/1 green Insect creature token for each +1/+1 counter on it.",
             "flavor_text": "[i]\u201cShe's so fluffy!\u201d\n\u2014Papercut, to Lumin[/i]",
             "pt": "7/7",
             "special_text": "",
@@ -2656,7 +2636,7 @@
             "loyalty": "",
             "artist": "Vern Vicich",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": "Day 20: Guardian\n\nhttps://www.artstation.com/artwork/PXJ191\n\nneeds to interact with enchantments/creatures"
         },
         {
@@ -2664,11 +2644,11 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Instant",
-            "number": 135,
+            "number": 138,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Exile Starlighting and the top three cards of your library. Until the end of your next turn, you may play one of the exiled cards.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The skies above Halcyon have much to say, but few who listen.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2676,7 +2656,7 @@
             "loyalty": "",
             "artist": "Rossdraws",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "Day 10: Constellation\n\nhttps://www.artstation.com/artwork/XnDOgD"
         },
         {
@@ -2684,7 +2664,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 137,
+            "number": 140,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Flying\nWhenever Suki enters or attacks, put a fate counter on her. Then draw cards equal to the number of fate counters on her, then put that many cards from your hand on the bottom of your library in a random order.",
@@ -2696,7 +2676,7 @@
             "loyalty": "",
             "artist": "Rongrong Wang",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "Day 5: Moon\n\nhttps://www.artstation.com/artwork/xJZaB4\n\nblessed by the skyfish\n\nit kills me that this does not draw on-pace to get to 7 with skyfish"
         },
         {
@@ -2704,7 +2684,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 96,
+            "number": 102,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
             "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. You may move any number of counters from among creatures you control onto that creature, and may attach any number of Auras and Equipment you control to it.",
@@ -2716,7 +2696,7 @@
             "loyalty": "",
             "artist": "Animeart790",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "Day 23: Tuxedo\n\nhttps://www.artstation.com/artwork/VJy8eb\n\nTake up the mantle?\n\nhttps://www.deviantart.com/animeart790/art/Magical-girl-academy-922351998"
         },
         {
@@ -2724,7 +2704,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 36,
+            "number": 39,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "At the beginning of your end step, you may tap one or more untapped creatures you control. If you do, draw that many cards, then discard a card.",
@@ -2736,7 +2716,7 @@
             "loyalty": "",
             "artist": "Ryan Agsawa",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "Day 12: Sequence\n\nhttps://www.artstation.com/artwork/yk0A33"
         },
         {
@@ -2744,7 +2724,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Legendary Planeswalker",
-            "number": 126,
+            "number": 132,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "[+1]: The Nameless Hero becomes a copy of up to one target creature card in a graveyard until end of turn, except she has no name.\n[0]: Draw three cards. For each card drawn this way, discard a card unless you sacrifice a creature.\n[-7]: You get an emblem with \u201cYou may have nontoken creatures you control enter as a copy of any creature card in a graveyard.\u201d",
@@ -2756,7 +2736,7 @@
             "loyalty": "4",
             "artist": "occa-key",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "Day 29: Princess\n\nProv has the render in his file"
         },
         {
@@ -2764,7 +2744,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 37,
+            "number": 40,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "This spell costs {1} less to cast if it targets a spell with mana value 2 or less.\nCounter target spell. If a spell is countered this way, exile it instead of putting it into its owner's graveyard.",
@@ -2776,18 +2756,18 @@
             "loyalty": "",
             "artist": "'Aliy Dz.",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "Day 30: Serenity\n\nhttps://www.artstation.com/artwork/3qnzvE"
         },
         {
             "card_name": "Utter Annihilation",
-            "color": "WB",
+            "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 141,
-            "color_identity": "WB",
-            "cost": "{1}{W}{B}",
-            "rules_text": "Exile target nonland permanent. When you do, if its mana value was less than three, put a number of +1/+1 counters on target creature you control equal to the difference.",
+            "number": 21,
+            "color_identity": "W",
+            "cost": "{1}{W}{W}",
+            "rules_text": "Exile target creature or planeswalker. When you do, if its mana value was less than three, put a number of +1/+1 counters on target creature you control equal to the difference.",
             "flavor_text": "[i]Villains call her a hero. Heroes call her a villain. Both know to avoid Alice.[/i]",
             "pt": "",
             "special_text": "",
@@ -2796,7 +2776,7 @@
             "loyalty": "",
             "artist": "Yan",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "Day 27: Moonlight\n\nhttps://www.artstation.com/artwork/ao6eV2\n\nalt:\nhttps://www.artstation.com/artwork/g2L49x"
         },
         {
@@ -2804,7 +2784,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2014 Plant",
-            "number": 143,
+            "number": 144,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "When one or more other creatures die, put a +1/+1 counter on this creature.\nWhen this creature dies, each opponent loses 2 life. If its power was 4 or greater, they discard a card. If its power was 6 or greater, they sacrifice a creature of their choice.",
@@ -2816,7 +2796,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "Day 26: Seed\n\nhttps://www.artstation.com/artwork/nQ54KX"
         },
         {
@@ -2824,7 +2804,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 97,
+            "number": 103,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Look at the top ten cards of your library. You may put a creature card from your hand or among those cards onto the battlefield, then put any number of Aura cards from your hand and among those cards onto the battlefield attached to that creature. Then shuffle. [i](The Auras must be able to enchant that craeture.)[/i]",
@@ -2836,7 +2816,7 @@
             "loyalty": "",
             "artist": "HuoMiao Studio",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "Day 2: Meditation\n\nhttps://www.artstation.com/artwork/WBZYny"
         },
         {
@@ -2844,7 +2824,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 146,
+            "number": 147,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "{T}: For each creature you control, if it was the target of a spell or ability you controlled this turn, you may create a [/i]Valiant[i] Role token attached to that creature. [i](If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)[/i]",
@@ -2856,7 +2836,7 @@
             "loyalty": "",
             "artist": "Allie Preswick",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "Day 24: Mask\n\nhttps://www.artstation.com/artwork/X1PbDR"
         },
         {
@@ -2864,7 +2844,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 62,
+            "number": 65,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "When Ace enters, you may discard any number of cards. Ace deals X damage to each opponent and you draw X cards, where X is the greatest number of sequential mana values among cards discarded this way. [i](Lands have mana value 0.)[/i]",
@@ -2876,7 +2856,7 @@
             "loyalty": "",
             "artist": "DEnys Tsiperko",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": "https://www.artstation.com/artwork/Kk95x"
         },
         {
@@ -2884,7 +2864,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warlock",
-            "number": 40,
+            "number": 44,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Menace\nWhen Alysha enters, any opponent may discard a card. If no one does, you lose 1 life and draw a card.",
@@ -2896,7 +2876,7 @@
             "loyalty": "",
             "artist": "Facundo Moyano",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": "https://www.artstation.com/artwork/5lGWA"
         },
         {
@@ -2904,7 +2884,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Soldier",
-            "number": 3,
+            "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever another nontoken creature you control enters, you may create a Supporting Role token and attach it to that creature. [i](If you control another Role on it, put that one into the graveyard. It's an Aura Role with \u201cAt the beginning of combat on your turn, target creature gets +1/+1 until end of turn.\u201d)[/i]",
@@ -2916,7 +2896,7 @@
             "loyalty": "",
             "artist": "EmmShin",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": "https://www.artstation.com/artwork/8ewzzm"
         },
         {
@@ -2924,7 +2904,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 64,
+            "number": 67,
             "color_identity": "R",
             "cost": "{R}{R}",
             "rules_text": "You may reveal a legendary creature or planeswalker card you own from outside the game and put it into your hand. Exile Break the Fourth Wall.",
@@ -2936,7 +2916,7 @@
             "loyalty": "",
             "artist": "Marcos Rios",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2944,7 +2924,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 27,
+            "number": 28,
             "color_identity": "UB",
             "cost": "{1}{U}{U}",
             "rules_text": "Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]\nCounter target spell. Then if this spell was kicked, search its controller's graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
@@ -2956,7 +2936,7 @@
             "loyalty": "",
             "artist": "Nikita Orlov",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "https://www.artstation.com/artwork/nY1xa4"
         },
         {
@@ -2964,7 +2944,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Alien Rogue",
-            "number": 50,
+            "number": 54,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Ward\u2014Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]\n[i]Constellation[/i] \u2014 Whenever an enchantment you control enters, exile the top card of target opponent's library. You may play that card for as long as you control this creature, and mana of any color can be spent to cast it.",
@@ -2976,7 +2956,7 @@
             "loyalty": "",
             "artist": "L\u00e9o Chiola",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": "https://www.artstation.com/artwork/WBLb4y"
         },
         {
@@ -2984,7 +2964,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Human Alien Warrior",
-            "number": 8,
+            "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Lifelink\n[i]Constellation[/i] \u2014 Whenever an enchantment you control enters, look at the top card of your library. If it's a creature card with mana value 1 or less, you may put it onto the battlefield. Otherwise, put that card into your hand.",
@@ -2996,7 +2976,7 @@
             "loyalty": "",
             "artist": "Stephen Segovia",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": ""
         },
         {
@@ -3004,7 +2984,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 114,
+            "number": 120,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Any opponent may pay 4 life. If no opponent does, return target creature card with mana value 4 or less from your graveyard to the battlefield.",
@@ -3016,7 +2996,7 @@
             "loyalty": "",
             "artist": "Daryl Mandryk",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "https://www.artstation.com/artwork/KnAVo?collection_id=1609479"
         },
         {
@@ -3024,7 +3004,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Werewolf Warrior",
-            "number": 92,
+            "number": 97,
             "color_identity": "G",
             "cost": "{G}{G}",
             "rules_text": "Trample\nDuring turns other than your own, Moonlighter is a 1/1 Citizen creature and has hexproof.",
@@ -3036,7 +3016,7 @@
             "loyalty": "",
             "artist": "Scot Eaton, Scott Hanna, Miroslav Mrva",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "Scot Eaton (Images)\nInker\nScott Hanna (Images)\nColorist\nMiroslav Mrva (Images)"
         },
         {
@@ -3056,7 +3036,7 @@
             "loyalty": "",
             "artist": "Helder Almeida",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "https://www.artstation.com/artwork/ybkvQJ"
         },
         {
@@ -3064,7 +3044,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 32,
+            "number": 34,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Look at the top three cards of your library. Put one into your hand and the rest on the bottom in a random order.\nFlashback {4}{U}",
@@ -3076,7 +3056,7 @@
             "loyalty": "",
             "artist": "Leo Colapietro",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": ""
         },
         {
@@ -3084,7 +3064,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Human Scientist",
-            "number": 34,
+            "number": 36,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "{T}: Draw a card, then discard a card.\n{3}{U}{U}, {T}, Sacrifice this creature: Create a 4/4 blue Mutant Scientist creature token with flying. Activate only if there are five or more cards in your graveyard.",
@@ -3096,7 +3076,7 @@
             "loyalty": "",
             "artist": "DAnny Kudzinsh",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": "https://www.artstation.com/artwork/ZYeZ0"
         },
         {
@@ -3104,7 +3084,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Human Detective",
-            "number": 19,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "This creature enters with a Supporting Role token attached to it.\nWhenever you attack with three or more creatures, you may sacrifice an Aura attached to this creature. If you do, put two +1/+1 counters and a flying counter on this creature. Do this only once.",
@@ -3116,7 +3096,7 @@
             "loyalty": "",
             "artist": "Ng Fhze Yang",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "https://www.deviantart.com/chrisnfy85/art/Awaken-man-MDZ-180692547"
         },
         {
@@ -3124,7 +3104,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Rabbit Warrior",
-            "number": 20,
+            "number": 22,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "As long as this creature is modified, it gets +1/+1 and is a Mutant in addition to its other types. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -3136,9 +3116,29 @@
             "loyalty": "",
             "artist": "Samuel Borguignon",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "https://www.pinterest.com/pin/1135610862260041751/"
+        },
+        {
+            "card_name": "Mr. E, Burning Question",
+            "color": "WR",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Inquisitor",
+            "number": 131,
+            "color_identity": "WR",
+            "cost": "{1}{R}{W}",
+            "rules_text": "Vigilance, menace\nIf an opponent would draw two or more cards, instead you and that player each investigate.\n{T}, Sacrifice a token: Mr. E deals 3 damage to any target.",
+            "flavor_text": "[i][/i]",
+            "pt": "4/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SHH",
+            "loyalty": "",
+            "artist": "Michael Firman",
+            "alias": "",
+            "position": "155",
+            "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

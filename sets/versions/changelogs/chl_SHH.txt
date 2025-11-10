@@ -1,4 +1,350 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Pretty Penny, Auramancer added.
+Mr. E, Burning Question added.
+
+A Worthy Cause removed.
+Pretty Penny, Aurumancer removed.
+
+Anton Sheer, Moxite Man
+
+Beebo, Swooping Guardian
+
+Calamarie, the Octogarch
+
+Catch the Express
+
+Crystallicer's Cryoperative
+
+Dandylion, Flower Ranger
+
+Defining Moment
+
+Dr. Darkstar, Astronomancer
+
+Falling Star
+
+Goon Squad
+
+Head of Security
+
+Hibisca's Petal
+
+Interrobang
+
+Just a Hologram
+
+Love Interest
+
+Lunar Manawave Project
+
+Power of Flight
+
+Prodigious Protégé
+
+Refract
+
+Shooting Star
+
+Something Worth Protecting
+
+Suit Up Sequence
+
+TeleKay, Charity Collector
+
+The Forces of Evil
+
+The Light Serene
+
+The Overfisher
+
+Tux.exe, Version 3.14
+cost: {4}{W}{B} => {4}{W}{W}
+
+Vigilante's Hopalong
+cost: {U}{R} => {1}{U}
+rules_text: Haste
+[i]Sidekick[/i] — Whenever this creature attacks with another creature with greater power, you may have this creature becomes a copy of that creature, except it's a 2/2 Rabbit Minion, it isn't legendary, and it has this ability. => [i]Sidekick[/i] — Whenever this creature attacks with another creature with greater power, you may have this creature becomes a copy of that creature, except it's a 2/2 Rabbit Minion, it isn't legendary, and it has this ability.
+
+Wyre, the Telekinetworker
+
+Better in Pairs
+cost: {1}{U} => {W}{U}
+
+Biosymphony Project
+
+Cassian, One with Oblivion
+
+Circuit Hopper
+
+Crown Joule
+
+Crystal Seal's Shattering
+
+Directive in Darkness
+
+Double Tap
+
+Echo of Light
+
+Feeding Time
+
+Halcyon Heights
+
+Hammer Down
+
+Herald of the Forerunners
+
+Human Shield
+
+Impervious Technique
+
+Karate King, Final Threat
+cost: {2}{B}{B} => {2}{B}{G}
+
+Krong's Bruiser
+
+Kuzuryo, Moonsent King
+
+Lord Dissonance
+cost: {2}{B}{R} => {2}{R}{G}
+rules_text: You may pay {W}{U}{B}{R}{G} rather than pay the mana costs for spells you cast. Whenever you cast a spell with mana value less than 5 this way, Lord Dissonance deals X damage to any target and you gain X life, where X is the difference. => You may pay {W}{U}{B}{R}{G} rather than pay the mana costs for spells you cast. Whenever you cast a spell with mana value less than 5 this way, put a number of +1/+1 counters on Lord Dissonance equal to the difference.
+
+Lucy Chaos
+
+Mechatyrant Kuzuryo
+
+Miss Mach
+
+Mister Mach
+
+Moon Man, First Hero
+cost: {1}{U}{R} => {1}{U}{U}
+
+Pilot Zero
+
+Project P.R.I.S.M.
+
+Terrifying Savior
+
+This Time, They Will Live
+cost: {2}{B} => {1}{U}{B}
+
+Touch of Eternity
+
+Wish Upon a Star
+
+Zero G, Matter Manipulator
+
+Dapper
+
+Behold Creation
+
+Blue Queen Karnolia
+
+Boris Deadman
+
+Bulwark of Will
+
+Caleborn the Punished
+
+Compact of Mercury
+
+Contemplate
+
+Dance with Doom
+
+Deep-Field Arcanonuclear Reactor
+
+Exile from the Hell Dimension
+cost: {1}{B}{R} => {2}{R}
+
+Fair Lady Silver
+
+Force of One Thousand Suns
+
+Heartstone Synthesizer
+
+Just In Time
+
+Kyo Uun, Herald of Doom
+
+Leap Into Action
+cost: {2}{W}{B} => {2}{W}{W}
+
+Monolith
+
+Papercut
+
+Princess Vermora the Last
+
+Rebirth of the Moon Man
+
+Rose, Rogue Ranger
+
+Scratch, Soldier of Fortune
+
+Serenity Grace, Murder Queen
+rules_text: When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. 
+Whenever a modified creature you control dies, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. 
+Whenever a modified creature you control leaves the battlefield, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Supremacy
+
+The Cat's Paw
+
+The Enchantrix
+
+The Mask of Degorah
+
+The Stone of Eri-Nathor
+
+Time After Time
+
+Worldwalker
+
+Zarqa's Neophytes
+
+Ancient Power
+cost: {1}{B}{R} => {1}{R}{W}
+
+Antimatter Destructron
+
+At the End of the Day
+
+Bucket of Glop
+
+Clothes Make the Man
+
+Daring Rescue
+
+Diamond Skin
+
+From Mighty Acorns
+
+Gilled Goons
+
+Meditative State
+rules_text: You and permanents you control gain hexproof until end of turn.
+Permanents you control gain indestructible until end of turn. => Your life total becomes equal to the total power of creatures you control.
+
+Multiversal Mooks
+
+Punch the Moon
+
+Relentless Rescuer
+
+Sorcerous Sidekick
+
+The Crimson Mask Descends
+
+There's Always More Mooks
+
+Unobtanium Implant
+
+Auroral Dancer
+
+Back on the Streets
+
+Blessing of the Crescent
+
+Catch the Stars
+
+Damsel, Daring Nemesis
+
+Disorienting Blast
+
+Doom Desired
+
+Flower
+
+Gifts from the Skyfish
+
+Glintwing Familiar
+
+Grace of the Cosmos
+
+Jazi Stormblood
+
+Lady of the Ley
+
+Lumin Starbright
+type: Legendary Creature — Insect Cleric => Legendary Creature — Insect Druid
+cost: {GW} => {G}
+
+Mirage Meddler
+
+Need a Hand?
+
+One with the Lifestream
+
+Reverie of the Cosmos
+
+Skeeter Swarm
+
+Split the Storm
+cost: {X}{U}{U}{R} => {X}{U}{U}{U}
+
+Starborn Stomper
+cost: {3}{G}{G}{W}{W} => {5}{G}{G}
+rules_text: Flying, vigilance, trample
+Whenever a creature you control deals 7 or more damage, put seven +1/+1 counters on that creature. => Trample
+Other creatures you control have trample.
+Whenever one or more creatures you control deal combat damage to a player, put that many +1/+1 counters on this creature, then create a 1/1 green Insect creature token for each +1/+1 counter on it.
+
+Starlighting
+
+Suki, Chosen by the Sky
+
+Take On the Mantle
+
+Take the Night Off
+
+The Nameless Hero
+
+Thwart Plans
+
+Utter Annihilation
+cost: {1}{W}{B} => {1}{W}{W}
+rules_text: Exile target nonland permanent. When you do, if its mana value was less than three, put a number of +1/+1 counters on target creature you control equal to the difference. => Exile target creature or planeswalker. When you do, if its mana value was less than three, put a number of +1/+1 counters on target creature you control equal to the difference.
+
+Vile Seedling
+
+Weave The Lifestream
+
+Wyre's Strings
+
+Ace, Card Cheat
+
+Alysha, Penny's Protégé
+
+Bastion, People's Champion
+
+Break the Fourth Wall
+
+Data Optimization
+
+Elseworlds Invader
+
+Galactic Vanguards
+
+Gritty Reboot
+
+Moonlighter, Park Protector
+
+Paradoxical Prism
+
+Prep Time
+
+Renegade Geneticist
+
+Unassuming Reporter
+
+Valorous Bouncer
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
