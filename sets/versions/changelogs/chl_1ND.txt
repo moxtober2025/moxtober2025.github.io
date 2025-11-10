@@ -1,4 +1,100 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Plot Unfolding added.
+Destiny Thieves' HQ added.
+Dawn-Shrouded Lyricist added.
+
+Plan Unfolding removed.
+Magical Girl HQ removed.
+Dawn-Winged Lyricist removed.
+
+Bust Down the Door
+type: Instant => Sorcery
+cost: {X}{R}{R} => {X}{R}
+rules_text: Breach [i](This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)[/i]
+Bust Down the Door deals X damage to each creature. Destroy all artifacts with mana value X or less. => Bust Down the Door deals X damage to each creature. Destroy all artifacts with mana value X or less.
+
+Errant Ransacker
+rules_text: When this creature enters, choose one —
+• Destroy target Aura or Equipment.
+• Put a +1/+1 counter on this creature. => Trample
+When this creature enters, choose one —
+• Destroy target Aura or Equipment.
+• Put a +1/+1 counter on this creature.
+
+Watch from Above
+rules_text: Reveal the top five cards of your library. You may choose a land card from among them, put it into your hand, then put the rest on the bottom of your library in a random order.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Reveal the top five cards of your library. You may choose a basic land card from among them, put it into your hand, then put the rest on the bottom of your library in a random order.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Digital Genesis
+rules_text: Look at the top seven cards of your library. You may put a creature with mana value 1 from among them onto the battlefield, then do the same for creatures with mana value 2 and 3. => Look at the top seven cards of your library. You may put a creature with mana value 1 from among them onto the battlefield, then do the same for creatures with mana value 2 and 3. Put the rest on the bottom of your library in any order.
+
+Siobhan, Master of Fate
+cost: {3}{U}{U} => {3}{W}{U}
+rules_text: Whenever one or more creatures you control deal combat damage to a player, draw a card.
+[+1]: Up to one target creature you control gains distraction until end of turn.
+[-3]: Create Beebo, a legendary 3/3 blue Dragon creature token with flying.
+[-8]: You get an emblem with “Whenever you cast a spell, you may exile target nonland permanent, then return it to the battlefield or to its owner's hand.” => Whenever a creature you control deals combat damage to a player, draw a card.
+[+1]: Up to one target creature gains distraction until end of turn.
+[-3]: Create Beebo, a legendary 3/3 blue Dragon creature token with flying and double strike.
+[-8]: You get an emblem with “Whenever you cast a spell, exile up to one target nonland permanent, then return it to the battlefield or to its owner's hand.”
+special_text: Whenever one or more creatures you control deal combat damage to a player, draw a card.
+[+1]: Up to one target creature you control gains distraction until end of turn.
+[-3]: Create Beebo, a legendary 3/3 blue Dragon creature token with flying.
+[-8]: You get an emblem with “Whenever you cast a spell, you may exile target nonland permanent, then return it to the battlefield or to its owner's hand.” => Whenever a creature you control deals combat damage to a player, draw a card.
+[+1]: Up to one target creature gains distraction until end of turn.
+[-3]: Create Beebo, a legendary 3/3 blue Dragon creature token with flying and double strike.
+[-8]: You get an emblem with “Whenever you cast a spell, exile up to one target nonland permanent, then return it to the battlefield or to its owner's hand.”
+
+Suspicious Maître d'
+rules_text: Haste
+When this creature dies, target opponent investigates. [i](They create a Clue token with “{2}, Sacrifice this token: Draw a card.”)[/i] => Haste
+Whenever this creature deals combat damage to a player, that player investigates. [i](They create a Clue token with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+The First Crew
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, creatures you control gain “Whenever this creature deals combat damage to a player, create a Treasure token.”
+III — Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+III — Sacrifice two creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, creatures you control gain “Whenever this creature deals combat damage to a player, create a Treasure token.”
+III — Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token”
+III — Sacrifice two creatures.
+
+Flamepurging Angel
+rules_text: Flying, ward {3}
+When this creature enters, if you cast it, exile target nonland permanent you don't control.
+You have protection from mana value X or greater, where X is the exiled permanent's mana value. => Flying, ward {3}
+When this creature enters, exile target nonland permanent you don't control.
+You have protection from mana value X or greater, where X is the exiled permanent's mana value.
+
+Larcenous Confluence
+rules_text: Choose three. You may choose the same mode more than once.
+• Create two 1/1 white Soldier creature tokens.
+• You may put an Equipment card from your hand onto the battlefield.
+• You may attach an Equipment you control to a creature you control. => Choose three. You may choose the same mode more than once.
+• Create a 2/2 white Human Soldier creature token.
+• You may put an Equipment card from your hand onto the battlefield.
+• You may attach an Equipment you control to a creature you control.
+
+Princess of the Ball
+type: Creature => Creature — Human Noble
+
+Mira's Foresight
+rules_text: When this enchantment enters, scry 1, then draw a card.
+Whenever you draw one or more cards, if it's not your draw step, put a meditation counter on this enchantment. Then if there are six or more meditation counters on this enchantment, sacrifice it and take an extra turn after this one. => When this enchantment enters, scry 1, then draw a card.
+Whenever you draw one or more cards, if it's not your draw step, put a meditation counter on this enchantment. Then if there are six or more meditation counters on this enchantment, exile it and take an extra turn after this one.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

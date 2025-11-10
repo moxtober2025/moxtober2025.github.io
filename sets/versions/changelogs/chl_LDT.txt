@@ -1,4 +1,466 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+The Merest Taste of Divinity added.
+Blazing Light added.
+Lacustrine Prophet added.
+God added.
+Bird added.
+Bismuth Brawler added.
+A Millenium Under the Oath added.
+Histories of the Table added.
+
+Ruby Rager removed.
+Drink Deeply and Without Fear removed.
+Fates Bound Forever removed.
+A Millennium Under the Oath removed.
+Questing Vessel removed.
+Guiding Light removed.
+
+Curse of Asceticism
+rules_text: Enchant player
+At the beginning of enchanted player's upkeep, they sacrifice a noncreature, nonbasic permanent. They may search their library for a basic land card, put it onto the battlefield, then shuffle. => Enchant player
+At the beginning of enchanted player's upkeep, they sacrifice a noncreature, nonbasic permanent. If they do, they may search their library for a basic land card, put it onto the battlefield, then shuffle.
+
+Ruin to Be Wrought
+rules_text: Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if the seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if your seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Parting Calm Waters
+
+Martyr of Runes
+rules_text: {T}: If the seal is broken, up to one target creature you control gains protection from the color of your choice until end of turn. Otherwise, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => {T}: If your seal is broken, up to one target creature you control gains protection from the color of your choice until end of turn. Otherwise, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Hollow Worshipper
+cost: {1}{B} => {1}{R}
+rules_text: {2}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+When this creature dies, each opponent loses 3 life and you gain 3 life. => {2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+When this creature dies, it deals 3 damage to each opponent.
+
+Ravaine, Heir Eternal
+
+Grounded Salvation
+rules_text: Choose one — 
+• Destroy target creature with flying.
+• Move any number of counters from creatures you control onto another target creature. => Choose one — 
+• Destroy target creature with flying.
+• Move any number of counters from creatures you control onto another target creature.
+• Counter target ability from a noncreature, nonland source.
+
+Brush with Divinity
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Return all nonland permanents to their owners' hands. If the seal is broken, you may put a permanent card with mana value 5 or less from your hand onto the battlefield. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+Return all nonland permanents to their owners' hands. If your seal is broken, you may put a permanent card with mana value 5 or less from your hand onto the battlefield.
+
+Her Ladyship The Moon
+rules_text: Flying, indestructible
+Her Ladyship The Moon isn't a creature unless the seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal. => Flying, indestructible
+Her Ladyship The Moon isn't a creature unless your seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal.
+
+The Crowning of a Princess
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+
+The Sealing of a God
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature.
+
+The Seeking of a Legend
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+
+The Weaving of a Star
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+
+To Slaughter
+rules_text: Discard a card, then draw a card. Unseal, then if the seal is broken, draw a card. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Discard a card, then draw a card. Unseal, then if your seal is broken, draw a card. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Beseech the Lady
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+If the seal is broken, scry 2. Draw a card. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+If your seal is broken, scry 2. Draw a card.
+
+Catacomb Consecrator
+rules_text: {2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.
+When Catacomb Consecrator leaves the battlefield, you may put a creature card with mana value 2 or less exiled with it that you own onto the battlefield. => {2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.
+When this creature leaves the battlefield, you may put a creature card with mana value 2 or less exiled with it that you own onto the battlefield.
+
+Catacomb Hoarder
+rules_text: Flying, ward—Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Catacomb Hoarder can't attack unless you sacrifice another creature.
+Whenever Catacomb Hoarder deals combat damage to a player, return a creature card at random from your graveyard to the battlefield with a finality counter on it. => Flying
+Ward—Pay 3 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Whenever this creature deals combat damage to a player, choose a creature card at random from your graveyard. You may sacrifice a creature. When you do, return the chosen card to the battlefield tapped.
+
+Lotus-Pool Fishcat
+rules_text: You may look at the top card of your library at any time.
+You may play land cards from the top of your library as long as Lotus-Pool Fishcat is untapped.
+You may cast creature spells from the top of your library as long as Lotus-Pool Fishcat is tapped. => You may look at the top card of your library at any time.
+You may play land cards from the top of your library as long as this creature is untapped.
+You may cast creature spells from the top of your library as long as this creature is tapped.
+
+Obelia, Headless Huntress
+
+Rise, Again and Again
+rules_text: At the beginning of your end step, put a time counter on this enchantment. Mill a card for each time counter on this, then you may return a creature card with mana value less than or equal to the number of time counters on this enchantment from your graveyard to the battlefield with a finality counter on it. => At the beginning of your end step, put a time counter on this enchantment. Mill a card for each time counter on this enchantment, then you may return a creature card with mana value less than or equal to the number of time counters on this enchantment from your graveyard to the battlefield with a finality counter on it.
+
+Starlight Titan
+rules_text: First strike
+Whenever Starlight Titan enters or attacks, exile the top two cards of your library. You may play those cards. For each card you don't play, create a 1/1 white Soldier creature token with lifelink. => First strike
+Whenever this creature enters or attacks, exile the top two cards of your library. You may play those cards. For each card you don't play, create a 1/1 white Spirit creature token with lifelink.
+
+Banished From Heaven
+cost: {W} => {1}{W}
+rules_text: Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1. It can't have counters put on it or permanents attached to it.
+When this enchantment enters, remove all counters from enchanted creature and destroy all other permanents attached to it. => Flash
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1. It can't have counters put on it or permanents attached to it.
+When this enchantment enters, remove all counters from enchanted creature and destroy all other permanents attached to it.
+
+Secrets in the Stars
+
+Undying Loyalist
+rules_text: Double strike
+{2}{B}{R}, Tap an untapped modified creature you control: If this is in your graveyard, exchange it with the tapped creature. [i](You must both own and control that creature. This keeps that creature's counters and attachments.)[/i] => Double strike
+{2}{B}{R}, Tap an untapped modified creature you control: If this card is in your graveyard, exchange it with the creature tapped this way. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Wyrdwood Guardian
+
+Final Masquerade
+
+Meditations on Devotion
+
+Timelost Relict
+rules_text: This spell costs {1} less to cast for each instant or sorcery card in your graveyard or that you own in exile.
+Ward {2}
+Islandcycling {2} => This spell costs {1} less to cast for each instant or sorcery card in your graveyard or that you own in exile.
+Ward {2}
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Wyrdwood Dryad
+
+Field of Swords
+rules_text: Field of Swords enters tapped unless a creature died this turn.
+Field of Swords doesn't untap during your untap step.
+At the beginning of your end step, if a creature died this turn, untap Field of Swords.
+{T}: Add one mana of any color. => This land enters tapped unless a creature died this turn.
+This land doesn't untap during your untap step.
+At the beginning of your end step, if a creature died this turn, untap this land.
+{T}: Add one mana of any color.
+
+Searing Brilliance
+
+Fervent Bloodletter
+
+Forbidden Hex
+rules_text: Choose four target creatures. They each get -4/-4 until end of turn. [i](If you can't choose four targets, you can't cast this.)[/i] => Four target creatures each get -4/-4 until end of turn. [i](If you can't choose four targets, you can't cast this.)[/i]
+
+The Meek and Many
+rules_text: When this enchantment enters, create two 1/1 white Rabbit creature tokens.
+At the beginning of your end step, unseal, then if the seal is broken, create a token that's a copy of a token you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => When this enchantment enters, create two 1/1 white Rabbit creature tokens.
+At the beginning of your end step, unseal, then if your seal is broken, create a token that's a copy of a token you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Commandeered Barge
+rules_text: Whenever Commandeered Barge enters or attacks, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+As long as the seal is broken, this permanent is an 8/8 Kraken creature in addition to its other types.
+Crew 2 => Whenever this Vehicle enters or attacks, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+As long as the seal is broken, this Vehicle is an 8/8 Kraken creature in addition to its other types.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Seek Unspoiled Lands
+rules_text: You may look at the top card of your library at any time.
+You may play land cards from the top of your library or your graveyard, but not from your hand.
+{2}, Exile a land card from your hand: Create two 1/1 green Scout creature tokens. => You may look at the top card of your library at any time.
+You may play land cards from the top of your library or your graveyard.
+You can't play land cards from your hand.
+{2}, Exile a land card from your hand: Create two 1/1 green Scout creature tokens.
+
+A Sliver of Her Might
+
+Silverthread Spirit
+rules_text: Flying
+Tap three untapped creatures you control: Tap target creature you don't control, then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Silverthread Spirit can't attack or block unless the seal is broken. => Flying
+Tap three untapped creatures you control: Tap target creature you don't control, then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+This creature can't attack or block unless the seal is broken.
+
+Soldier On
+
+Stone of Swords
+
+Perennial Penguins
+rules_text: Whenever this creature enters or attacks, you may sacrifice an artifact or land. If you do, create a colorless snow artifact token named Icy Manalith with “{T}: Add one mana of any color.” => Whenever this creature enters or attacks, you may sacrifice an artifact or land. If you do, create an Uncharted Haven token. [i](It's a land with “This land enters tapped. As it enters, choose a color.” and “{T}: Add one mana of the chosen color.”)[/i]
+
+Knight of Unanswered Wishes
+
+Mooncursed Packleader
+rules_text: Whenever you attack, creatures you control get +1/+1 until end of turn. If the seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Whenever you attack, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+
+Feigned Innocence
+
+Meditations on Truth
+
+Answerer of Pleas
+
+The Pale Riders of the Mire
+
+Knight of Refraction
+
+Forsaken Paladin
+
+Syr Grgkhshktsh, the Unruly
+
+Seal Beneath the Lake
+rules_text: Bind a God [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a God creature token.)[/i]
+Shuffle up to one target creature and up to two target cards from a single graveyard into their owners' libraries. => Bind a God [i](When you cast this spell, you may copy it and may choose new targets for the copy. If you don't, create a 4/4 blue God creature token with flying.)[/i]
+Shuffle up to one target creature with power 4 or greater and up to two target cards from a single graveyard into their owners' libraries.
+
+Curse of Moonlight Sickness
+
+Curse of Warping Flesh
+
+Stir the Brew
+
+Natural Beauty
+
+War-Hardened Headhunter
+
+Familiar's Watch
+
+Keeper of the Grail
+
+Crystal Clear
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Exile the top three cards of your library. You may play them as long as they were exiled this turn or the seal is broken. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Exile the top three cards of your library. You may play them as long as they were exiled this turn or your seal is broken.
+
+Aneaena, Timeless Hermit
+
+Hallowed Shieldbearer
+rules_text: Ward {2}
+When this creature enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+If damage would be dealt to you, mill that many cards, then if the seal is broken, prevent that damage. => Ward {2}
+When this creature enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+If damage would be dealt to you, mill that many cards, then if your seal is broken, prevent that damage.
+
+Helpful Silversmith
+
+Ancient Lore
+rules_text: At the beginning of your upkeep, you may remove a +1/+1 counter from a creature you control. If you do, draw a card. Otherwise, put a +1/+1 counter on up to one target creature. => At the beginning of your upkeep, choose one —
+• Remove a +1/+1 counter from up to one target creature you control. If you do, draw a card.
+• Put a +1/+1 counter on target creature.
+
+Dressed to Kill
+
+Shroud of Moths
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Target creature gets -1/-1 until end of turn. If the seal is broken, exile it instead. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Target creature gets -1/-1 until end of turn. If your seal is broken, exile it instead.
+
+Accursed Astrologist
+
+Sow the Seeds of Glory
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle. If the seal is broken, untap it. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle. If your seal is broken, untap it.
+
+Lena of the Lunar Eclipse
+
+Ravaine's Loyalist
+
+Curse of Overwhelming Ennui
+
+Vicious Cycle
+
+Caelia, the South Star (Promo)
+
+Ruin to be Wrought (Promo)
+rules_text: Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if the seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if your seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+The Red Grail (Promo)
+
+Bloodscent Tracker
+
+Commanding Concubus
+rules_text: Flying
+When Commanding Concubus enters, each opponent chooses two —
+• They sacrifice a creature of their choice.
+• They sacrifice a noncreature permanent of their choice.
+• They discard a card at random.
+• They lose 3 life and you gain 3 life. => When this creature enters, each opponent chooses two —
+• They sacrifice a creature of their choice.
+• They sacrifice a noncreature permanent of their choice.
+• They discard a card at random.
+• They lose 3 life and you gain 3 life.
+pt: 3/3 => 4/4
+
+A Heart Enraptured
+rules_text: Enchant player
+Whenever enchanted player attacks, they lose 3 life unless they sacrifice a creature or discard a creature card. => Enchant player
+Whenever enchanted player attacks, they lose 3 life unless they sacrifice a creature discard a creature card.
+
+Concoction of Strength
+
+Desperate Cradling
+
+Duty Unending
+
+Fraying Star-Guide
+rules_text: When Fraying Star-Guide enters, you may unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+{1}, {T}: Draw a card. Then discard a card unless the seal is broken. => When Fraying Star-Guide enters, you may unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+{1}, {T}: Draw a card. Then discard a card unless the seal is broken.
+
+Glasswork Champion
+
+Her Gaze Weighs Heavy
+rules_text: Bind a Beast [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 3/3 green Beast creature token.)[/i]
+Target opponent may have this spell deal 4 damage to them. If that player doesn't, you draw three cards. => Bind a Beast [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 3/3 green Beast creature token.)[/i]
+Target opponent may have this spell deal 3 damage to them. If that player doesn't, you draw two cards.
+
+Her Ladyship's Truth
+rules_text: Enchant creature
+When Her Ladyship's Truth enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+You control enchanted creature as long as it's your turn or the seal is broken. => Enchant creature
+When Her Ladyship's Truth enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+You control enchanted creature as long as it's your turn or the seal is broken.
+
+Knight-Radiant
+
+Knight's Last Wish
+
+Lunar Reflection
+rules_text: Create a token that's a copy of target creature you control.
+Unseal. Then if the seal is broken, put a flying counter and a vigilance counter on the token. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Create a token that's a copy of target creature you control.
+Unseal. Then if the seal is broken, put a flying counter and a vigilance counter on the token. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Meditations on Obligation
+
+Pristine Blade
+
+Rust-Souled Veteran
+
+Safira, High Priestess
+
+Second Skin
+
+Silver Apostate
+
+Sinewtail
+
+Sinking into the Lady's Grasp
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+At the beginning of combat on your turn, if the seal is broken, put a +1/+1 counter on target creature you control. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+At the beginning of combat on your turn, if the seal is broken, put a +1/+1 counter on target creature you control.
+
+Strike As One
+
+Sworn Shortsword
+
+Tainted-Shore Witch
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature.
+
+The Stars Are Her Hands
+
+The Waning of the Sun
+rules_text: When The Waning of the Sun enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+All creatures get -1/-1. If the seal is broken, instead creatures except for non-Human creatures you control get -1/-1. => When The Waning of the Sun enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+All creatures get -1/-1. If the seal is broken, instead creatures except for non-Human creatures you control get -1/-1.
+
+Umbrette, Peculiar Princess
+
+Vitreous Drifter
+
+Waters of the Lake
+rules_text: At the beginning of your end step, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+If you would unseal while the seal is broken, instead mill two cards, then put one of those cards into your hand. => At the beginning of your end step, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+If you would unseal while the seal is broken, instead mill two cards, then put one of those cards into your hand.
+
+Wildpath Paragon
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

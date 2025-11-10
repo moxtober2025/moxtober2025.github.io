@@ -1,4 +1,359 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+A Worthy Cause
+
+Anton Sheer, Moxite Man
+
+Beebo, Swooping Guardian
+
+Calamarie, the Octogarch
+
+Catch the Express
+
+Crystallicer's Cryoperative
+
+Dandylion, Flower Ranger
+
+Defining Moment
+
+Dr. Darkstar, Astronomancer
+
+Falling Star
+
+Goon Squad
+
+Head of Security
+
+Hibisca's Petal
+
+Interrobang
+
+Just a Hologram
+
+Love Interest
+
+Lunar Manawave Project
+
+Power of Flight
+
+Pretty Penny, Aurumancer
+
+Prodigious Protégé
+
+Refract
+
+Shooting Star
+
+Something Worth Protecting
+
+Suit Up Sequence
+
+TeleKay, Charity Collector
+
+The Forces of Evil
+
+The Light Serene
+
+The Overfisher
+
+Tux.exe, Version 3.14
+
+Vigilante's Hopalong
+
+Wyre, the Telekinetworker
+
+Better in Pairs
+
+Biosymphony Project
+
+Cassian, One with Oblivion
+
+Circuit Hopper
+
+Crown Joule
+
+Crystal Seal's Shattering
+
+Directive in Darkness
+
+Double Tap
+
+Echo of Light
+
+Feeding Time
+
+Halcyon Heights
+
+Hammer Down
+
+Herald of the Forerunners
+
+Human Shield
+
+Impervious Technique
+
+Karate King, Final Threat
+
+Krong's Bruiser
+
+Kuzuryo, Moonsent King
+
+Lord Dissonance
+
+Lucy Chaos
+
+Mechatyrant Kuzuryo
+rules_text: Flying
+Whenever you cast a noncreature spell, create a tapped colorless artifact token named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.” => Flying
+When Mechatyrant Kuzuryo enters, create three tapped colorless artifact tokens each named Meteorite with “When this token enters, it deals 2 damage to any target” and “{T}: Add one mana of any color.”
+
+Miss Mach
+
+Mister Mach
+
+Moon Man, First Hero
+
+Pilot Zero
+rules_text: Once during each of your turns, you may cast the top card of your library by discarding a card in addition to that spell's other costs.
+{T}: Another target creature gains haste until end of turn. => You may look at the top card of your library any time.
+Once during each of your turns, you may cast the top card of your library by discarding a card in addition to that spell's other costs.
+{T}: Another target creature gains haste until end of turn.
+
+Project P.R.I.S.M.
+
+Terrifying Savior
+
+This Time, They Will Live
+
+Touch of Eternity
+rules_text: Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Wish Upon a Star
+
+Zero G, Matter Manipulator
+
+Dapper
+
+Behold Creation
+
+Blue Queen Karnolia
+
+Boris Deadman
+cost: {3}{B}{B} => {4}{B}{B}
+pt: 5/2 => 5/4
+
+Bulwark of Will
+
+Caleborn the Punished
+
+Compact of Mercury
+rules_text: You may sacrifice a modified creature rather than pay this spell's mana cost. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Modified creatures you control gain hexproof and indestructible until end of turn. => You may sacrifice a modified creature rather than pay this spell's mana cost. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Creatures you control gain hexproof and indestructible until end of turn.
+
+Contemplate
+
+Dance with Doom
+
+Deep-Field Arcanonuclear Reactor
+
+Exile from the Hell Dimension
+
+Fair Lady Silver
+
+Force of One Thousand Suns
+
+Heartstone Synthesizer
+rules_text: [i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, create a Mox Emerald token. => [i]Sidekick [/i]— Whenever this creature attacks with another creature with greater power, create a Mox Emerald token. [i](It's a colorless artifact with “{T}: Add {G}.”)[/i]
+
+Just In Time
+
+Kyo Uun, Herald of Doom
+
+Leap Into Action
+
+Monolith
+
+Papercut
+
+Princess Vermora the Last
+
+Rebirth of the Moon Man
+
+Rose, Rogue Ranger
+
+Scratch, Soldier of Fortune
+
+Serenity Grace, Murder Queen
+
+Supremacy
+
+The Cat's Paw
+rules_text: When The Cat's Paw enters, each player discards a card. Create a Lackey Role attached to a creature you control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When the Role leaves play, draw a card.)[/i] => When The Cat's Paw enters, each player discards a card. Create a Lackey Role token attached to a creature you control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)[/i]
+
+The Enchantrix
+
+The Mask of Degorah
+
+The Stone of Eri-Nathor
+
+Time After Time
+
+Worldwalker
+
+Zarqa's Neophytes
+
+Ancient Power
+
+Antimatter Destructron
+
+At the End of the Day
+
+Bucket of Glop
+
+Clothes Make the Man
+
+Daring Rescue
+
+Diamond Skin
+
+From Mighty Acorns
+
+Gilled Goons
+
+Meditative State
+
+Multiversal Mooks
+
+Punch the Moon
+
+Relentless Rescuer
+
+Sorcerous Sidekick
+
+The Crimson Mask Descends
+
+There's Always More Mooks
+
+Unobtanium Implant
+
+Auroral Dancer
+
+Back on the Streets
+
+Blessing of the Crescent
+
+Catch the Stars
+
+Damsel, Daring Nemesis
+
+Disorienting Blast
+
+Doom Desired
+
+Flower
+
+Gifts from the Skyfish
+
+Glintwing Familiar
+
+Grace of the Cosmos
+
+Jazi Stormblood
+
+Lady of the Ley
+
+Lumin Starbright
+
+Mirage Meddler
+
+Need a Hand?
+
+One with the Lifestream
+
+Reverie of the Cosmos
+
+Skeeter Swarm
+
+Split the Storm
+
+Starborn Stomper
+
+Starlighting
+
+Suki, Chosen by the Sky
+
+Take On the Mantle
+
+Take the Night Off
+
+The Nameless Hero
+
+Thwart Plans
+
+Utter Annihilation
+
+Vile Seedling
+
+Weave The Lifestream
+
+Wyre's Strings
+
+Ace, Card Cheat
+cost: {2}{R}{R} => {1}{R}{R}
+pt: 4/4 => 3/3
+
+Alysha, Penny's Protégé
+
+Bastion, People's Champion
+cost: {1}{W} => {2}{W}
+pt: 3/2 => 3/3
+
+Break the Fourth Wall
+rules_text: Reveal a legendary creature or planeswalker card you own from outside the game and put it into your hand. => You may reveal a legendary creature or planeswalker card you own from outside the game and put it into your hand. Exile Break the Fourth Wall.
+
+Data Optimization
+cost: {U}{U}{B} => {1}{U}{U}
+rules_text: Counter target spell. Search its controller's graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way. => Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]
+Counter target spell. Then if this spell was kicked, search its controller's graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+
+Elseworlds Invader
+rules_text: Ward—Pay 3 life.
+[i]Constellation[/i] — Whenever an enchantment you control enters, look at the top card of target opponent's library and exile it.
+You may play cards exiled with this creature. Mana of any type can be spent to cast them. => Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+[i]Constellation[/i] — Whenever an enchantment you control enters, exile the top card of target opponent's library. You may play that card for as long as you control this creature, and mana of any color can be spent to cast it.
+
+Galactic Vanguards
+
+Gritty Reboot
+rules_text: Any opponent may pay 4 life. If no one does, return target creature card with mana value 4 or less from your graveyard to the battlefield. => Any opponent may pay 4 life. If no opponent does, return target creature card with mana value 4 or less from your graveyard to the battlefield.
+
+Moonlighter, Park Protector
+
+Paradoxical Prism
+
+Prep Time
+
+Renegade Geneticist
+rules_text: {U}, {T}: Draw a card, then discard a card.
+{3}{U}{U}, {T}, Sacrifice this creature: Create a 4/4 blue Mutant Scientist creature token with flying. Activate only if there are five or more cards in your graveyard. => {T}: Draw a card, then discard a card.
+{3}{U}{U}, {T}, Sacrifice this creature: Create a 4/4 blue Mutant Scientist creature token with flying. Activate only if there are five or more cards in your graveyard.
+
+Unassuming Reporter
+
+Valorous Bouncer
+rules_text: Ward {1}
+As long as this creature is modified, it gets +1/+1 and is a Mutant in addition to its other types. [i](Equipment, Auras you control, and counters are modifications.)[/i] => As long as this creature is modified, it gets +1/+1 and is a Mutant in addition to its other types. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "A Worthy Cause",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Enchantment",
 			"collector_number": "2",
@@ -12,17 +12,17 @@
 		},
 		{
 			"name": "Anton Sheer, Moxite Man",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/1.png"
 			}
 		},
 		{
 			"name": "Beebo, Swooping Guardian",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Drake Minion",
 			"collector_number": "22",
@@ -32,27 +32,27 @@
 		},
 		{
 			"name": "Calamarie, the Octogarch",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Mutant Rogue",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/3.png"
 			}
 		},
 		{
 			"name": "Catch the Express",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/4.png"
 			}
 		},
 		{
 			"name": "Crystallicer's Cryoperative",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Scientist Minion",
 			"collector_number": "26",
@@ -62,17 +62,17 @@
 		},
 		{
 			"name": "Dandylion, Flower Ranger",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Dryad Ranger",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/6.png"
 			}
 		},
 		{
 			"name": "Defining Moment",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Instant",
 			"collector_number": "108",
@@ -82,37 +82,37 @@
 		},
 		{
 			"name": "Dr. Darkstar, Astronomancer",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Doctor",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/8.png"
 			}
 		},
 		{
 			"name": "Falling Star",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/9.png"
 			}
 		},
 		{
 			"name": "Goon Squad",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Minion",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/10.png"
 			}
 		},
 		{
 			"name": "Head of Security",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact Creature — Cyborg Minion",
 			"collector_number": "10",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Hibisca's Petal",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Plant Dog Minion",
 			"collector_number": "12",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Interrobang",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Minion",
 			"collector_number": "115",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Just a Hologram",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "116",
@@ -152,27 +152,27 @@
 		},
 		{
 			"name": "Love Interest",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/15.png"
 			}
 		},
 		{
 			"name": "Lunar Manawave Project",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/16.png"
 			}
 		},
 		{
 			"name": "Power of Flight",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Pretty Penny, Aurumancer",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "127",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Prodigious Protégé",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock Minion",
 			"collector_number": "17",
@@ -202,27 +202,27 @@
 		},
 		{
 			"name": "Refract",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/20.png"
 			}
 		},
 		{
 			"name": "Shooting Star",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Creature — Human Soldier Minion",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/21.png"
 			}
 		},
 		{
 			"name": "Something Worth Protecting",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "132",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Suit Up Sequence",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "136",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "TeleKay, Charity Collector",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "138",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "The Forces of Evil",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "111",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "The Light Serene",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Legendary Enchantment — Aura",
 			"collector_number": "13",
@@ -272,17 +272,17 @@
 		},
 		{
 			"name": "The Overfisher",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/27.png"
 			}
 		},
 		{
 			"name": "Tux.exe, Version 3.14",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Artifact Creature — Robot Detective",
 			"collector_number": "140",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Vigilante's Hopalong",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Rabbit Minion",
 			"collector_number": "142",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Wyre, the Telekinetworker",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Artifact Creature — Cyborg",
 			"collector_number": "145",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Better in Pairs",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "23",
@@ -322,27 +322,27 @@
 		},
 		{
 			"name": "Biosymphony Project",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Mutant",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/32.png"
 			}
 		},
 		{
 			"name": "Cassian, One with Oblivion",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/33.png"
 			}
 		},
 		{
 			"name": "Circuit Hopper",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Rabbit",
 			"collector_number": "151",
@@ -352,47 +352,47 @@
 		},
 		{
 			"name": "Crown Joule",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/35.png"
 			}
 		},
 		{
 			"name": "Crystal Seal's Shattering",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/36.png"
 			}
 		},
 		{
 			"name": "Directive in Darkness",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/37.png"
 			}
 		},
 		{
 			"name": "Double Tap",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/38.png"
 			}
 		},
 		{
 			"name": "Echo of Light",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "7",
@@ -402,17 +402,17 @@
 		},
 		{
 			"name": "Feeding Time",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/40.png"
 			}
 		},
 		{
 			"name": "Halcyon Heights",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "155",
@@ -422,17 +422,17 @@
 		},
 		{
 			"name": "Hammer Down",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/42.png"
 			}
 		},
 		{
 			"name": "Herald of the Forerunners",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Scout",
 			"collector_number": "11",
@@ -442,57 +442,57 @@
 		},
 		{
 			"name": "Human Shield",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/44.png"
 			}
 		},
 		{
 			"name": "Impervious Technique",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/45.png"
 			}
 		},
 		{
 			"name": "Karate King, Final Threat",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/46.png"
 			}
 		},
 		{
 			"name": "Krong's Bruiser",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Shark Minion",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/47.png"
 			}
 		},
 		{
 			"name": "Kuzuryo, Moonsent King",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/48.png"
 			}
 		},
 		{
 			"name": "Lord Dissonance",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Avatar Performer",
 			"collector_number": "118",
@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "Lucy Chaos",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "119",
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Mechatyrant Kuzuryo",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{B}{R}",
 			"type": "Legendary Artifact Creature — Dragon",
 			"collector_number": "121",
@@ -522,7 +522,7 @@
 		},
 		{
 			"name": "Miss Mach",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "123",
@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Mister Mach",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "124",
@@ -542,7 +542,7 @@
 		},
 		{
 			"name": "Moon Man, First Hero",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "125",
@@ -552,27 +552,27 @@
 		},
 		{
 			"name": "Pilot Zero",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Zombie Pilot",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/55.png"
 			}
 		},
 		{
 			"name": "Project P.R.I.S.M.",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/56.png"
 			}
 		},
 		{
 			"name": "Terrifying Savior",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "139",
@@ -582,47 +582,47 @@
 		},
 		{
 			"name": "This Time, They Will Live",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/58.png"
 			}
 		},
 		{
 			"name": "Touch of Eternity",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/59.png"
 			}
 		},
 		{
 			"name": "Wish Upon a Star",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/60.png"
 			}
 		},
 		{
 			"name": "Zero G, Matter Manipulator",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/61.png"
 			}
 		},
 		{
 			"name": "Dapper",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "1",
@@ -632,17 +632,17 @@
 		},
 		{
 			"name": "Behold Creation",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/63.png"
 			}
 		},
 		{
 			"name": "Blue Queen Karnolia",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Elemental Human",
 			"collector_number": "24",
@@ -652,37 +652,37 @@
 		},
 		{
 			"name": "Boris Deadman",
-			"rarity": "special",
-			"mana_cost": "{3}{B}{B}",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/65.png"
 			}
 		},
 		{
 			"name": "Bulwark of Will",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/66.png"
 			}
 		},
 		{
 			"name": "Caleborn the Punished",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Legendary Creature — Beast",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/67.png"
 			}
 		},
 		{
 			"name": "Compact of Mercury",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
 			"collector_number": "5",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Contemplate",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "25",
@@ -702,17 +702,17 @@
 		},
 		{
 			"name": "Dance with Doom",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/70.png"
 			}
 		},
 		{
 			"name": "Deep-Field Arcanonuclear Reactor",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "152",
@@ -722,7 +722,7 @@
 		},
 		{
 			"name": "Exile from the Hell Dimension",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Artifact Creature — Demon",
 			"collector_number": "109",
@@ -732,7 +732,7 @@
 		},
 		{
 			"name": "Fair Lady Silver",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{C}{C}",
 			"type": "Legendary Creature — Faerie Elemental",
 			"collector_number": "1",
@@ -742,7 +742,7 @@
 		},
 		{
 			"name": "Force of One Thousand Suns",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
 			"collector_number": "110",
@@ -752,37 +752,37 @@
 		},
 		{
 			"name": "Heartstone Synthesizer",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/75.png"
 			}
 		},
 		{
 			"name": "Just In Time",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/76.png"
 			}
 		},
 		{
 			"name": "Kyo Uun, Herald of Doom",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/77.png"
 			}
 		},
 		{
 			"name": "Leap Into Action",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "117",
@@ -792,27 +792,27 @@
 		},
 		{
 			"name": "Monolith",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/79.png"
 			}
 		},
 		{
 			"name": "Papercut",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/80.png"
 			}
 		},
 		{
 			"name": "Princess Vermora the Last",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Druid",
 			"collector_number": "128",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Rebirth of the Moon Man",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "129",
@@ -832,7 +832,7 @@
 		},
 		{
 			"name": "Rose, Rogue Ranger",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Rogue Ranger",
 			"collector_number": "130",
@@ -842,17 +842,17 @@
 		},
 		{
 			"name": "Scratch, Soldier of Fortune",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/84.png"
 			}
 		},
 		{
 			"name": "Serenity Grace, Murder Queen",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "131",
@@ -862,37 +862,37 @@
 		},
 		{
 			"name": "Supremacy",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/86.png"
 			}
 		},
 		{
 			"name": "The Cat's Paw",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Minion",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/87.png"
 			}
 		},
 		{
 			"name": "The Enchantrix",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/88.png"
 			}
 		},
 		{
 			"name": "The Mask of Degorah",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Planeswalker — Okus",
 			"collector_number": "120",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "The Stone of Eri-Nathor",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "154",
@@ -912,17 +912,17 @@
 		},
 		{
 			"name": "Time After Time",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/91.png"
 			}
 		},
 		{
 			"name": "Worldwalker",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "144",
@@ -932,789 +932,1103 @@
 		},
 		{
 			"name": "Zarqa's Neophytes",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/93.png"
 			}
 		},
 		{
-			"name": "Ace, Card Cheat",
-			"rarity": "special",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "61",
+			"name": "Ancient Power",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/94.png"
 			}
 		},
 		{
-			"name": "Alysha, Penny's Protégé",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "39",
+			"name": "Antimatter Destructron",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/95.png"
 			}
 		},
 		{
-			"name": "Bastion, People's Champion",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "3",
+			"name": "At the End of the Day",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/96.png"
 			}
 		},
 		{
-			"name": "Break the Fourth Wall",
-			"rarity": "special",
-			"mana_cost": "{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "63",
+			"name": "Bucket of Glop",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/97.png"
 			}
 		},
 		{
-			"name": "Data Optimization",
-			"rarity": "special",
-			"mana_cost": "{U}{U}{B}",
-			"type": "Instant",
-			"collector_number": "107",
+			"name": "Clothes Make the Man",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/98.png"
 			}
 		},
 		{
-			"name": "Elseworlds Invader",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Alien Rogue",
-			"collector_number": "49",
+			"name": "Daring Rescue",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/99.png"
 			}
 		},
 		{
-			"name": "Galactic Vanguards",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Alien Warrior",
-			"collector_number": "8",
+			"name": "Diamond Skin",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/100.png"
 			}
 		},
 		{
-			"name": "Gritty Reboot",
-			"rarity": "special",
-			"mana_cost": "{B}{R}",
-			"type": "Sorcery",
-			"collector_number": "114",
+			"name": "From Mighty Acorns",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/101.png"
 			}
 		},
 		{
-			"name": "Moonlighter, Park Protector",
-			"rarity": "special",
-			"mana_cost": "{G}{G}",
-			"type": "Legendary Creature — Werewolf Warrior",
-			"collector_number": "91",
+			"name": "Gilled Goons",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk Minion",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/102.png"
 			}
 		},
 		{
-			"name": "Paradoxical Prism",
-			"rarity": "special",
-			"mana_cost": "{2}",
-			"type": "Artifact",
-			"collector_number": "153",
+			"name": "Meditative State",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/103.png"
 			}
 		},
 		{
-			"name": "Prep Time",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "31",
+			"name": "Multiversal Mooks",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mutant Minion",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/104.png"
 			}
 		},
 		{
-			"name": "Renegade Geneticist",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "33",
+			"name": "Punch the Moon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/105.png"
 			}
 		},
 		{
-			"name": "Unassuming Reporter",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Detective",
-			"collector_number": "19",
+			"name": "Relentless Rescuer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Hero",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/106.png"
 			}
 		},
 		{
-			"name": "Valorous Bouncer",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Creature — Rabbit Warrior",
-			"collector_number": "20",
+			"name": "Sorcerous Sidekick",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental Minion",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/107.png"
 			}
 		},
 		{
-			"name": "Ancient Power",
-			"rarity": "special",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Instant",
-			"collector_number": "98",
+			"name": "The Crimson Mask Descends",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/108.png"
 			}
 		},
 		{
-			"name": "Antimatter Destructron",
-			"rarity": "special",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "149",
+			"name": "There's Always More Mooks",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/109.png"
 			}
 		},
 		{
-			"name": "At the End of the Day",
-			"rarity": "special",
-			"mana_cost": "{3}{U}{U}{U}",
+			"name": "Unobtanium Implant",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/110.png"
 			}
 		},
 		{
-			"name": "Bucket of Glop",
-			"rarity": "special",
-			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
-			"collector_number": "150",
+			"name": "Auroral Dancer",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Elk Wolf Spirit",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/111.png"
 			}
 		},
 		{
-			"name": "Clothes Make the Man",
-			"rarity": "special",
-			"mana_cost": "{4}{B}",
-			"type": "Enchantment",
-			"collector_number": "45",
+			"name": "Back on the Streets",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/112.png"
 			}
 		},
 		{
-			"name": "Daring Rescue",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "6",
+			"name": "Blessing of the Crescent",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/113.png"
 			}
 		},
 		{
-			"name": "Diamond Skin",
-			"rarity": "special",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "82",
+			"name": "Catch the Stars",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/114.png"
 			}
 		},
 		{
-			"name": "From Mighty Acorns",
-			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment — Aura",
-			"collector_number": "85",
+			"name": "Damsel, Daring Nemesis",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/115.png"
 			}
 		},
 		{
-			"name": "Gilled Goons",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Merfolk Minion",
+			"name": "Disorienting Blast",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/116.png"
 			}
 		},
 		{
-			"name": "Meditative State",
-			"rarity": "special",
-			"mana_cost": "{1}{G}{W}",
+			"name": "Doom Desired",
+			"rarity": "rare",
+			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/117.png"
 			}
 		},
 		{
-			"name": "Multiversal Mooks",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Mutant Minion",
-			"collector_number": "14",
+			"name": "Flower",
+			"rarity": "rare",
+			"mana_cost": "{G/W}",
+			"type": "Sorcery",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/118.png"
 			}
 		},
 		{
-			"name": "Punch the Moon",
-			"rarity": "special",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "75",
+			"name": "Gifts from the Skyfish",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/119.png"
 			}
 		},
 		{
-			"name": "Relentless Rescuer",
-			"rarity": "special",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Human Hero",
-			"collector_number": "94",
+			"name": "Glintwing Familiar",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/120.png"
 			}
 		},
 		{
-			"name": "Sorcerous Sidekick",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Elemental Minion",
-			"collector_number": "57",
+			"name": "Grace of the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/121.png"
 			}
 		},
 		{
-			"name": "The Crimson Mask Descends",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "64",
+			"name": "Jazi Stormblood",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Cat Wizard",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/122.png"
 			}
 		},
 		{
-			"name": "There's Always More Mooks",
-			"rarity": "special",
-			"mana_cost": "{X}{W}",
-			"type": "Sorcery",
-			"collector_number": "18",
+			"name": "Lady of the Ley",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/123.png"
 			}
 		},
 		{
-			"name": "Unobtanium Implant",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "38",
+			"name": "Lumin Starbright",
+			"rarity": "rare",
+			"mana_cost": "{G/W}",
+			"type": "Legendary Creature — Insect Cleric",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/124.png"
 			}
 		},
 		{
-			"name": "Auroral Dancer",
-			"rarity": "special",
-			"mana_cost": "{X}{G}",
-			"type": "Creature — Elk Wolf Spirit",
-			"collector_number": "80",
+			"name": "Mirage Meddler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/125.png"
 			}
 		},
 		{
-			"name": "Back on the Streets",
-			"rarity": "special",
-			"mana_cost": "{X}{B}{B}{B}",
+			"name": "Need a Hand?",
+			"rarity": "rare",
+			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/126.png"
 			}
 		},
 		{
-			"name": "Blessing of the Crescent",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
+			"name": "One with the Lifestream",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "4",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/127.png"
 			}
 		},
 		{
-			"name": "Catch the Stars",
-			"rarity": "special",
-			"mana_cost": "{R}{R}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "103",
+			"name": "Reverie of the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/128.png"
 			}
 		},
 		{
-			"name": "Damsel, Daring Nemesis",
-			"rarity": "special",
-			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "105",
+			"name": "Skeeter Swarm",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Robot Insect",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/129.png"
 			}
 		},
 		{
-			"name": "Disorienting Blast",
-			"rarity": "special",
-			"mana_cost": "{U}{U}",
+			"name": "Split the Storm",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{R}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/130.png"
 			}
 		},
 		{
-			"name": "Doom Desired",
-			"rarity": "special",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "47",
+			"name": "Starborn Stomper",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{W}{W}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/131.png"
 			}
 		},
 		{
-			"name": "Flower",
-			"rarity": "special",
-			"mana_cost": "{G/W}",
-			"type": "Sorcery",
-			"collector_number": "148",
+			"name": "Starlighting",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/132.png"
 			}
 		},
 		{
-			"name": "Gifts from the Skyfish",
-			"rarity": "special",
+			"name": "Suki, Chosen by the Sky",
+			"rarity": "rare",
 			"mana_cost": "{W}{U}",
-			"type": "Enchantment",
-			"collector_number": "112",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/133.png"
 			}
 		},
 		{
-			"name": "Glintwing Familiar",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Bird",
-			"collector_number": "113",
+			"name": "Take On the Mantle",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/134.png"
 			}
 		},
 		{
-			"name": "Grace of the Cosmos",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
-			"collector_number": "9",
+			"name": "Take the Night Off",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/135.png"
 			}
 		},
 		{
-			"name": "Jazi Stormblood",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "69",
+			"name": "The Nameless Hero",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/136.png"
 			}
 		},
 		{
-			"name": "Lady of the Ley",
-			"rarity": "special",
-			"mana_cost": "{G}",
-			"type": "Creature — Elf Shaman",
-			"collector_number": "88",
+			"name": "Thwart Plans",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/137.png"
 			}
 		},
 		{
-			"name": "Lumin Starbright",
-			"rarity": "special",
-			"mana_cost": "{G/W}",
-			"type": "Legendary Creature — Insect Cleric",
-			"collector_number": "147",
+			"name": "Utter Annihilation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/138.png"
 			}
 		},
 		{
-			"name": "Mirage Meddler",
-			"rarity": "special",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "72",
+			"name": "Vile Seedling",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/139.png"
 			}
 		},
 		{
-			"name": "Need a Hand?",
-			"rarity": "special",
-			"mana_cost": "{W}",
+			"name": "Weave The Lifestream",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/140.png"
 			}
 		},
 		{
-			"name": "One with the Lifestream",
-			"rarity": "special",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Enchantment — Aura",
-			"collector_number": "92",
+			"name": "Wyre's Strings",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/141.png"
 			}
 		},
 		{
-			"name": "Reverie of the Cosmos",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{U}{U}",
-			"type": "Enchantment",
-			"collector_number": "34",
+			"name": "Ace, Card Cheat",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/142.png"
 			}
 		},
 		{
-			"name": "Skeeter Swarm",
-			"rarity": "special",
+			"name": "Alysha, Penny's Protégé",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Robot Insect",
-			"collector_number": "56",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/143.png"
 			}
 		},
 		{
-			"name": "Split the Storm",
-			"rarity": "special",
-			"mana_cost": "{X}{U}{U}{R}",
-			"type": "Instant",
-			"collector_number": "133",
+			"name": "Bastion, People's Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/144.png"
 			}
 		},
 		{
-			"name": "Starborn Stomper",
-			"rarity": "special",
-			"mana_cost": "{3}{G}{G}{W}{W}",
-			"type": "Creature — Insect Beast",
-			"collector_number": "134",
+			"name": "Break the Fourth Wall",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/145.png"
 			}
 		},
 		{
-			"name": "Starlighting",
-			"rarity": "special",
-			"mana_cost": "{U}{R}",
+			"name": "Data Optimization",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/146.png"
 			}
 		},
 		{
-			"name": "Suki, Chosen by the Sky",
-			"rarity": "special",
-			"mana_cost": "{W}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "137",
+			"name": "Elseworlds Invader",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Alien Rogue",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/147.png"
 			}
 		},
 		{
-			"name": "Take On the Mantle",
-			"rarity": "special",
-			"mana_cost": "{X}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "95",
+			"name": "Galactic Vanguards",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Alien Warrior",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/148.png"
 			}
 		},
 		{
-			"name": "Take the Night Off",
-			"rarity": "special",
-			"mana_cost": "{U}{U}",
-			"type": "Enchantment",
-			"collector_number": "35",
+			"name": "Gritty Reboot",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/149.png"
 			}
 		},
 		{
-			"name": "The Nameless Hero",
-			"rarity": "special",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Planeswalker",
-			"collector_number": "126",
+			"name": "Moonlighter, Park Protector",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Werewolf Warrior",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/150.png"
 			}
 		},
 		{
-			"name": "Thwart Plans",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
-			"collector_number": "36",
+			"name": "Paradoxical Prism",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/151.png"
 			}
 		},
 		{
-			"name": "Utter Annihilation",
-			"rarity": "special",
-			"mana_cost": "{1}{W}{B}",
+			"name": "Prep Time",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/152.png"
 			}
 		},
 		{
-			"name": "Vile Seedling",
-			"rarity": "special",
-			"mana_cost": "{B}{G}",
-			"type": "Creature — Plant",
-			"collector_number": "143",
+			"name": "Renegade Geneticist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/153.png"
 			}
 		},
 		{
-			"name": "Weave The Lifestream",
-			"rarity": "special",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "96",
+			"name": "Unassuming Reporter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Detective",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/154.png"
 			}
 		},
 		{
-			"name": "Wyre's Strings",
-			"rarity": "special",
-			"mana_cost": "{G}{U}",
-			"type": "Artifact",
-			"collector_number": "146",
+			"name": "Valorous Bouncer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit Warrior",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://moxtober2025.github.io/sets/SHH-files/img/155.png"
 			}
 		}
 	]
 
-[cube(15)]
-	1 A Worthy Cause
-	1 Anton Sheer, Moxite Man
-	1 Beebo, Swooping Guardian
-	1 Calamarie, the Octogarch
-	1 Catch the Express
-	1 Crystallicer's Cryoperative
-	1 Dandylion, Flower Ranger
-	1 Defining Moment
-	1 Dr. Darkstar, Astronomancer
-	1 Falling Star
-	1 Goon Squad
-	1 Head of Security
-	1 Hibisca's Petal
-	1 Interrobang
-	1 Just a Hologram
-	1 Love Interest
-	1 Lunar Manawave Project
-	1 Power of Flight
-	1 Pretty Penny, Aurumancer
-	1 Prodigious Protégé
-	1 Refract
-	1 Shooting Star
-	1 Something Worth Protecting
-	1 Suit Up Sequence
-	1 TeleKay, Charity Collector
-	1 The Forces of Evil
-	1 The Light Serene
-	1 The Overfisher
-	1 Tux.exe, Version 3.14
-	1 Vigilante's Hopalong
-	1 Wyre, the Telekinetworker
-	1 Better in Pairs
-	1 Biosymphony Project
-	1 Cassian, One with Oblivion
-	1 Circuit Hopper
-	1 Crown Joule
-	1 Crystal Seal's Shattering
-	1 Directive in Darkness
-	1 Double Tap
-	1 Echo of Light
-	1 Feeding Time
-	1 Halcyon Heights
-	1 Hammer Down
-	1 Herald of the Forerunners
-	1 Human Shield
-	1 Impervious Technique
-	1 Karate King, Final Threat
-	1 Krong's Bruiser
-	1 Kuzuryo, Moonsent King
-	1 Lord Dissonance
-	1 Lucy Chaos
-	1 Mechatyrant Kuzuryo
-	1 Miss Mach
-	1 Mister Mach
-	1 Moon Man, First Hero
-	1 Pilot Zero
-	1 Project P.R.I.S.M.
-	1 Terrifying Savior
-	1 This Time, They Will Live
-	1 Touch of Eternity
-	1 Wish Upon a Star
-	1 Zero G, Matter Manipulator
-	1 Behold Creation
-	1 Blue Queen Karnolia
-	1 Boris Deadman
-	1 Bulwark of Will
-	1 Caleborn the Punished
-	1 Compact of Mercury
-	1 Contemplate
-	1 Dance with Doom
-	1 Deep-Field Arcanonuclear Reactor
-	1 Exile from the Hell Dimension
-	1 Fair Lady Silver
-	1 Force of One Thousand Suns
-	1 Heartstone Synthesizer
-	1 Just In Time
-	1 Kyo Uun, Herald of Doom
-	1 Leap Into Action
-	1 Monolith
-	1 Papercut
-	1 Princess Vermora the Last
-	1 Rebirth of the Moon Man
-	1 Rose, Rogue Ranger
-	1 Scratch, Soldier of Fortune
-	1 Serenity Grace, Murder Queen
-	1 Supremacy
-	1 The Cat's Paw
-	1 The Enchantrix
-	1 The Mask of Degorah
-	1 The Stone of Eri-Nathor
-	1 Time After Time
-	1 Worldwalker
-	1 Zarqa's Neophytes
-	1 Ace, Card Cheat
-	1 Alysha, Penny's Protégé
-	1 Bastion, People's Champion
-	1 Break the Fourth Wall
-	1 Data Optimization
-	1 Elseworlds Invader
-	1 Galactic Vanguards
-	1 Gritty Reboot
-	1 Moonlighter, Park Protector
-	1 Paradoxical Prism
-	1 Prep Time
-	1 Renegade Geneticist
-	1 Unassuming Reporter
-	1 Valorous Bouncer
-	1 Ancient Power
-	1 Antimatter Destructron
-	1 At the End of the Day
-	1 Bucket of Glop
-	1 Clothes Make the Man
-	1 Daring Rescue
-	1 Diamond Skin
-	1 From Mighty Acorns
-	1 Gilled Goons
-	1 Meditative State
-	1 Multiversal Mooks
-	1 Punch the Moon
-	1 Relentless Rescuer
-	1 Sorcerous Sidekick
-	1 The Crimson Mask Descends
-	1 There's Always More Mooks
-	1 Unobtanium Implant
-	1 Auroral Dancer
-	1 Back on the Streets
-	1 Blessing of the Crescent
-	1 Catch the Stars
-	1 Damsel, Daring Nemesis
-	1 Disorienting Blast
-	1 Doom Desired
-	1 Flower
-	1 Gifts from the Skyfish
-	1 Glintwing Familiar
-	1 Grace of the Cosmos
-	1 Jazi Stormblood
-	1 Lady of the Ley
-	1 Lumin Starbright
-	1 Mirage Meddler
-	1 Need a Hand?
-	1 One with the Lifestream
-	1 Reverie of the Cosmos
-	1 Skeeter Swarm
-	1 Split the Storm
-	1 Starborn Stomper
-	1 Starlighting
-	1 Suki, Chosen by the Sky
-	1 Take On the Mantle
-	1 Take the Night Off
-	1 The Nameless Hero
-	1 Thwart Plans
-	1 Utter Annihilation
-	1 Vile Seedling
-	1 Weave The Lifestream
-	1 Wyre's Strings
+[rare(1)]
+	2 A Worthy Cause
+	2 Anton Sheer, Moxite Man
+	2 Beebo, Swooping Guardian
+	2 Calamarie, the Octogarch
+	2 Catch the Express
+	2 Crystallicer's Cryoperative
+	2 Dandylion, Flower Ranger
+	2 Defining Moment
+	2 Dr. Darkstar, Astronomancer
+	2 Falling Star
+	2 Goon Squad
+	2 Head of Security
+	2 Hibisca's Petal
+	2 Interrobang
+	2 Just a Hologram
+	2 Love Interest
+	2 Lunar Manawave Project
+	2 Power of Flight
+	2 Pretty Penny, Aurumancer
+	2 Prodigious Protégé
+	2 Refract
+	2 Shooting Star
+	2 Something Worth Protecting
+	2 Suit Up Sequence
+	2 TeleKay, Charity Collector
+	2 The Forces of Evil
+	2 The Light Serene
+	2 The Overfisher
+	2 Tux.exe, Version 3.14
+	2 Vigilante's Hopalong
+	2 Wyre, the Telekinetworker
+	2 Better in Pairs
+	2 Biosymphony Project
+	2 Cassian, One with Oblivion
+	2 Circuit Hopper
+	2 Crown Joule
+	2 Crystal Seal's Shattering
+	2 Directive in Darkness
+	2 Double Tap
+	2 Echo of Light
+	2 Feeding Time
+	2 Halcyon Heights
+	2 Hammer Down
+	2 Herald of the Forerunners
+	2 Human Shield
+	2 Impervious Technique
+	2 Karate King, Final Threat
+	2 Krong's Bruiser
+	2 Kuzuryo, Moonsent King
+	2 Lord Dissonance
+	2 Lucy Chaos
+	2 Mechatyrant Kuzuryo
+	2 Miss Mach
+	2 Mister Mach
+	2 Moon Man, First Hero
+	2 Pilot Zero
+	2 Project P.R.I.S.M.
+	2 Terrifying Savior
+	2 This Time, They Will Live
+	2 Touch of Eternity
+	2 Wish Upon a Star
+	2 Zero G, Matter Manipulator
+	2 Behold Creation
+	2 Blue Queen Karnolia
+	2 Boris Deadman
+	2 Bulwark of Will
+	2 Caleborn the Punished
+	2 Compact of Mercury
+	2 Contemplate
+	2 Dance with Doom
+	2 Deep-Field Arcanonuclear Reactor
+	2 Exile from the Hell Dimension
+	2 Fair Lady Silver
+	2 Force of One Thousand Suns
+	2 Heartstone Synthesizer
+	2 Just In Time
+	2 Kyo Uun, Herald of Doom
+	2 Leap Into Action
+	2 Monolith
+	2 Papercut
+	2 Princess Vermora the Last
+	2 Rebirth of the Moon Man
+	2 Rose, Rogue Ranger
+	2 Scratch, Soldier of Fortune
+	2 Serenity Grace, Murder Queen
+	2 Supremacy
+	2 The Cat's Paw
+	2 The Enchantrix
+	2 The Mask of Degorah
+	2 The Stone of Eri-Nathor
+	2 Time After Time
+	2 Worldwalker
+	2 Zarqa's Neophytes
+	2 Ancient Power
+	2 Antimatter Destructron
+	2 At the End of the Day
+	2 Bucket of Glop
+	2 Clothes Make the Man
+	2 Daring Rescue
+	2 Diamond Skin
+	2 From Mighty Acorns
+	2 Gilled Goons
+	2 Meditative State
+	2 Multiversal Mooks
+	2 Punch the Moon
+	2 Relentless Rescuer
+	2 Sorcerous Sidekick
+	2 The Crimson Mask Descends
+	2 There's Always More Mooks
+	2 Unobtanium Implant
+	2 Auroral Dancer
+	2 Back on the Streets
+	2 Blessing of the Crescent
+	2 Catch the Stars
+	2 Damsel, Daring Nemesis
+	2 Disorienting Blast
+	2 Doom Desired
+	2 Flower
+	2 Gifts from the Skyfish
+	2 Glintwing Familiar
+	2 Grace of the Cosmos
+	2 Jazi Stormblood
+	2 Lady of the Ley
+	2 Lumin Starbright
+	2 Mirage Meddler
+	2 Need a Hand?
+	2 One with the Lifestream
+	2 Reverie of the Cosmos
+	2 Skeeter Swarm
+	2 Split the Storm
+	2 Starborn Stomper
+	2 Starlighting
+	2 Suki, Chosen by the Sky
+	2 Take On the Mantle
+	2 Take the Night Off
+	2 The Nameless Hero
+	2 Thwart Plans
+	2 Utter Annihilation
+	2 Vile Seedling
+	2 Weave The Lifestream
+	2 Wyre's Strings
+	2 Ace, Card Cheat
+	2 Alysha, Penny's Protégé
+	2 Bastion, People's Champion
+	2 Break the Fourth Wall
+	2 Data Optimization
+	2 Elseworlds Invader
+	2 Galactic Vanguards
+	2 Gritty Reboot
+	2 Moonlighter, Park Protector
+	2 Paradoxical Prism
+	2 Prep Time
+	2 Renegade Geneticist
+	2 Unassuming Reporter
+	2 Valorous Bouncer
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 A Worthy Cause
+	2 Anton Sheer, Moxite Man
+	2 Beebo, Swooping Guardian
+	2 Calamarie, the Octogarch
+	2 Catch the Express
+	2 Crystallicer's Cryoperative
+	2 Dandylion, Flower Ranger
+	2 Defining Moment
+	2 Dr. Darkstar, Astronomancer
+	2 Falling Star
+	2 Goon Squad
+	2 Head of Security
+	2 Hibisca's Petal
+	2 Interrobang
+	2 Just a Hologram
+	2 Love Interest
+	2 Lunar Manawave Project
+	2 Power of Flight
+	2 Pretty Penny, Aurumancer
+	2 Prodigious Protégé
+	2 Refract
+	2 Shooting Star
+	2 Something Worth Protecting
+	2 Suit Up Sequence
+	2 TeleKay, Charity Collector
+	2 The Forces of Evil
+	2 The Light Serene
+	2 The Overfisher
+	2 Tux.exe, Version 3.14
+	2 Vigilante's Hopalong
+	2 Wyre, the Telekinetworker
+	2 Better in Pairs
+	2 Biosymphony Project
+	2 Cassian, One with Oblivion
+	2 Circuit Hopper
+	2 Crown Joule
+	2 Crystal Seal's Shattering
+	2 Directive in Darkness
+	2 Double Tap
+	2 Echo of Light
+	2 Feeding Time
+	2 Halcyon Heights
+	2 Hammer Down
+	2 Herald of the Forerunners
+	2 Human Shield
+	2 Impervious Technique
+	2 Karate King, Final Threat
+	2 Krong's Bruiser
+	2 Kuzuryo, Moonsent King
+	2 Lord Dissonance
+	2 Lucy Chaos
+	2 Mechatyrant Kuzuryo
+	2 Miss Mach
+	2 Mister Mach
+	2 Moon Man, First Hero
+	2 Pilot Zero
+	2 Project P.R.I.S.M.
+	2 Terrifying Savior
+	2 This Time, They Will Live
+	2 Touch of Eternity
+	2 Wish Upon a Star
+	2 Zero G, Matter Manipulator
+	2 Behold Creation
+	2 Blue Queen Karnolia
+	2 Boris Deadman
+	2 Bulwark of Will
+	2 Caleborn the Punished
+	2 Compact of Mercury
+	2 Contemplate
+	2 Dance with Doom
+	2 Deep-Field Arcanonuclear Reactor
+	2 Exile from the Hell Dimension
+	2 Fair Lady Silver
+	2 Force of One Thousand Suns
+	2 Heartstone Synthesizer
+	2 Just In Time
+	2 Kyo Uun, Herald of Doom
+	2 Leap Into Action
+	2 Monolith
+	2 Papercut
+	2 Princess Vermora the Last
+	2 Rebirth of the Moon Man
+	2 Rose, Rogue Ranger
+	2 Scratch, Soldier of Fortune
+	2 Serenity Grace, Murder Queen
+	2 Supremacy
+	2 The Cat's Paw
+	2 The Enchantrix
+	2 The Mask of Degorah
+	2 The Stone of Eri-Nathor
+	2 Time After Time
+	2 Worldwalker
+	2 Zarqa's Neophytes
+	2 Ancient Power
+	2 Antimatter Destructron
+	2 At the End of the Day
+	2 Bucket of Glop
+	2 Clothes Make the Man
+	2 Daring Rescue
+	2 Diamond Skin
+	2 From Mighty Acorns
+	2 Gilled Goons
+	2 Meditative State
+	2 Multiversal Mooks
+	2 Punch the Moon
+	2 Relentless Rescuer
+	2 Sorcerous Sidekick
+	2 The Crimson Mask Descends
+	2 There's Always More Mooks
+	2 Unobtanium Implant
+	2 Auroral Dancer
+	2 Back on the Streets
+	2 Blessing of the Crescent
+	2 Catch the Stars
+	2 Damsel, Daring Nemesis
+	2 Disorienting Blast
+	2 Doom Desired
+	2 Flower
+	2 Gifts from the Skyfish
+	2 Glintwing Familiar
+	2 Grace of the Cosmos
+	2 Jazi Stormblood
+	2 Lady of the Ley
+	2 Lumin Starbright
+	2 Mirage Meddler
+	2 Need a Hand?
+	2 One with the Lifestream
+	2 Reverie of the Cosmos
+	2 Skeeter Swarm
+	2 Split the Storm
+	2 Starborn Stomper
+	2 Starlighting
+	2 Suki, Chosen by the Sky
+	2 Take On the Mantle
+	2 Take the Night Off
+	2 The Nameless Hero
+	2 Thwart Plans
+	2 Utter Annihilation
+	2 Vile Seedling
+	2 Weave The Lifestream
+	2 Wyre's Strings
+	2 Ace, Card Cheat
+	2 Alysha, Penny's Protégé
+	2 Bastion, People's Champion
+	2 Break the Fourth Wall
+	2 Data Optimization
+	2 Elseworlds Invader
+	2 Galactic Vanguards
+	2 Gritty Reboot
+	2 Moonlighter, Park Protector
+	2 Paradoxical Prism
+	2 Prep Time
+	2 Renegade Geneticist
+	2 Unassuming Reporter
+	2 Valorous Bouncer
+[wildcard(1)]
+	7 A Worthy Cause
+	7 Anton Sheer, Moxite Man
+	7 Beebo, Swooping Guardian
+	7 Calamarie, the Octogarch
+	7 Catch the Express
+	7 Crystallicer's Cryoperative
+	7 Dandylion, Flower Ranger
+	7 Defining Moment
+	7 Dr. Darkstar, Astronomancer
+	7 Falling Star
+	7 Goon Squad
+	7 Head of Security
+	7 Hibisca's Petal
+	7 Interrobang
+	7 Just a Hologram
+	7 Love Interest
+	7 Lunar Manawave Project
+	7 Power of Flight
+	7 Pretty Penny, Aurumancer
+	7 Prodigious Protégé
+	7 Refract
+	7 Shooting Star
+	7 Something Worth Protecting
+	7 Suit Up Sequence
+	7 TeleKay, Charity Collector
+	7 The Forces of Evil
+	7 The Light Serene
+	7 The Overfisher
+	7 Tux.exe, Version 3.14
+	7 Vigilante's Hopalong
+	7 Wyre, the Telekinetworker
+	7 Better in Pairs
+	7 Biosymphony Project
+	7 Cassian, One with Oblivion
+	7 Circuit Hopper
+	7 Crown Joule
+	7 Crystal Seal's Shattering
+	7 Directive in Darkness
+	7 Double Tap
+	7 Echo of Light
+	7 Feeding Time
+	7 Halcyon Heights
+	7 Hammer Down
+	7 Herald of the Forerunners
+	7 Human Shield
+	7 Impervious Technique
+	7 Karate King, Final Threat
+	7 Krong's Bruiser
+	7 Kuzuryo, Moonsent King
+	7 Lord Dissonance
+	7 Lucy Chaos
+	7 Mechatyrant Kuzuryo
+	7 Miss Mach
+	7 Mister Mach
+	7 Moon Man, First Hero
+	7 Pilot Zero
+	7 Project P.R.I.S.M.
+	7 Terrifying Savior
+	7 This Time, They Will Live
+	7 Touch of Eternity
+	7 Wish Upon a Star
+	7 Zero G, Matter Manipulator
+	7 Behold Creation
+	7 Blue Queen Karnolia
+	7 Boris Deadman
+	7 Bulwark of Will
+	7 Caleborn the Punished
+	7 Compact of Mercury
+	7 Contemplate
+	7 Dance with Doom
+	7 Deep-Field Arcanonuclear Reactor
+	7 Exile from the Hell Dimension
+	7 Fair Lady Silver
+	7 Force of One Thousand Suns
+	7 Heartstone Synthesizer
+	7 Just In Time
+	7 Kyo Uun, Herald of Doom
+	7 Leap Into Action
+	7 Monolith
+	7 Papercut
+	7 Princess Vermora the Last
+	7 Rebirth of the Moon Man
+	7 Rose, Rogue Ranger
+	7 Scratch, Soldier of Fortune
+	7 Serenity Grace, Murder Queen
+	7 Supremacy
+	7 The Cat's Paw
+	7 The Enchantrix
+	7 The Mask of Degorah
+	7 The Stone of Eri-Nathor
+	7 Time After Time
+	7 Worldwalker
+	7 Zarqa's Neophytes
+	7 Ancient Power
+	7 Antimatter Destructron
+	7 At the End of the Day
+	7 Bucket of Glop
+	7 Clothes Make the Man
+	7 Daring Rescue
+	7 Diamond Skin
+	7 From Mighty Acorns
+	7 Gilled Goons
+	7 Meditative State
+	7 Multiversal Mooks
+	7 Punch the Moon
+	7 Relentless Rescuer
+	7 Sorcerous Sidekick
+	7 The Crimson Mask Descends
+	7 There's Always More Mooks
+	7 Unobtanium Implant
+	7 Auroral Dancer
+	7 Back on the Streets
+	7 Blessing of the Crescent
+	7 Catch the Stars
+	7 Damsel, Daring Nemesis
+	7 Disorienting Blast
+	7 Doom Desired
+	7 Flower
+	7 Gifts from the Skyfish
+	7 Glintwing Familiar
+	7 Grace of the Cosmos
+	7 Jazi Stormblood
+	7 Lady of the Ley
+	7 Lumin Starbright
+	7 Mirage Meddler
+	7 Need a Hand?
+	7 One with the Lifestream
+	7 Reverie of the Cosmos
+	7 Skeeter Swarm
+	7 Split the Storm
+	7 Starborn Stomper
+	7 Starlighting
+	7 Suki, Chosen by the Sky
+	7 Take On the Mantle
+	7 Take the Night Off
+	7 The Nameless Hero
+	7 Thwart Plans
+	7 Utter Annihilation
+	7 Vile Seedling
+	7 Weave The Lifestream
+	7 Wyre's Strings
+	7 Ace, Card Cheat
+	7 Alysha, Penny's Protégé
+	7 Bastion, People's Champion
+	7 Break the Fourth Wall
+	7 Data Optimization
+	7 Elseworlds Invader
+	7 Galactic Vanguards
+	7 Gritty Reboot
+	7 Moonlighter, Park Protector
+	7 Paradoxical Prism
+	7 Prep Time
+	7 Renegade Geneticist
+	7 Unassuming Reporter
+	7 Valorous Bouncer
