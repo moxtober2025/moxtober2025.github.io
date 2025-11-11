@@ -1,4 +1,13 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Pretty Penny, Auramancer
+pt: 3/4 => 5/5
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Pretty Penny, Auramancer added.

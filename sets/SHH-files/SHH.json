@@ -358,12 +358,12 @@
             "cost": "{4}{B}{B}{B}",
             "rules_text": "Flash\nWard\u2014Sacrifice a modified creature.\nWhen Pretty Penny enters, destroy up to one target creature or enchantment you don't control.\nIf a creature or enchantment card would be put into an opponent's graveyard from the battlefield, instead exile it and create a Treasure token.",
             "flavor_text": "[i]\u201cAnother bauble for my collection.\u201d[/i]",
-            "pt": "3/4",
+            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "SHH",
             "loyalty": "",
-            "artist": "koyamamichiru",
+            "artist": "Alessandro Bragalini",
             "alias": "",
             "position": "17",
             "notes": ""
@@ -3140,5 +3140,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }
