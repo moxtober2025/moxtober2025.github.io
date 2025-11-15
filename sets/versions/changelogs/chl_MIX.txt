@@ -1,4 +1,317 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Touch of Eternity
+rules_text: Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+[i]Sidekick[/i] — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Answerer of Pleas
+rules_text: {1}{W}: Forswear.
+During your turn, this creature has indestructible. => {1}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+During your turn, this creature has indestructible.
+
+Beseech the Lady
+rules_text: Unseal.
+If your seal is broken, scry 2. Draw a card. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+If your seal is broken, scry 2. Draw a card.
+
+Bloodscent Tracker
+rules_text: {2}{G}: Forswear
+Trample
+Damage dealt by this creature can't be prevented. => {2}{G}: Forswear [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Trample
+Damage dealt by this creature can't be prevented.
+
+Blushing Bride
+rules_text: {R}: Forswear.
+Haste => {R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Haste
+
+Born Beneath Thy Ribs
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Bind two Beasts
+Draw cards equal to the sacrificed creature's power. => As an additional cost to cast this spell, sacrifice a creature.
+Bind two Beasts [i](When you cast this spell, you may copy it. If you don't, create two 3/3 green Beast creature tokens.)[/i]
+Draw cards equal to the sacrificed creature's power.
+
+Brush with Divinity
+rules_text: Unseal.
+Return all nonland permanents to their owners' hands. If your seal is broken, you may put a permanent card with mana value 5 or less from your hand onto the battlefield. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+Return all nonland permanents to their owners' hands. If your seal is broken, you may put a permanent card with mana value 5 or less from your hand onto the battlefield.
+
+Commandeered Barge
+rules_text: Whenever this Vehicle enters or attacks, unseal.
+As long as the seal is broken, this Vehicle is an 8/8 Kraken creature in addition to its other types.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle enters or attacks, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+As long as the seal is broken, this Vehicle is an 8/8 Kraken creature in addition to its other types.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Concoction of Strength
+rules_text: Bind two Wolves
+Distribute three +1/+1 counters among any number of creatures. Creatures you control gain vigilance, trample, and haste until end of turn. => Bind two Wolves [i](When you cast this spell, you may copy it. If you don't, create two 2/2 green Wolf creature tokens.)[/i]
+Distribute three +1/+1 counters among any number of creatures. Creatures you control gain vigilance, trample, and haste until end of turn.
+
+Crystal Clear
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Exile the top three cards of your library. You may play them as long as they were exiled this turn or your seal is broken. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+Exile the top three cards of your library. You may play them as long as they were exiled this turn or your seal is broken.
+
+Desperate Cradling
+rules_text: Bind a Rabbit
+When target creature dies this turn, return it to the battlefield under its owner's control with an additional +1/+1 counter on it. => Bind a Rabbit [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 1/1 white Rabbit creature token.)[/i]
+When target creature dies this turn, return it to the battlefield under its owner's control with an additional +1/+1 counter on it.
+
+Duty Unending
+rules_text: Bind a Knight
+Return target permanent card from your graveyard to your hand. => Bind a Knight [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 2/2 white Knight creature token with vigilance.)[/i]
+Return target permanent card from your graveyard to your hand.
+
+Familiar's Watch
+rules_text: Bind a Bird
+Counter up to one target spell unless its controller pays {1}. => Bind a Bird [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 1/1 blue Bird creature token with flying.)[/i]
+Counter up to one target spell unless its controller pays {1}.
+
+Feigned Innocence
+rules_text: Bind a Rabbit
+You draw a card and lose 1 life. => Bind a Rabbit [i](When you cast this spell, you may copy it. If you don't, create a 1/1 white Rabbit creature token.)[/i]
+You draw a card and lose 1 life.
+
+Forsaken Paladin
+rules_text: {1}{R}: Forswear.
+This creature gets +1/-1 for each +1/+1 counter on it. => {1}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature gets +1/-1 for each +1/+1 counter on it.
+
+Fraying Star-Guide
+rules_text: When Fraying Star-Guide enters, you may unseal.
+{1}, {T}: Draw a card. Then discard a card unless the seal is broken. => When Fraying Star-Guide enters, you may unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+{1}, {T}: Draw a card. Then discard a card unless the seal is broken.
+
+Helpful Silversmith
+rules_text: When this creature enters, you gain 1 life.
+{W}: Forswear.
+This creature attacking causes its abilities to trigger as though it entered. => When this creature enters, you gain 1 life.
+{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature attacking causes its abilities to trigger as though it entered.
+
+Her Gaze Weighs Heavy
+rules_text: Bind a Beast
+Target opponent may have this spell deal 3 damage to them. If that player doesn't, you draw two cards. => Bind a Beast [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create a 3/3 green Beast creature token.)[/i]
+Target opponent may have this spell deal 3 damage to them. If that player doesn't, you draw two cards.
+
+Her Ladyship's Truth
+rules_text: Enchant creature
+When Her Ladyship's Truth enters, unseal.
+You control enchanted creature as long as it's your turn or the seal is broken. => Enchant creature
+When Her Ladyship's Truth enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+You control enchanted creature as long as it's your turn or the seal is broken.
+
+Hollow Worshipper
+rules_text: {2}{R}: Forswear.
+When this creature dies, it deals 3 damage to each opponent. => {2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+When this creature dies, it deals 3 damage to each opponent.
+
+Lunar Reflection
+rules_text: Create a token that's a copy of target creature you control.
+Unseal. Then if the seal is broken, put a flying counter and a vigilance counter on the token. => Create a token that's a copy of target creature you control.
+Unseal. Then if the seal is broken, put a flying counter and a vigilance counter on the token. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Make Prey of Them
+rules_text: Bind four Rabbits
+Make Prey of Them deals 4 damage to up to one target creature. => Bind four Rabbits [i](When you cast this spell, you may copy it and you may choose new targets for the copy. If you don't, create four 1/1 white Rabbit creature tokens.)[/i]
+Make Prey of Them deals 4 damage to up to one target creature.
+
+Martyr of Runes
+rules_text: {T}: If your seal is broken, up to one target creature you control gains protection from the color of your choice until end of turn. Otherwise, unseal. => {T}: If your seal is broken, up to one target creature you control gains protection from the color of your choice until end of turn. Otherwise, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Mistress of the Hunt
+rules_text: {R}{W}: Forswear.
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink. => {R}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink.
+
+Mooncursed Packleader
+rules_text: Whenever you attack, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Whenever you attack, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Oath of the Immortal Table
+rules_text: Bind five Knights
+Take an extra turn after this one. Exile Oath of the Immortal Table. => Bind five Knights [i](When you cast this spell, you may copy it. If you don't, create five 2/2 white Knight creature tokens with vigilance.)[/i]
+Take an extra turn after this one. Exile Oath of the Immortal Table.
+
+Ravaine's Loyalist
+rules_text: {R}: Forswear.
+{R}: This creature gets +1/+0 until end of turn. => {R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+{R}: This creature gets +1/+0 until end of turn.
+
+Ride Ahead
+rules_text: Bind a Knight
+Draw a card. You may put a land card from your hand onto the battlefield. => Bind a Knight [i](When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)[/i]
+Draw a card. You may put a land card from your hand onto the battlefield.
+
+Ruin to Be Wrought
+rules_text: Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if your seal is broken, you may put two +1/+1 counters on a creature you control. => Each player chooses a creature they control, then sacrifices the rest.
+Unseal. Then if your seal is broken, you may put two +1/+1 counters on a creature you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Rust-Souled Veteran
+rules_text: {1}{B}{B}: Forswear.
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life. => {1}{B}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life.
+
+Seal Beneath the Lake
+rules_text: Bind a God [i](When you cast this spell, you may copy it and may choose new targets for the copy. If you don't, create a 4/4 blue God creature token with flying.)[/i]
+Shuffle up to one target creature with power 4 or greater and up to two target cards from a single graveyard into their owners' libraries. => Bind a God [i](When you cast this spell, you may copy it and may choose new targets for the copy. If you don't, create a 4/4 blue God creature token with fliyng.)[/i]
+Shuffle up to one target creature with power 4 or greater and up to two target cards from a single graveyard into their owners' libraries.
+
+Seeker of Cosmic Ideals
+rules_text: Seeker of Cosmic Ideals has flying as long as it isn't Human.
+{2}{U}: Forswear.
+Whenever this creature deals combat damage to a player, draw a card. => Seeker of Cosmic Ideals has flying as long as it isn't Human.
+{2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+
+Shroud of Moths
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Target creature gets -1/-1 until end of turn. If your seal is broken, exile it instead. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+Target creature gets -1/-1 until end of turn. If your seal is broken, exile it instead.
+
+Silverthread Spirit
+rules_text: Flying
+Tap three untapped creatures you control: Tap target creature you don't control, then unseal.
+This creature can't attack or block unless the seal is broken. => Flying
+Tap three untapped creatures you control: Tap target creature you don't control, then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+This creature can't attack or block unless the seal is broken.
+
+Sinking into the Lady's Grasp
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Then unseal.
+At the beginning of combat on your turn, if the seal is broken, put a +1/+1 counter on target creature you control. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Then unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+At the beginning of combat on your turn, if the seal is broken, put a +1/+1 counter on target creature you control.
+
+Sow the Seeds of Glory
+rules_text: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle. If your seal is broken, untap it. => Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle. If your seal is broken, untap it.
+
+Spare Thyself
+rules_text: Bind a Knight
+The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to that source's controller instead. => Bind a Knight [i](When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)[/i]
+The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to that source's controller instead.
+
+Sunken Chorus
+rules_text: When Sunken Chorus enters, each player discards a card.
+{3}{B}: Forswear.
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace. => When Sunken Chorus enters, each player discards a card.
+{3}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace.
+
+Sworn Shortsword
+rules_text: Bind a Knight
+Equipped creature gets +2/+1 and has “During your turn, this creature has first strike.”
+Equip {2} => Bind a Knight [i](When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)[/i]
+Equipped creature gets +2/+1 and has “During your turn, this creature has first strike.”
+Equip {2}
+
+Syr Llyr, Grief's Twilight
+rules_text: Partner with Nyneve, Daybreak's Promise
+Excess damage dealt to Llyr is dealt to you instead.
+{1}{WB}{WB}: Forswear.
+This creature can't be destroyed by lethal damage. => Partner with Nyneve, Daybreak's Promise
+Excess damage dealt to Llyr is dealt to you instead.
+{1}{WB}{WB}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be destroyed by lethal damage.
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II, III — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II, III — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+
+The Meek and Many
+rules_text: When this enchantment enters, create two 1/1 white Rabbit creature tokens.
+At the beginning of your end step, unseal, then if your seal is broken, create a token that's a copy of a token you control. => When this enchantment enters, create two 1/1 white Rabbit creature tokens.
+At the beginning of your end step, unseal, then if your seal is broken, create a token that's a copy of a token you control. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+The Waning of the Sun
+rules_text: When The Waning of the Sun enters, unseal.
+All creatures get -1/-1. If the seal is broken, instead creatures except for non-Human creatures you control get -1/-1. => When The Waning of the Sun enters, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+All creatures get -1/-1. If the seal is broken, instead creatures except for non-Human creatures you control get -1/-1.
+
+The Weaving of a Star
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+
+To Slaughter
+rules_text: Discard a card, then draw a card. Unseal, then if your seal is broken, draw a card. => Discard a card, then draw a card. Unseal, then if your seal is broken, draw a card. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+
+Vitreous Drifter
+rules_text: {2}{U}: Forswear.
+This creature can't be blocked. => {2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be blocked.
+
+War-Hardened Headhunter
+rules_text: {2}{R}: Forswear.
+Double strike => {2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Double strike
+
+Waters of the Lake
+rules_text: At the beginning of your end step, unseal.
+If you would unseal while the seal is broken, instead mill two cards, then put one of those cards into your hand. => At the beginning of your end step, unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, your seal is broken for the rest of the game.)[/i]
+If you would unseal while the seal is broken, instead mill two cards, then put one of those cards into your hand.
+
+Wildpath Paragon
+rules_text: When Wildpath Paragon enters, you gain 3 life.
+{1}{G}: Forswear.
+This creature must be blocked if able. => When Wildpath Paragon enters, you gain 3 life.
+{1}{G}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature must be blocked if able.
+
+The First Crew
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II, III — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token.
+Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token.
+Sacrifice two creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II, III — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token.
+Sacrifice two creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token.
+Sacrifice two creatures.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
