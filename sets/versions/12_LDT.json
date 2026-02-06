@@ -147,7 +147,7 @@
             "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Seeker of Cosmic Ideals has flying as long as it isn't Human.\n{2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nWhenever this creature deals combat damage to a player, draw a card.",
+            "rules_text": "Seeker of Cosmic Ideals has flying as long as it isn't Human.\n{2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nWhenever this creature deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -267,7 +267,7 @@
             "number": 137,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
-            "rules_text": "{R}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAt the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink.",
+            "rules_text": "{R}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAt the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -287,7 +287,7 @@
             "number": 149,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Each opponent's maximum hand size is equal to the number of cards in your hand.\nWhen you have no cards in hand, you draw a card and you lose 2 life.",
+            "rules_text": "Each opponent's maximum hand size is equal to the number of cards in your hand.\nWhen you have no cards in hand, you draw a card and you lose 2 life. This ability only triggers once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -538,7 +538,7 @@
             "number": 91,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Partner with Syr Llyr, Grief's Twilight [i](When this creature enters, target player may put Syr Llyr into their hand from their library, then shuffle.)[/i]\nWhenever Nyneve attacks, if it's modified, up to one target creature blocks it this combat if able. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
+            "rules_text": "Whenever Nyneve attacks, if it's modified, up to one target creature blocks it this combat if able. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nPartner\u2014Immortal Table [i](You can have two commanders if both have this ability.)[/i]",
             "flavor_text": "[i]\u201cBeyond all ruin, joy shall find you yet.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -558,7 +558,7 @@
             "number": 72,
             "color_identity": "WB",
             "cost": "{2}{B}{B}",
-            "rules_text": "Partner with Nyneve, Daybreak's Promise\nExcess damage dealt to Llyr is dealt to you instead.\n{1}{WB}{WB}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature can't be destroyed by lethal damage.",
+            "rules_text": "Excess damage dealt to Llyr is dealt to you instead.\n{1}{WB}{WB}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature can't be destroyed by lethal damage.\nPartner\u2014Immortal Table [i](You can have two commanders if both have this ability.)[/i]",
             "flavor_text": "[i]\u201cMust I outlive all save these memories?\u201d[/i]",
             "pt": "9/2",
             "special_text": "",
@@ -800,7 +800,7 @@
             "number": 79,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nHaste",
+            "rules_text": "{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nHaste",
             "flavor_text": "[i]To be loved is to be changed. [/i]",
             "pt": "1/1",
             "special_text": "",
@@ -900,7 +900,7 @@
             "number": 34,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying, indestructible\nHer Ladyship The Moon isn't a creature unless your seal is broken. \nActivated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nWhenever you activate an ability of a creature you control, unseal.",
+            "rules_text": "Flying, indestructible\nHer Ladyship The Moon isn't a creature unless your seal is broken. \nActivated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nWhenever you activate an ability of a creature you control, unseal. This ability only triggers once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -991,7 +991,7 @@
             "number": 68,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Whenever a modified creature you control attacks, each opponent loses 3 life unless they discard a card or sacrifice a nontoken permanent of their choice. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nWhenever an opponent loses life for the first time each turn, put a +1/+1 on target creature you control.",
+            "rules_text": "Whenever one or more modified creatures you control attack, each opponent loses 3 life unless they discard a card or sacrifice a nontoken permanent of their choice. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nWhenever an opponent loses life for the first time each turn, put a +1/+1 on target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1011,10 +1011,10 @@
             "number": 147,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}",
-            "rules_text": "{R}: Forswear loyalty. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]\n[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]\n[0]: Target opponent discards a card. If they can't, you draw a card. \n[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.",
+            "rules_text": "{R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]\n[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]\n[0]: Target opponent discards a card. If they can't, you draw a card. \n[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "{R}: Forswear loyalty. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]\n[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]\n[0]: Target opponent discards a card. If they can't, you draw a card. \n[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.",
+            "special_text": "{R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]\n[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]\n[0]: Target opponent discards a card. If they can't, you draw a card. \n[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.",
             "shape": "planeswalker",
             "set": "LDT",
             "loyalty": "2",
@@ -1051,7 +1051,7 @@
             "number": 71,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Sunken Chorus enters, each player discards a card.\n{3}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAs long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace.",
+            "rules_text": "When Sunken Chorus enters, each player discards a card.\n{3}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAs long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1111,10 +1111,10 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 If this was cast from your hand, destroy all creatures.\nPlayers can't cast spells this turn.\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nIf this was cast from your hand, destroy all creatures.\nPlayers can't cast spells this turn.\nWhen you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 If this was cast from your hand, destroy all creatures.\nPlayers can't cast spells this turn.\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nIf this was cast from your hand, destroy all creatures.\nPlayers can't cast spells this turn.\nWhen you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1131,10 +1131,10 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nI \u2014 This Saga gains \u201cEnchanted creature gets -2/-2.\u201d\nII \u2014 This Saga gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nIII \u2014 Exile enchanted creature.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nThis Saga gains \u201cEnchanted creature gets -2/-2.\u201d\nThis Saga gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nExile enchanted creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nI \u2014 This Saga gains \u201cEnchanted creature gets -2/-2.\u201d\nII \u2014 This Saga gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nIII \u2014 Exile enchanted creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEnchant creature\nThis Saga gains \u201cEnchanted creature gets -2/-2.\u201d\nThis Saga gains \u201cEnchanted creature can't block.\u201d\nEnchanted creature's controller loses 2 life.\nExile enchanted creature.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1151,10 +1151,10 @@
             "number": 43,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white Knight creature token with vigilance. Scry 2.\nII \u2014 Whenever one or more creatures deal combat damage to a player this turn, draw a card.\nIII \u2014 Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 white Knight creature token with vigilance. Scry 2.\nWhenever one or more creatures deal combat damage to a player this turn, draw a card.\nSearch your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 white Knight creature token with vigilance. Scry 2.\nII \u2014 Whenever one or more creatures deal combat damage to a player this turn, draw a card.\nIII \u2014 Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 white Knight creature token with vigilance. Scry 2.\nWhenever one or more creatures deal combat damage to a player this turn, draw a card.\nSearch your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1171,10 +1171,10 @@
             "number": 100,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile the top two cards of your library. You may play a card exiled with this Saga this turn.\nIII \u2014 [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile the top two cards of your library. You may play a card exiled with this Saga this turn.\n[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile the top two cards of your library. You may play a card exiled with this Saga this turn.\nIII \u2014 [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile the top two cards of your library. You may play a card exiled with this Saga this turn.\n[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]\n\u200b",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
@@ -1344,26 +1344,6 @@
             "notes": ""
         },
         {
-            "card_name": "Drink Deep",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Instant",
-            "number": 107,
-            "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "Target creature you control gains hexproof until end of turn. If it's modified, draw a card. Put a +1/+1 counter on it. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
-            "flavor_text": "[i]The ever-flowing water of the grail imbued the knights of the Immortal Table with the longevity for which they were named.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "LDT",
-            "loyalty": "",
-            "artist": "Linus Pettersson",
-            "alias": "",
-            "position": "64",
-            "notes": ""
-        },
-        {
             "card_name": "Oath of the Immortal Table",
             "color": "U",
             "rarity": "rare",
@@ -1380,7 +1360,7 @@
             "loyalty": "",
             "artist": "bonley",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1391,7 +1371,7 @@
             "number": 145,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "Schism deals 4 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead. Then its controller creates a white enchantment token named Grudge with \u201cSpells you cast that share a name with a card you own in exile cost {2} more to cast.\u201d",
+            "rules_text": "Schism deals 4 damage to any target. When a creature or planeswalker dealt damage this way dies this turn, exile it. Its controller creates a white enchantment token named Grudge with \u201cSpells you cast that share a name with a card you own in exile cost {2} more to cast.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1400,7 +1380,7 @@
             "loyalty": "",
             "artist": "Searrach Dubh",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "revise FT, effect"
         },
         {
@@ -1411,7 +1391,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "{2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.\nWhen this creature leaves the battlefield, you may put a creature card with mana value 2 or less exiled with it that you own onto the battlefield.",
+            "rules_text": "{2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.\nWhen this creature dies, you may put a creature card with mana value 2 or less exiled with it that you own not named Catacomb Consecrator onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1420,7 +1400,7 @@
             "loyalty": "",
             "artist": "Antoine Leblanc",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1440,7 +1420,7 @@
             "loyalty": "",
             "artist": "Pontus Ullbors",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1460,7 +1440,7 @@
             "loyalty": "",
             "artist": "Vojtech Sklenar",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1480,7 +1460,7 @@
             "loyalty": "",
             "artist": "viridianghost101",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1500,7 +1480,7 @@
             "loyalty": "",
             "artist": "Elizah Leigh",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1511,7 +1491,7 @@
             "number": 148,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
-            "rules_text": "First strike\nWhenever this creature enters or attacks, exile the top two cards of your library. You may play those cards. For each card you don't play, create a 1/1 white Spirit creature token with lifelink.",
+            "rules_text": "First strike\nWhenever this creature enters or attacks, exile the top two cards of your library. You may play those cards. \nAt the beginning of your end step, if there are cards exiled with this creature, put them into their owner's graveyard, then create a 1/1 white Spirit token with lifelink for each card put this way.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -1520,7 +1500,7 @@
             "loyalty": "",
             "artist": "Joshua Raphael",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1540,7 +1520,7 @@
             "loyalty": "",
             "artist": "Sean Wang",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "Compact"
         },
         {
@@ -1560,7 +1540,7 @@
             "loyalty": "",
             "artist": "Artem Chebokkha",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": "Constellation"
         },
         {
@@ -1580,7 +1560,7 @@
             "loyalty": "",
             "artist": "leevolt",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "Eternal"
         },
         {
@@ -1600,7 +1580,7 @@
             "loyalty": "",
             "artist": "Matt Kehler",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": "Grail"
         },
         {
@@ -1611,7 +1591,7 @@
             "number": 125,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Whenever another nontoken creature dies, create a 1/1 green Forest Dryad land creature token. If that creature was modified, create two of those tokens instead.\n{5}{G}{G}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn.",
+            "rules_text": "Whenever another nontoken creature you control dies, create a 1/1 green Forest Dryad land creature token. If that creature was modified, create two of those tokens instead.\n{5}{G}{G}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1620,7 +1600,7 @@
             "loyalty": "",
             "artist": "Chunyu Wang",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "Guardian"
         },
         {
@@ -1630,7 +1610,7 @@
             "type": "Enchantment",
             "number": 83,
             "color_identity": "R",
-            "cost": "{1}{R}{R}",
+            "cost": "{R}{R}{R}",
             "rules_text": "All creatures have haste and attack each turn if able.\nWhenever a creature you control attacks, put a +1/+1 counter on it.",
             "flavor_text": "[i]When you may not survive tomorrow, it's best to dance tonight.[/i]",
             "pt": "",
@@ -1640,7 +1620,7 @@
             "loyalty": "",
             "artist": "Janeshe1",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": "Mask"
         },
         {
@@ -1660,7 +1640,7 @@
             "loyalty": "",
             "artist": "Yusuf Zmirlin",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "card_name2": "Fleeting Devotion",
             "color2": "W",
             "type2": "Sorcery \u2014 Omen",
@@ -1691,7 +1671,7 @@
             "loyalty": "",
             "artist": "salemslot23",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "Millenium"
         },
         {
@@ -1711,7 +1691,7 @@
             "loyalty": "",
             "artist": "Aleksandra Gaj",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": "Power"
         },
         {
@@ -1722,7 +1702,7 @@
             "number": 155,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This land enters tapped unless a creature died this turn.\nThis land doesn't untap during your untap step.\nAt the beginning of your end step, if a creature died this turn, untap this land.\n{T}: Add one mana of any color.",
+            "rules_text": "At the beginning each end step, if a creature died this turn, put a blade counter on Field of Swords.\n{T}: Add {C}.\n{T}, Remove a blade counter from Field of Swords: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1731,7 +1711,7 @@
             "loyalty": "",
             "artist": "Reza Afshar",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "Pretty"
         },
         {
@@ -1751,7 +1731,7 @@
             "loyalty": "",
             "artist": "Ambre le Roux",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "Prism"
         },
         {
@@ -1771,7 +1751,7 @@
             "loyalty": "",
             "artist": "Antoine Leblanc",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": "punish"
         },
         {
@@ -1791,7 +1771,7 @@
             "loyalty": "",
             "artist": "Uriah Voth",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "Quartet"
         },
         {
@@ -1811,7 +1791,7 @@
             "loyalty": "",
             "artist": "Noctnoir",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "Rabbit"
         },
         {
@@ -1831,7 +1811,7 @@
             "loyalty": "",
             "artist": "Casey Weeks",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "Sailor"
         },
         {
@@ -1851,7 +1831,7 @@
             "loyalty": "",
             "artist": "MIchal Kvac",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "Scout"
         },
         {
@@ -1871,7 +1851,7 @@
             "loyalty": "",
             "artist": "Alessia Hilary Valastro",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "Sequence"
         },
         {
@@ -1891,7 +1871,7 @@
             "loyalty": "",
             "artist": "Alessia Hilary Valastro",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": "Silver"
         },
         {
@@ -1911,7 +1891,7 @@
             "loyalty": "",
             "artist": "Van SoulL",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": "Soldier"
         },
         {
@@ -1931,7 +1911,7 @@
             "loyalty": "",
             "artist": "Julian WeiB",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": "Transformation"
         },
         {
@@ -1942,7 +1922,7 @@
             "number": 115,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever this creature enters or attacks, you may sacrifice an artifact or land. If you do, create an Uncharted Haven token. [i](It's a land with \u201cThis land enters tapped. As it enters, choose a color.\u201d and \u201c{T}: Add one mana of the chosen color.\u201d)[/i]",
+            "rules_text": "Whenever this creature enters or attacks, you may sacrifice a land or nontoken artifact. If you do, create an Uncharted Haven token. [i](It's a land with \u201cThis land enters tapped. As it enters, choose a color.\u201d and \u201c{T}: Add one mana of the chosen color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1951,7 +1931,7 @@
             "loyalty": "",
             "artist": "RUTO TAKAZAKI",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": "Tuxedo"
         },
         {
@@ -1971,7 +1951,7 @@
             "loyalty": "",
             "artist": "amatnieks",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": "Wish"
         },
         {
@@ -1982,7 +1962,7 @@
             "number": 112,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Whenever you attack, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.\n{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]",
+            "rules_text": "Whenever this creature attacks, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.\n{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1991,7 +1971,7 @@
             "loyalty": "",
             "artist": "shimhaq98",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": ""
         },
         {
@@ -2011,7 +1991,7 @@
             "loyalty": "",
             "artist": "Drug Pain",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": "Day 1 \u2014 Rabbit"
         },
         {
@@ -2031,7 +2011,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "card_name2": "Faint Truth",
             "color2": "U",
             "type2": "Sorcery \u2014 Omen",
@@ -2053,7 +2033,7 @@
             "number": 1,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "{1}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDuring your turn, this creature has indestructible.",
+            "rules_text": "{1}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDuring your turn, this creature has indestructible.",
             "flavor_text": "[i]Enia whispered one final cry for help, and in a second, the knight burst from the thicket.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2062,7 +2042,7 @@
             "loyalty": "",
             "artist": "Noah Thatcher",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": "Day 3 \u2014 Wish"
         },
         {
@@ -2082,7 +2062,7 @@
             "loyalty": "",
             "artist": "IrenHorrors",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": "Day 4 \u2014 Quartet"
         },
         {
@@ -2102,7 +2082,7 @@
             "loyalty": "",
             "artist": "Ho\u00e0ng Lap (Solan)",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": "Day 6 \u2014 Prism"
         },
         {
@@ -2113,7 +2093,7 @@
             "number": 84,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "{1}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature gets +1/-1 for each +1/+1 counter on it.",
+            "rules_text": "{1}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature gets +1/-1 for each +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2122,7 +2102,7 @@
             "loyalty": "",
             "artist": "Joseph Weston",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "Day 7 \u2014 Power"
         },
         {
@@ -2142,7 +2122,7 @@
             "loyalty": "",
             "artist": "Maxim Bazhenov",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": "Day 8 \u2014 Punish"
         },
         {
@@ -2162,7 +2142,7 @@
             "loyalty": "",
             "artist": "Searrach Dubh",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": "Day 9 \u2014 Compact"
         },
         {
@@ -2182,7 +2162,7 @@
             "loyalty": "",
             "artist": "Pauline Vo\u00df",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "card_name2": "Lunar Syzygy",
             "color2": "B",
             "type2": "Sorcery \u2014 Omen",
@@ -2213,7 +2193,7 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "card_name2": "One Last Oath",
             "color2": "U",
             "type2": "Instant \u2014 Omen",
@@ -2244,7 +2224,7 @@
             "loyalty": "",
             "artist": "Farri Lensen",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": "Day 12 \u2014 Sequence"
         },
         {
@@ -2264,7 +2244,7 @@
             "loyalty": "",
             "artist": "Michael Brophy",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": "Day 13 \u2014 Pretty"
         },
         {
@@ -2275,7 +2255,7 @@
             "number": 99,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "{2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDouble strike",
+            "rules_text": "{2}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDouble strike",
             "flavor_text": "[i]Once devoted only to her survival, the Immortal Table showed her clarity and purpose.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2284,7 +2264,7 @@
             "loyalty": "",
             "artist": "YuriPlatov",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "Day 14 \u2014 Soldier"
         },
         {
@@ -2304,7 +2284,7 @@
             "loyalty": "",
             "artist": "Steven Russell Black",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": "Day 16 \u2014 Scout"
         },
         {
@@ -2324,7 +2304,7 @@
             "loyalty": "",
             "artist": "cwh_illustration",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": "Day 17 \u2014 Grail"
         },
         {
@@ -2344,7 +2324,7 @@
             "loyalty": "",
             "artist": "Sofiia Bondareva",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": "Day 18 \u2014 Crystal"
         },
         {
@@ -2364,7 +2344,7 @@
             "loyalty": "",
             "artist": "Aquaria-Moon",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": "Day 19 \u2014 Eternal"
         },
         {
@@ -2384,7 +2364,7 @@
             "loyalty": "",
             "artist": "saeed farhangian",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": "Day 20 \u2014 Guardian"
         },
         {
@@ -2395,7 +2375,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, you gain 1 life.\n{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature attacking causes its abilities to trigger as though it entered.",
+            "rules_text": "When this creature enters, you gain 1 life.\n{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature attacking causes its abilities to trigger as though it entered.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2404,7 +2384,7 @@
             "loyalty": "",
             "artist": "Diego Peres",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": "Day 21 \u2014 Silver"
         },
         {
@@ -2424,7 +2404,7 @@
             "loyalty": "",
             "artist": "starr-n-art",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "Day 22 \u2014 Millennium"
         },
         {
@@ -2444,7 +2424,7 @@
             "loyalty": "",
             "artist": "Searrach Dubh",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": "Day 23 \u2014 Tuxedo"
         },
         {
@@ -2464,7 +2444,7 @@
             "loyalty": "",
             "artist": "Zephyrbug",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "Day 24 \u2014 Mask"
         },
         {
@@ -2484,7 +2464,7 @@
             "loyalty": "",
             "artist": "Catherine Chistyakova",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": "Day 25 \u2014 Cosmos"
         },
         {
@@ -2504,7 +2484,7 @@
             "loyalty": "",
             "artist": "Michael Gladigau",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "Day 26 \u2014 Seed"
         },
         {
@@ -2524,7 +2504,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": "Day 27 \u2014 Moonlight"
         },
         {
@@ -2544,7 +2524,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "Day 28 \u2014 Daylight"
         },
         {
@@ -2555,7 +2535,7 @@
             "number": 93,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAs long as it's your turn, this creature has flying.\n{R}: This creature gets +1/+0 until end of turn.",
+            "rules_text": "{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nAs long as it's your turn, this creature has flying.\n{R}: This creature gets +1/+0 until end of turn.",
             "flavor_text": "[i]\u201cNot a moment of rest until my will is done.\u201d\n\u2014Revaine, Heir Eternal[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2564,7 +2544,7 @@
             "loyalty": "",
             "artist": "RJ Palmer",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": "Day 29 \u2014 Princess"
         },
         {
@@ -2584,7 +2564,7 @@
             "loyalty": "",
             "artist": "Mindy Lee",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "card_name2": "Renege",
             "color2": "W",
             "type2": "Instant \u2014 Omen",
@@ -2615,7 +2595,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": "Day 31 \u2014 Infinity"
         },
         {
@@ -2635,7 +2615,7 @@
             "loyalty": "",
             "artist": "Anna Christenson",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": "!exportname Caelia, the South Star (Promo)"
         },
         {
@@ -2655,7 +2635,7 @@
             "loyalty": "",
             "artist": "Sebastian Giacobino",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "!exportname Ruin to be Wrought (Promo)"
         },
         {
@@ -2675,7 +2655,7 @@
             "loyalty": "",
             "artist": "Tiago Sousa",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "!exportname The Red Grail (Promo)"
         },
         {
@@ -2695,7 +2675,7 @@
             "loyalty": "",
             "artist": "Hannah Alexander",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "Day 15 \u2014 Sailor"
         },
         {
@@ -2715,7 +2695,7 @@
             "loyalty": "",
             "artist": "Searrach Dubh",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2735,7 +2715,7 @@
             "loyalty": "",
             "artist": "Cercat",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2755,7 +2735,7 @@
             "loyalty": "",
             "artist": "Anh Le",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": "Crystal\nCHANGE: Reworded, new art, new name"
         },
         {
@@ -2766,7 +2746,7 @@
             "number": 102,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{2}{G}: Forswear [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nTrample\nDamage dealt by this creature can't be prevented.",
+            "rules_text": "{2}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nTrample\nDamage dealt by this creature can't be prevented.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2775,7 +2755,7 @@
             "loyalty": "",
             "artist": "Searrach Dubh",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "Moon\nCHANGE: Redirection clause removed."
         },
         {
@@ -2795,7 +2775,7 @@
             "loyalty": "",
             "artist": "Dreamway/Susu",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "CHANGE: Reworded, new art, +1/+1, no longer has flying"
         },
         {
@@ -2815,7 +2795,7 @@
             "loyalty": "",
             "artist": "yuko",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "card_name2": "Heartbreak",
             "color2": "B",
             "type2": "Sorcery \u2014 Omen",
@@ -2846,7 +2826,7 @@
             "loyalty": "",
             "artist": "Michael Kvac",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "22. Millennium\n\nAt the beginning of your upkeep, put a time counter on A Millenium Under the Oath. When you do, return up to X target permanent cards from your graveyard to your hand, where X is the number of time counters on A Millenium Under the Oath."
         },
         {
@@ -2866,7 +2846,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "14. Soldier\n\nBind a Beast (When you cast this spell, you may copy it. If you don't, create a 3/3 green Beast creature token.)\nPut a +1/+1 counter on each creature you control. They gain vigilance, trample, and haste until end of turn."
         },
         {
@@ -2886,7 +2866,7 @@
             "loyalty": "",
             "artist": "Galen Dara",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "20. Guardian"
         },
         {
@@ -2906,7 +2886,7 @@
             "loyalty": "",
             "artist": "Anna Moshak",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "12. Sequence\n\nWhenever a nontoken creature you control dies, create a 1/1 white Human creature token with that creature's counters on it.\nWhenever a token creature you control dies, each \n\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield with an additional +1/+1 counter on it."
         },
         {
@@ -2926,7 +2906,7 @@
             "loyalty": "",
             "artist": "vickisigh",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "16. Scout"
         },
         {
@@ -2946,7 +2926,7 @@
             "loyalty": "",
             "artist": "fiovske",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "13. Pretty"
         },
         {
@@ -2966,7 +2946,7 @@
             "loyalty": "",
             "artist": "pekemaru",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "7. Power\n\n3R\nBind a Knight (When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)\nEnchant creature\nEnchanted creature gets +2/+1.\nWhen enchanted creature dies, it deals 2 damage to each opponent.\n\n3R aura curse\nEnchant player\nCreatures attacking enchanted player have trample.\nWhenever a player attacks enchanted player, put a +1/+1 counter on target attacking creature.\n1R instant omen\nPut a +1/+1 counter on target creature. It gains trample until end of turn.\n\n3R aura curse\nEnchant player\nWhenever a player attacks enchanted player, up to two target creatures can't block this turn.\n1R instant omen\nUp to two target creatures can't block this turn. (Then shuffle this card into its owner's library.)"
         },
         {
@@ -2986,7 +2966,7 @@
             "loyalty": "",
             "artist": "nira",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": "24. Mask"
         },
         {
@@ -3006,7 +2986,7 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": "19. Eternal\n\nYou may unseal. (To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)\nSearch your library for a creature card with mana value X or less, and reveal it. If the seal is broken, instead search for two creature cards with total mana value X or less, and reveal them. Put the revealed cards onto the battlefield, then shuffle.\n\nSearch your library and/or graveyard for a permanent card, reveal it, and put it into your hand. If you searched your library, shuffle.\n\nVigilance\nWhenever you cast a noncreature spell, create a 2/2 white Knight creature token with vigilance.\n\nUnseal. When you do, return target creature card from your graveyard to the battlefield. Then put a +1/+1 counter on it. If the seal is broken, instead put three +1/+1 counters on it. (To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)"
         },
         {
@@ -3026,7 +3006,7 @@
             "loyalty": "",
             "artist": "monlin_side",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": "10. Constellation"
         },
         {
@@ -3046,7 +3026,7 @@
             "loyalty": "",
             "artist": "monmon2133",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": "3. Wish"
         },
         {
@@ -3066,7 +3046,7 @@
             "loyalty": "",
             "artist": "Ashe Arends",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "5. Moon"
         },
         {
@@ -3086,7 +3066,7 @@
             "loyalty": "",
             "artist": "monmon2133",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "card_name2": "Faint Obligation",
             "color2": "G",
             "type2": "Sorcery \u2014 Omen",
@@ -3117,7 +3097,7 @@
             "loyalty": "",
             "artist": "Ruska J J Berghall",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "18. Crystal\n\nT: Add one mana of any color among modified creatures you control. (Equipment, Auras you control, and counters are modifications.)\n2, T: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
         },
         {
@@ -3128,7 +3108,7 @@
             "number": 66,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "{1}{B}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDeathtouch\nWhenever this creature attacks, you draw a card and lose 1 life.",
+            "rules_text": "{1}{B}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nDeathtouch\nWhenever this creature attacks, you draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3137,7 +3117,7 @@
             "loyalty": "",
             "artist": "monmon2133",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "26. Seed\n\nBind a Knight (When you cast this spell, you may copy it. If you don't, create a 2/2 white Knight creature token with vigilance.)\nEnchant creature\nEnchanted creature can't attack or block.\nAt the beginning of the upkeep of enchanted creature's controller, they lose 1 life and you gain 1 life."
         },
         {
@@ -3157,7 +3137,7 @@
             "loyalty": "",
             "artist": "syokumura",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "27. Moonlight\n\nConnective Lunacy"
         },
         {
@@ -3177,7 +3157,7 @@
             "loyalty": "",
             "artist": "monmon2133",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "23. Tuxedo"
         },
         {
@@ -3197,7 +3177,7 @@
             "loyalty": "",
             "artist": "susudust",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": "21. Silver"
         },
         {
@@ -3217,7 +3197,7 @@
             "loyalty": "",
             "artist": "Niko Timbaldi",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": "scryfall gag name: \"first look at Absolute Joker\"\n\n1. Rabbit"
         },
         {
@@ -3237,7 +3217,7 @@
             "loyalty": "",
             "artist": "monmon2133",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "30. Serenity"
         },
         {
@@ -3257,7 +3237,7 @@
             "loyalty": "",
             "artist": "popopopopoopw",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "4. Quartet"
         },
         {
@@ -3277,7 +3257,7 @@
             "loyalty": "",
             "artist": "Wilson Nugraha",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": "9. Compact"
         },
         {
@@ -3297,7 +3277,7 @@
             "loyalty": "",
             "artist": "Bryan Sola",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": "15. Sailor\n\nWhen some person enters, unseal. When you do, return target noncreature, nonland card from your graveyard to your hand. If the seal is broken, repeat this process once. (To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)"
         },
         {
@@ -3308,16 +3288,16 @@
             "number": 136,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nI \u2014 Return target creature card from your graveyard to your hand.\nII \u2014 Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nIII \u2014 Each player sacrifices a creature.",
+            "rules_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nReturn target creature card from your graveyard to your hand.\nPut a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nEach player sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nI \u2014 Return target creature card from your graveyard to your hand.\nII \u2014 Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nIII \u2014 Each player sacrifices a creature.",
+            "special_text": "Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]\nReturn target creature card from your graveyard to your hand.\nPut a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.\nEach player sacrifices a creature.",
             "shape": "saga",
             "set": "LDT",
             "loyalty": "",
             "artist": "wasabi60",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": "31. Infinity\n\nReturn target creature card from your graveyard to your hand.\nPut a +1/+1 counter on target creature you control. It gains deathtouch until end of turn.\nEach player sacrifices a creature."
         },
         {
@@ -3337,7 +3317,7 @@
             "loyalty": "",
             "artist": "nengoro",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "card_name2": "Read the Stars",
             "color2": "U",
             "type2": "Sorcery \u2014 Omen",
@@ -3368,7 +3348,7 @@
             "loyalty": "",
             "artist": "siun_5513",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": "28. Daylight"
         },
         {
@@ -3388,7 +3368,7 @@
             "loyalty": "",
             "artist": "iralion",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": "29. Princess\n\nWhen this enchantment enters, you gain 3 life and draw a card.\nWhenever you cast an Omen spell, exile it as it resolves.\nYou may cast permanent cards exiled with this enchantment."
         },
         {
@@ -3399,7 +3379,7 @@
             "number": 49,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "{2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature can't be blocked.",
+            "rules_text": "{2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature can't be blocked.",
             "flavor_text": "[i]\u201cAs this beauty encroaches on my form, I feel less of myself, yet I cannot turn away.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3408,7 +3388,7 @@
             "loyalty": "",
             "artist": "Haruwosi",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": "6. Prism\n\nrefracted light\nW instant\nExile target creature you control. Return it to the battlefield under its owner's control at the beginning of the next end step. If it had +1/+1 counters on it, put those counters on up to one other target creature.\n\nsharp prism 3\nartifact\nT: Add one mana of any color.\n1, T: Put a +1/+1 counter on target creature. This ability costs 1 more to activate for each +1/+1 counter on the target."
         },
         {
@@ -3428,7 +3408,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": "17. Grail"
         },
         {
@@ -3439,7 +3419,7 @@
             "number": 123,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "When Wildpath Paragon enters, you gain 3 life.\n{1}{G}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature must be blocked if able.",
+            "rules_text": "When Wildpath Paragon enters, you gain 3 life.\n{1}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]\nThis creature must be blocked if able.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3448,8 +3428,28 @@
             "loyalty": "",
             "artist": "Alexandre Chaudret",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "11. Transformation"
+        },
+        {
+            "card_name": "Drink Deep",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 107,
+            "color_identity": "G",
+            "cost": "{G}",
+            "rules_text": "Choose target creature you control, then choose two\u2014\n\u2022 That creature gains hexproof until end of turn.\n\u2022 Put a +1/+1 counter on that creature.\n\u2022 That creature gains trample until end of turn.",
+            "flavor_text": "[i]The ever-flowing water of the grail imbued the knights of the Immortal Table with the longevity for which they were named.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LDT",
+            "loyalty": "",
+            "artist": "Linus Pettersson",
+            "alias": "",
+            "position": "164",
+            "notes": ""
         }
     ]
 }

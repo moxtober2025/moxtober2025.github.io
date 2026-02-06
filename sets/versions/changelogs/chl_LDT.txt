@@ -1,4 +1,434 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Seeker of Cosmic Ideals
+rules_text: Seeker of Cosmic Ideals has flying as long as it isn't Human.
+{2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Seeker of Cosmic Ideals has flying as long as it isn't Human.
+{2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+
+Mistress of the Hunt
+rules_text: {R}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink. => {R}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink.
+
+Syr Yseult of Seven Chimes
+rules_text: Each opponent's maximum hand size is equal to the number of cards in your hand.
+When you have no cards in hand, you draw a card and you lose 2 life. => Each opponent's maximum hand size is equal to the number of cards in your hand.
+When you have no cards in hand, you draw a card and you lose 2 life. This ability only triggers once each turn.
+
+Nyneve, Daybreak's Promise
+rules_text: Partner with Syr Llyr, Grief's Twilight [i](When this creature enters, target player may put Syr Llyr into their hand from their library, then shuffle.)[/i]
+Whenever Nyneve attacks, if it's modified, up to one target creature blocks it this combat if able. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Whenever Nyneve attacks, if it's modified, up to one target creature blocks it this combat if able. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Partner—Immortal Table [i](You can have two commanders if both have this ability.)[/i]
+
+Syr Llyr, Grief's Twilight
+rules_text: Partner with Nyneve, Daybreak's Promise
+Excess damage dealt to Llyr is dealt to you instead.
+{1}{WB}{WB}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be destroyed by lethal damage. => Excess damage dealt to Llyr is dealt to you instead.
+{1}{WB}{WB}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be destroyed by lethal damage.
+Partner—Immortal Table [i](You can have two commanders if both have this ability.)[/i]
+
+Blushing Bride
+rules_text: {R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Haste => {R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Haste
+
+Her Ladyship The Moon
+rules_text: Flying, indestructible
+Her Ladyship The Moon isn't a creature unless your seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal. => Flying, indestructible
+Her Ladyship The Moon isn't a creature unless your seal is broken. 
+Activated abilities of creature you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever you activate an ability of a creature you control, unseal. This ability only triggers once each turn.
+
+Shadowreathed Champion
+rules_text: Whenever a modified creature you control attacks, each opponent loses 3 life unless they discard a card or sacrifice a nontoken permanent of their choice. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Whenever an opponent loses life for the first time each turn, put a +1/+1 on target creature you control. => Whenever one or more modified creatures you control attack, each opponent loses 3 life unless they discard a card or sacrifice a nontoken permanent of their choice. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Whenever an opponent loses life for the first time each turn, put a +1/+1 on target creature you control.
+
+Siobhan, Who Failed
+rules_text: {R}: Forswear loyalty. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead. => {R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.
+special_text: {R}: Forswear loyalty. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead. => {R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.
+
+Sunken Chorus
+rules_text: When Sunken Chorus enters, each player discards a card.
+{3}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace. => When Sunken Chorus enters, each player discards a card.
+{3}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace.
+
+The Crowning of a Princess
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — If this was cast from your hand, destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+If this was cast from your hand, destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — If this was cast from your hand, destroy all creatures.
+Players can't cast spells this turn.
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+If this was cast from your hand, destroy all creatures.
+Players can't cast spells this turn.
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter, flying counter, and lifelink counter on it.
+
+The Sealing of a God
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+I — This Saga gains “Enchanted creature gets -2/-2.”
+II — This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+III — Exile enchanted creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Enchant creature
+This Saga gains “Enchanted creature gets -2/-2.”
+This Saga gains “Enchanted creature can't block.”
+Enchanted creature's controller loses 2 life.
+Exile enchanted creature.
+
+The Seeking of a Legend
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 white Knight creature token with vigilance. Scry 2.
+II — Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+III — Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 white Knight creature token with vigilance. Scry 2.
+Whenever one or more creatures deal combat damage to a player this turn, draw a card.
+Search your library for a noncreature artifact card, reveal it, put it into your hand, then shuffle. The next spell you cast this turn costs {2} less to cast.
+
+The Weaving of a Star
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+III — [i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top two cards of your library. You may play a card exiled with this Saga this turn.
+[i][/i]This deals X damage to each opponent, where X is the number of cards exiled with it.[i][/i]
+​
+
+Oath of the Immortal Table
+
+Schism
+rules_text: Schism deals 4 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead. Then its controller creates a white enchantment token named Grudge with “Spells you cast that share a name with a card you own in exile cost {2} more to cast.” => Schism deals 4 damage to any target. When a creature or planeswalker dealt damage this way dies this turn, exile it. Its controller creates a white enchantment token named Grudge with “Spells you cast that share a name with a card you own in exile cost {2} more to cast.”
+
+Catacomb Consecrator
+rules_text: {2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.
+When this creature leaves the battlefield, you may put a creature card with mana value 2 or less exiled with it that you own onto the battlefield. => {2}: Exile target creature card from a graveyard. Put a +1/+1 counter on target creature you control.
+When this creature dies, you may put a creature card with mana value 2 or less exiled with it that you own not named Catacomb Consecrator onto the battlefield.
+
+Catacomb Hoarder
+
+Lotus-Pool Fishcat
+
+Obelia, Headless Huntress
+
+Rise, Again and Again
+
+Starlight Titan
+rules_text: First strike
+Whenever this creature enters or attacks, exile the top two cards of your library. You may play those cards. For each card you don't play, create a 1/1 white Spirit creature token with lifelink. => First strike
+Whenever this creature enters or attacks, exile the top two cards of your library. You may play those cards. 
+At the beginning of your end step, if there are cards exiled with this creature, put them into their owner's graveyard, then create a 1/1 white Spirit token with lifelink for each card put this way.
+
+Banished From Heaven
+
+Secrets in the Stars
+
+Undying Loyalist
+
+The Merest Taste of Divinity
+
+Wyrdwood Guardian
+rules_text: Whenever another nontoken creature dies, create a 1/1 green Forest Dryad land creature token. If that creature was modified, create two of those tokens instead.
+{5}{G}{G}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. => Whenever another nontoken creature you control dies, create a 1/1 green Forest Dryad land creature token. If that creature was modified, create two of those tokens instead.
+{5}{G}{G}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn.
+
+Final Masquerade
+cost: {1}{R}{R} => {R}{R}{R}
+
+Meditations on Devotion
+
+Timelost Relict
+
+Wyrdwood Dryad
+
+Field of Swords
+rules_text: This land enters tapped unless a creature died this turn.
+This land doesn't untap during your untap step.
+At the beginning of your end step, if a creature died this turn, untap this land.
+{T}: Add one mana of any color. => At the beginning each end step, if a creature died this turn, put a blade counter on Field of Swords.
+{T}: Add {C}.
+{T}, Remove a blade counter from Field of Swords: Add one mana of any color.
+
+Searing Brilliance
+
+Fervent Bloodletter
+
+Forbidden Hex
+
+The Meek and Many
+
+Commandeered Barge
+
+Seek Unspoiled Lands
+
+A Sliver of Her Might
+
+Silverthread Spirit
+
+Soldier On
+
+Stone of Swords
+
+Perennial Penguins
+rules_text: Whenever this creature enters or attacks, you may sacrifice an artifact or land. If you do, create an Uncharted Haven token. [i](It's a land with “This land enters tapped. As it enters, choose a color.” and “{T}: Add one mana of the chosen color.”)[/i] => Whenever this creature enters or attacks, you may sacrifice a land or nontoken artifact. If you do, create an Uncharted Haven token. [i](It's a land with “This land enters tapped. As it enters, choose a color.” and “{T}: Add one mana of the chosen color.”)[/i]
+
+Knight of Unanswered Wishes
+
+Mooncursed Packleader
+rules_text: Whenever you attack, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i] => Whenever this creature attacks, creatures you control get +1/+1 until end of turn. If your seal is broken, double the power and toughness of each creature you control instead.
+{1}{G}: Unseal. [i](To unseal, mill two cards, then you may exile cards with total mana value 13 or more from your graveyard. If you do, the seal is broken for the rest of the game.)[/i]
+
+Feigned Innocence
+
+Meditations on Truth
+
+Answerer of Pleas
+rules_text: {1}{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+During your turn, this creature has indestructible. => {1}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+During your turn, this creature has indestructible.
+
+The Pale Riders of the Mire
+
+Knight of Refraction
+
+Forsaken Paladin
+rules_text: {1}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature gets +1/-1 for each +1/+1 counter on it. => {1}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature gets +1/-1 for each +1/+1 counter on it.
+
+Syr Grgkhshktsh, the Unruly
+
+Seal Beneath the Lake
+
+Curse of Moonlight Sickness
+
+Curse of Warping Flesh
+
+Stir the Brew
+
+Natural Beauty
+
+War-Hardened Headhunter
+rules_text: {2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Double strike => {2}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Double strike
+
+Familiar's Watch
+
+Keeper of the Grail
+
+Crystal Clear
+
+Aneaena, Timeless Hermit
+
+Hallowed Shieldbearer
+
+Helpful Silversmith
+rules_text: When this creature enters, you gain 1 life.
+{W}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature attacking causes its abilities to trigger as though it entered. => When this creature enters, you gain 1 life.
+{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature attacking causes its abilities to trigger as though it entered.
+
+Ancient Lore
+
+Dressed to Kill
+
+Shroud of Moths
+
+Accursed Astrologist
+
+Sow the Seeds of Glory
+
+Lena of the Lunar Eclipse
+
+Blazing Light
+
+Ravaine's Rider
+rules_text: {R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as it's your turn, this creature has flying.
+{R}: This creature gets +1/+0 until end of turn. => {R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as it's your turn, this creature has flying.
+{R}: This creature gets +1/+0 until end of turn.
+
+Curse of Overwhelming Ennui
+
+Vicious Cycle
+
+Caelia, the South Star (Promo)
+
+Ruin to be Wrought (Promo)
+
+The Red Grail (Promo)
+
+Lacustrine Prophet
+
+God
+
+Bird
+
+Bismuth Brawler
+
+Bloodscent Tracker
+rules_text: {2}{G}: Forswear [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Trample
+Damage dealt by this creature can't be prevented. => {2}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Trample
+Damage dealt by this creature can't be prevented.
+
+Commanding Concubus
+
+A Heart Enraptured
+
+A Millenium Under the Oath
+
+Concoction of Strength
+
+Desperate Cradling
+
+Duty Unending
+
+Fraying Star-Guide
+
+Glasswork Champion
+
+Her Gaze Weighs Heavy
+
+Her Ladyship's Truth
+
+Histories of the Table
+
+Knight-Radiant
+
+Knight's Last Wish
+
+Lunar Reflection
+
+Meditations on Obligation
+
+Pristine Blade
+
+Rust-Souled Veteran
+rules_text: {1}{B}{B}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life. => {1}{B}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life.
+
+Safira, High Priestess
+
+Second Skin
+
+Silver Apostate
+
+Sinewtail
+
+Sinking into the Lady's Grasp
+
+Strike As One
+
+Sworn Shortsword
+
+Tainted-Shore Witch
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+III — Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+
+The Stars Are Her Hands
+
+The Waning of the Sun
+
+Umbrette, Peculiar Princess
+
+Vitreous Drifter
+rules_text: {2}{U}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be blocked. => {2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be blocked.
+
+Waters of the Lake
+
+Wildpath Paragon
+rules_text: When Wildpath Paragon enters, you gain 3 life.
+{1}{G}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature must be blocked if able. => When Wildpath Paragon enters, you gain 3 life.
+{1}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature must be blocked if able.
+
+Drink Deep
+rules_text: Target creature you control gains hexproof until end of turn. If it's modified, draw a card. Put a +1/+1 counter on it. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Choose target creature you control, then choose two—
+• That creature gains hexproof until end of turn.
+• Put a +1/+1 counter on that creature.
+• That creature gains trample until end of turn.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Ravaine's Rider added.
