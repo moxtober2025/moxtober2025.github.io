@@ -1,4 +1,370 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Seeker of Cosmic Ideals
+rules_text: Seeker of Cosmic Ideals has flying as long as it isn't Human.
+{2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Seeker of Cosmic Ideals has flying as long as it isn't Human.
+Forswear {2}{U} [i]({2}{U}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+
+Mistress of the Hunt
+rules_text: {R}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink. => Forswear {R}{W} [i]({R}{W}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+At the beginning of combat on your turn, create a 2/2 green Hound creature token with haste and lifelink.
+
+Blade at Thy Back
+pt: 3/3 => 3/2
+
+Syr Llyr, Grief's Twilight
+rules_text: Excess damage dealt to Llyr is dealt to you instead.
+{1}{WB}{WB}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be destroyed by lethal damage.
+Partner—Immortal Table [i](You can have two commanders if both have this ability.)[/i] => Excess damage dealt to Llyr is dealt to you instead.
+Forswear {1}{WB}{WB}
+This creature can't be destroyed by lethal damage.
+Partner—Immortal Table [i](You can have two commanders if both have this ability.)[/i]
+
+Hollow Worshipper
+rules_text: {2}{R}: Forswear. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+When this creature dies, it deals 3 damage to each opponent. => Forswear {2}{R} [i]({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+When this creature dies, it deals 3 damage to each opponent.
+
+Blushing Bride
+rules_text: {R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Haste => Forswear {R} [i]({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+Haste
+
+Siobhan, Who Failed
+rules_text: {R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead. => Forswear loyalty {R} [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only as a sorcery and only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.
+special_text: {R}: Forswear loyalty. Activate only as a sorcery. [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead. => Forswear loyalty {R} [i](Put a loyalty counter on Siobhan and up to one other creature. That creature gains the following abilities until end of turn and she's no longer Siobhan. Activate only as a sorcery and only once.)[/i]
+[+1]: Amass Warlocks 1. [i](Put a +1/+1 counter on an Army you control. It's also a Warlock. If you don't control an Army, create a 0/0 black Warlock Army creature token first.)[/i]
+[0]: Target opponent discards a card. If they can't, you draw a card. 
+[-1]: Siobhan deals 1 damage to target creature or planeswalker. If that permanent was already dealt damage this turn, destroy it instead.
+
+Sunken Chorus
+rules_text: When Sunken Chorus enters, each player discards a card.
+{3}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace. => When Sunken Chorus enters, each player discards a card.
+Forswear {3}{B} [i]({3}{B}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+As long as an opponent has one or fewer cards in hand, this gets +1/+0 and has menace.
+
+Sworn Sisters
+
+The Anointing of a Champion
+
+The Crowning of a Princess
+
+The Sealing of a God
+
+The Seeking of a Legend
+
+The Weaving of a Star
+
+To Slaughter
+
+Beseech the Lady
+
+Lunar Chaplain
+rules_text: As long as Lunar Chaplain is modified, it has protection from creatures. [i](Equipment, Auras you control, and counters are modifications. It can't be blocked, targeted, or dealt damage by creatures.)[/i] => Whenever Lunar Chaplain attacks, if it's modified, it gains indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Leonum Non Refert Quid Oves Censeant
+
+Alum of the Rising Moon
+cost: {U} => {1}{U}
+pt: 2/2 => 3/2
+
+Cyclekeeper
+
+Face of Animosity
+
+Renah of the Waning Sun
+cost: {R} => {1}{R}
+pt: 2/2 => 3/2
+
+Oath of the Immortal Table
+
+Schism
+
+Catacomb Consecrator
+
+Catacomb Hoarder
+
+Lotus-Pool Fishcat
+
+Obelia, Headless Huntress
+
+Rise, Again and Again
+
+Starlight Titan
+
+Banished From Heaven
+
+Secrets in the Stars
+
+Undying Loyalist
+
+The Merest Taste of Divinity
+
+Wyrdwood Guardian
+
+Final Masquerade
+rules_text: All creatures have haste and attack each turn if able.
+Whenever a creature you control attacks, put a +1/+1 counter on it. => Whenever a creature you control attacks, put a +1/+1 counter on it.
+Whenever a creature you control dies, if it had three or more counters on it, exile the top card of your library. You may put that card into your graveyard. If you do, Final Masquerade deals 2 damage to each opponent. Otherwise, you may play that card until the beginning of your next end step.
+
+Meditations on Devotion
+
+Timelost Relict
+
+Wyrdwood Dryad
+
+Field of Swords
+
+Searing Brilliance
+
+Fervent Bloodletter
+
+Forbidden Hex
+
+The Meek and Many
+
+Commandeered Barge
+
+Seek Unspoiled Lands
+
+A Sliver of Her Might
+
+Silverthread Spirit
+
+Soldier On
+
+Stone of Swords
+
+Perennial Penguins
+
+Knight of Unanswered Wishes
+
+Mooncursed Packleader
+
+Feigned Innocence
+
+Meditations on Truth
+
+Answerer of Pleas
+rules_text: {1}{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+During your turn, this creature has indestructible. => Forswear {1}{W} [i]({1}{W}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+During your turn, this creature has indestructible.
+
+The Pale Riders of the Mire
+
+Knight of Refraction
+
+Forsaken Paladin
+rules_text: {1}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature gets +1/-1 for each +1/+1 counter on it. => Forswear {1}{R} [i]({1}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+This creature gets +1/-1 for each +1/+1 counter on it.
+
+Syr Grgkhshktsh, the Unruly
+
+Seal Beneath the Lake
+
+Curse of Moonlight Sickness
+
+Curse of Warping Flesh
+
+Stir the Brew
+
+Natural Beauty
+
+War-Hardened Headhunter
+rules_text: {2}{R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Double strike => Forswear {2}{R} [i]({2}{R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+Double strike
+
+Familiar's Watch
+cost: {1}{U} => {U}{U}
+
+Keeper of the Grail
+
+Crystal Clear
+
+Aneaena, Timeless Hermit
+
+Hallowed Shieldbearer
+
+Helpful Silversmith
+rules_text: When this creature enters, you gain 1 life.
+{W}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature attacking causes its abilities to trigger as though it entered. => When this creature enters, you gain 1 life.
+Forswear {W} [i]({W}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+This creature attacking causes its abilities to trigger as though it entered.
+
+Ancient Lore
+
+Dressed to Kill
+
+Shroud of Moths
+
+Accursed Astrologist
+
+Sow the Seeds of Glory
+
+Lena of the Lunar Eclipse
+
+Blazing Light
+
+Ravaine's Rider
+rules_text: {R}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+As long as it's your turn, this creature has flying.
+{R}: This creature gets +1/+0 until end of turn. => Forswear {R} [i]({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+As long as it's your turn, this creature has flying.
+{R}: This creature gets +1/+0 until end of turn.
+
+Curse of Overwhelming Ennui
+
+Vicious Cycle
+
+Caelia, the South Star (Promo)
+
+Ruin to be Wrought (Promo)
+
+The Red Grail (Promo)
+
+Lacustrine Prophet
+
+God
+
+Bird
+
+Bismuth Brawler
+
+Bloodscent Tracker
+rules_text: {2}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Trample
+Damage dealt by this creature can't be prevented. => Forswear {2}{G} [i]({2}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+Trample
+Damage dealt by this creature can't be prevented.
+
+Commanding Concubus
+
+A Heart Enraptured
+rules_text: Enchant player
+Whenever enchanted player attacks, they lose 3 life unless they sacrifice a creature discard a creature card. => Enchant player
+Whenever enchanted player attacks, they lose 3 life unless they sacrifice a creature or discard a creature card.
+
+A Millenium Under the Oath
+
+Concoction of Strength
+
+Desperate Cradling
+
+Duty Unending
+
+Fraying Star-Guide
+
+Glasswork Champion
+
+Her Gaze Weighs Heavy
+
+Her Ladyship's Truth
+
+Histories of the Table
+
+Knight-Radiant
+
+Knight's Last Wish
+
+Lunar Reflection
+
+Meditations on Obligation
+
+Pristine Blade
+
+Rust-Souled Veteran
+rules_text: {1}{B}{B}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life. => Forswear {1}{B}{B} [i]({1}{B}{B}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+Deathtouch
+Whenever this creature attacks, you draw a card and lose 1 life.
+
+Safira, High Priestess
+
+Second Skin
+
+Silver Apostate
+
+Sinewtail
+
+Sinking into the Lady's Grasp
+
+Strike As One
+
+Sworn Shortsword
+
+Tainted-Shore Witch
+
+The Many Oaths of Siobhan
+rules_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+special_text: Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures until end of turn. They gain deathtouch until end of turn.
+Each player sacrifices a creature. => Time loop [i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+Return target creature card from your graveyard to your hand.
+Put a +1/+1 counter on each of up to two target creatures. They gain deathtouch until end of turn.
+Each player sacrifices a creature.
+
+The Stars Are Her Hands
+
+The Waning of the Sun
+
+Umbrette, Peculiar Princess
+
+Vitreous Drifter
+rules_text: {2}{U}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature can't be blocked. => Forswear {2}{U} [i]({2}{U}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+This creature can't be blocked.
+
+Waters of the Lake
+
+Wildpath Paragon
+rules_text: When Wildpath Paragon enters, you gain 3 life.
+{1}{G}: Forswear. Activate only as a sorcery. [i](Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only once.)[/i]
+This creature must be blocked if able. => When Wildpath Paragon enters, you gain 3 life.
+Forswear {1}{G} [i]({1}{G}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]
+This creature must be blocked if able.
+
+Drink Deep
+
+Steel Your Heart
+cost: {1}{R} => {2}{R}{R}
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+{3}{R}{R}, Sacrifice Steel Your Heart: Untap all modified creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Steel Your Heart enters and at the beginning of your upkeep, choose one that hasn't been chosen —
+• Discard your hand, then draw three cards.
+• Steel Your Heart deals 3 damage to any target.
+• Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+• Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.”
+• You lose the game.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
