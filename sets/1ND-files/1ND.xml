@@ -1,0 +1,2720 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>1ND</name>
+			<longname>One Night in the Dragon&apos;s Den</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-30</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Skyline Daredevil</name>
+			<text>Menace, haste
+Whenever this creature attacks, you may discard a card. If you do, put a +1/+1 counter on it.
+When this creature leaves the battlefield, draw a card for each +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/0.png" num="74">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hands Outstretched</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)
+Gain control of target noncreature, nonland permanent.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/1.png" num="27">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aquila, the Outfitter</name>
+			<text>Vigilance
+When Aquila enters, you may choose an artifact card you own from outside the game, reveal it, and put it into your hand.
+For each generic mana in an equip cost you pay, you may tap an untapped creature you control rather than pay that mana.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/2.png" num="107">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harmonious Viola</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2 and attach this to it.)
+At the beginning of combat on your turn, if you control another creature with flying, equipped creature gains flying until end of turn. The same is true for first strike, vigilance, and lifelink.
+Equip {1}{W}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/3.png" num="9">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Under Cover of Darkness</name>
+			<text>Whenever an opponent loses life, you may pay that much life. If you do, draw that many cards. (Combat damage is dealt all at once.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/4.png" num="59">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gleaming Trinket</name>
+			<text>When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if an opponent lost 3 or more life this turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/5.png" num="143">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Perils of the Vault</name>
+			<text>You may cast this spell as though it had flash if you lost life this turn.
+Exile target tapped creature. You gain life equal to its power.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/6.png" num="12">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bust Down the Door</name>
+			<text>Bust Down the Door deals X damage to each creature. Destroy all artifacts with mana value X or less.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/7.png" num="64">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Concealer&apos;s Kit</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library and attach this to it.)
+Equipped creature has ward {3} and distraction. (It can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)
+Equip {1}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/8.png" num="23">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starlight Matrix</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)
+At the beginning of your end step, exile target creature you control that dealt combat damage to an opponent this turn, then return it to the battlefield tapped under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/9.png" num="16">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Errant Ransacker</name>
+			<text>Trample
+When this creature enters, choose one —
+• Destroy target Aura or Equipment.
+• Put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/10.png" num="88">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sequence Breaker</name>
+			<text>Counter target spell unless its controller pays {2} for each spell they&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/11.png" num="40">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rooftop Rendezvous</name>
+			<text>Exile the top card of your library. You may play it until the end of your next turn.
+As long as a creature you control dealt combat damage to an opponent this turn and this card is in your graveyard, it has flashback {R}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/12.png" num="72">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Head of Security</name>
+			<text>Flying
+Whenever a nontoken creature enters, if it wasn&apos;t cast, destroy it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/13.png" num="49">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witches&apos; Broom</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2 and attach this to it.)
+Equipped creature has flying, deathtouch, and lifelink.
+Equip {B}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/14.png" num="60">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Watch from Above</name>
+			<text>Reveal the top five cards of your library. You may choose a basic land card from among them, put it into your hand, then put the rest on the bottom of your library in a random order.
+Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/15.png" num="104">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lady Krata, the Financier</name>
+			<text>First strike
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token, then exile the top card of that player&apos;s library. You may play it until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/16.png" num="120">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Defense</name>
+			<text>Creatures you control gain protection from mana value 3 or greater until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/17.png" num="3">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plot Unfolding</name>
+			<text>Look at the top X cards of your library, where X is two plus the amount of life your opponents lost this turn. Put two of them into your hand and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/18.png" num="123">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chairman Aggaloth</name>
+			<text>Flying, trample
+When Chairman Aggaloth enters, create X Treasure tokens, where X is your starting life total minus your life total.
+If you would lose life, you may instead sacrifice that many artifacts.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/19.png" num="111">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gallica, Gentleman Thief</name>
+			<text>Menace
+Whenever you attack with creatures with total power 6 or greater, you may put Gallica from your hand onto the battlefield tapped and attacking. If you do, it gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/20.png" num="117">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hoard</name>
+			<text>For each card type, gain control of up to one target permanent or spell of that type. You may choose new targets for spells you gain control of this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/21.png" num="29">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UUU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quicksilver Forger</name>
+			<text>When this creature enters, create a token that&apos;s a copy of target artifact you control, except it has haste. Sacrifice it at the beginning of your next end step.
+Whenever an artifact you control dies, this creature deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/22.png" num="71">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stick-Up</name>
+			<text>Whenever a creature you control deals combat damage to an opponent, exile the top card of your library.
+Sacrifice Stick-Up: You may play cards exiled with it until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/23.png" num="76">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Digital Genesis</name>
+			<text>Look at the top seven cards of your library. You may put a creature with mana value 1 from among them onto the battlefield, then do the same for creatures with mana value 2 and 3. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/24.png" num="86">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Optix, Neural Encoder</name>
+			<text>At the beginning of your upkeep, put a +1/+1 counter on this creature, then search your library for an instant or sorcery card with mana value X, reveal it, put it into your hand, then shuffle, where X is this creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/25.png" num="122">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Larcenist</name>
+			<text>Menace
+Whenever one or more creatures you control deal combat damage to an opponent, reveal the top card of your library. You lose life equal to its mana value, then put it into your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/26.png" num="52">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orbital Viewstation</name>
+			<text>Whenever an opponent is dealt combat damage, you may sacrifice this artifact. If you do, search your library for a card with mana value X, reveal it, put it into your hand, then shuffle, where X is the amount of damage dealt this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/27.png" num="147">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ballroom Baroness</name>
+			<text>Prowess
+If a modified source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/28.png" num="63">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tranquilizer Miasma</name>
+			<text>Destroy all Auras and Equipment, then remove all counters from all creatures.
+All creatures get -3/-3 until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/29.png" num="131">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>In Broad Daylight</name>
+			<text>Create two Treasure tokens.
+Discard your hand, then draw a card for each artifact you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/30.png" num="69">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Combat Expert</name>
+			<text>Equip abilities you activate that target this creature cost {1} less to activate.
+{3}{W}: Look at the top three cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/31.png" num="2">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pre-Job Soundtrack</name>
+			<text>At the beginning of combat on your turn, you may tap an untapped creature you control. If you do, put a +1/+1 counter on that creature.
+{3}{R}{R}, Sacrifice this enchantment: Untap each modified creature you control. After this phase, there is an additional combat phase. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/32.png" num="13">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Synthetic Assistant</name>
+			<text>Sacrifice this creature: Target creature you control gains indestructible until end of turn. If that creature is modified, put a +1/+1 counter on it. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/33.png" num="17">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cut the Power</name>
+			<text>Tap all artifacts you don&apos;t control and put a stun counter on each of them.
+End the turn. (Exile all spells an abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/34.png" num="25">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lock Away</name>
+			<text>Gain control of target creature. Tap it and put stun counters on it equal to its mana value.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/35.png" num="30">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mischievous Debutante</name>
+			<text>Distraction (This creature can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)
+Whenever this creature attacks, draw a card, then discard a card. If you discard an Aura or Equipment card this way, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/36.png" num="33">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rumor Brokers</name>
+			<text>Whenever you create a Clue, you may draw a card. If you do, discard a card.
+{2}{U}{U}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/37.png" num="39">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siobhan, Master of Fate</name>
+			<text>Whenever a creature you control deals combat damage to a player, draw a card.
+[+1]: Up to one target creature gains distraction until end of turn.
+[-3]: Create Beebo, a legendary 3/3 blue Dragon creature token with flying and double strike.
+[-8]: You get an emblem with &quot;Whenever you cast a spell, exile up to one target nonland permanent, then return it to the battlefield or to its owner&apos;s hand.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/38.png" num="128">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Siobhan</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Chalice</name>
+			<text>At the beginning of your upkeep, you draw a card and you lose 1 life.
+Whenever you create a Treasure token, you gain 1 life.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/39.png" num="44">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iris, Sitting Pretty</name>
+			<text>When Iris enters, choose one or more. You lose 2 life for each mode chosen beyond the first.
+• Create a 1/1 white Human Peasant creature token.
+• Draw a card.
+• Create a Treasure token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/40.png" num="51">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prison Break</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less to cast if a creature you control dealt combat damage to an opponent this turn.)
+Return each creature card with mana value 2 or less from your graveyard to the battlefield. Each opponent loses 1 life for each creature put onto the battlefield this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/41.png" num="56">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drake Egg</name>
+			<text>{T}: Add {R}.
+{T}, Sacrifice this creature: Add one mana of any color. If this creature was modified, create a 2/2 blue Drake creature token with flying. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/42.png" num="66">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Treasure Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Maître d&apos;</name>
+			<text>Haste
+Whenever this creature deals combat damage to a player, that player investigates. (They create a Clue token with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/43.png" num="78">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vault Automaton</name>
+			<text>This creature can&apos;t block.
+When this creature dies, if it was modified, return it to the battlefield with a finality counter. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/44.png" num="81">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bunny, the Muscle</name>
+			<text>Trample, haste
+Whenever Bunny attacks, if she&apos;s modified, she gains indestructible until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/45.png" num="83">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Labyrinth</name>
+			<text>Whenever you attack, you may play an additional land this turn.
+Landfall — Whenever a land you control enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/46.png" num="87">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morning Cleaners</name>
+			<text>Whenever this creature attacks, exile up to one target card from a graveyard.
+{1}{G}: Return a permanent card exiled with this creature to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/47.png" num="92">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All the Way to the Top</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less to cast if a creature you control dealt combat damage to an opponent this turn.)
+Exile the top seven cards of target opponent&apos;s library. You may cast up to two spells exiled this way without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/48.png" num="106">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cate, the Quartermaster</name>
+			<text>When Cate enters, search your graveyard, hand, and/or library for up to two Equipment cards with total mana value 5 or less and put them onto the battlefield. If you search your library this way, shuffle.
+Whenever a modified creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/49.png" num="110">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The First Crew</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 1/1 black Rogue creature tokens with menace.
+II — Until end of turn, whenever a creature you control deals combat damage to a player, create a tapped Treasure token.
+III — Sacrifice two creatures.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/50.png" num="116">1ND</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Get-Away Blimp</name>
+			<text>Flash
+Flying
+Whenever this Vehicle enters or attacks, return up to one other target creature you control to its owner&apos;s hand. If that creature was modified, draw a card.
+Crew 3</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/51.png" num="118">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hela, the Maestro</name>
+			<text>Whenever Hela attacks, exile up to one other target creature you control. When you do, choose one — 
+• Until end of turn, you may play the exiled card without paying its mana cost.
+• Create a 3/3 green Elemental creature token that is tapped and attacking.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/52.png" num="119">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fay, Disguise Artist</name>
+			<text>Equipment you control have masquerade. (When an Equipment you control enters, manifest the top card of your library as a 2/2, then attach that Equipment to it.)
+Whenever a face-down creature you control attacks, you may have it become a copy of another target creature until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/53.png" num="115">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrinking Suit</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Equipped creature has base power and toughness 1/1, and has flying and haste.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/54.png" num="127">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Team&apos;s All Here</name>
+			<text>Create a 1/1 blue Artificer creature token, a 2/2 white Soldier creature token, a 3/3 red Rogue creature token, and a 4/4 green Warrior creature token. Then you may attach any number of Equipment you control to those tokens.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/55.png" num="129">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vaultcracker</name>
+			<text>Equipped creature gets +2/+1 and has trample.
+Whenever equipped creature deals combat damage to a player, destroy target artifact that player controls. If an artifact was destroyed this way, create a Treasure token.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/56.png" num="138">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aerial Observer</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player or planeswalker, put a data counter on this creature and surveil 1. Then if there are two or more data counters on this creature, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/57.png" num="139">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Tiara</name>
+			<text>Equipped creature gets +1/+1 for each Treasure you control and is a Noble in addition to its other types.
+{T}, Sacrifice this artifact: Add one mana of any color.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/58.png" num="142">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Royal Puppet</name>
+			<text>When this creature enters, draw a card and create a tapped Treasure token.
+When this creature dies, return it to the battlefield under target opponent&apos;s control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/59.png" num="149">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Toy Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>City at Night</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Investigate. Activate only if an opponent lost 3 or more life this turn. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/60.png" num="153">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Destiny Thieves&apos; HQ</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell or to activate an ability of a legendary permanent.
+{1}, {T}, Sacrifice this land: Return target legendary permanent you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/61.png" num="154">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Diffraction Cloak</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Whenever equipped creature deals combat damage to a player, exile up to one target artifact or creature you control, then return it to the battlefield under its owner&apos;s control.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/62.png" num="4">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dormant Vaultweaver</name>
+			<text>This creature enters tapped with three stun counters on it if you cast it from your hand. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast an artifact or enchantment spell, tap or untap up to one target creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/63.png" num="5">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hare-Eared Handler</name>
+			<text>Whenever you attack, you may have target creature you control get +3/+0 and gain first strike until end of turn. If you do, return that creature to its owner&apos;s hand at end of combat. (If it&apos;s face-down, reveal it.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/64.png" num="8">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rabbit Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trawl for Lost Treasures</name>
+			<text>Exile up to three target creature cards with total mana value 3 or less from your graveyard into a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/65.png" num="18">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vessel of the Thief-Saint</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Equipped creature gets +2/+2 and has flying and vigilance.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/66.png" num="21">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ordinary Security Guard</name>
+			<text>Vigilance
+When this creature dies, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/67.png" num="36">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plan It Out</name>
+			<text>Choose two —
+• Target creature can&apos;t be blocked this turn.
+• Draw a card.
+• Exile target artifact or creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step. (It returns face up.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/68.png" num="38">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alert the Authorities</name>
+			<text>This spell costs {1} less to cast for each tapped creature on the battlefield.
+Exile target creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/69.png" num="42">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burglar&apos;s Cat</name>
+			<text>When this creature enters, target opponent may discard a card. If they don&apos;t, they lose 3 life.
+Sacrifice a Treasure: Return this card from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/70.png" num="45">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mysterious Mastermind</name>
+			<text>Deathtouch
+Whenever Mysterious Mastermind deals combat damage to an opponent, create a tapped artifact token named Black Lotus with &quot;{T}, Sacrifice this artifact: Add three mana of any one color.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/71.png" num="54">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrappy Starbreaker</name>
+			<text>This creature can&apos;t block.
+When this creature dies, manifest it from your graveyard. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/72.png" num="57">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advance Lookout</name>
+			<text>Distraction (This creature can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)
+Exhaust — {4}{R}{R}: Create a 4/4 Dragon artifact creature token with flying and haste. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/73.png" num="62">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fantasize</name>
+			<text>Create X tapped Treasure tokens, where X is the greatest power among creatures that attacked under your control this turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/74.png" num="67">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hijacked Wyrmguard</name>
+			<text>Flying, haste
+At the beginning of your end step, if Hijacked Wyrmguard entered under your control this turn, return target artifact you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/75.png" num="68">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power of Teamwork</name>
+			<text>This spell costs {1} less to cast for each tapped creature you control.
+Power of Teamwork deals 4 damage to any target.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/76.png" num="70">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunborn Thrill-Seeker</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)
+When this creature enters, it deals 4 damage to target creature that has a name.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/77.png" num="77">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delicate Statuary</name>
+			<text>This creature enters with a decayed counter on it if you cast it from your hand. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+When this creature dies, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/78.png" num="85">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Sculpture</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flawless Gemstone</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.) 
+This artifact enters tapped.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/79.png" num="89">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lightweaving</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 for each modified permanent you control. (Equipment, Auras you control, and counters are modifications.)
+When enchanted creature dies, return this Aura to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/80.png" num="90">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lookout&apos;s Rifle</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Whenever equipped creature attacks, put a +1/+1 counter on it. Then draw a card if its power is even. You may play an additional land this turn if its power is odd.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/81.png" num="91">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Portfolio Pilferer</name>
+			<text>{T}: Create a Treasure token.
+Whenever Portfolio Pilferer or another permanent you control leaves the battlefield during your turn, create a Treasure token at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/82.png" num="93">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tooth, Princess of the Vault</name>
+			<text>Vigilance
+{T}: Add one mana of any color. When you do, sacrifice Tooth, Princess of the Vault unless you attacked this turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/83.png" num="98">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Treasure</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beautiful Entrance</name>
+			<text>Search your library for a card, manifest it, then shuffle. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/84.png" num="109">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawn-Shrouded Lyricist</name>
+			<text>Trample, vigilance
+{T}: Add X mana of any one color, where X is the number of tapped creatures you control.
+Whenever you attack, manifest the top card of your library. It enters tapped and attacking. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/85.png" num="112">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Theft of Shape</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.) 
+Exile target nontoken creature. Up to one target permanent you control becomes a copy of the exiled card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/86.png" num="130">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>TsuCo Surveillance Matrix</name>
+			<text>When you cast this spell, copy it twice.
+Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Whenever equipped creature deals combat damage to an opponent, draw a card.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/87.png" num="134">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valerie Night, Solo Act</name>
+			<text>Menace, vigilance, haste
+When Valerie Night enters, sacrifice a creature.
+When Valerie Night dies, exile her and the top card of your library into a face-down pile, shuffle that pile, then manifest each card in it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/88.png" num="136">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aggaloth&apos;s Vault</name>
+			<text>When this artifact enters, create a 2/2 Soldier artifact creature token.
+Sacrifice a creature: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/89.png" num="140">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mini-Singularity</name>
+			<text>When this artifact enters, target creature gets -3/-3 until end of turn.
+{3}, {T}, Sacrifice this artifact: Put three +1/+1 counters on target tapped creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/90.png" num="144">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mox Astatine</name>
+			<text>This artifact enters tapped.
+{T}: Add one mana of any color. This mana can&apos;t be spent to cast spells.
+When you cast a spell, sacrifice this artifact.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/91.png" num="145">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>TsuCo Prototype Rover Model</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)
+Whenever you attack, draw two cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/92.png" num="150">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flamepurging Angel</name>
+			<text>Flying, ward {3}
+When this creature enters, exile target nonland permanent you don&apos;t control.
+You have protection from mana value X or greater, where X is the exiled permanent&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/93.png" num="6">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ismene, Order Analyst</name>
+			<text>Whenever an opponent casts a spell for an amount of mana other than its mana value, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/94.png" num="10">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Larcenous Confluence</name>
+			<text>Choose three. You may choose the same mode more than once.
+• Create a 2/2 white Human Soldier creature token.
+• You may put an Equipment card from your hand onto the battlefield.
+• You may attach an Equipment you control to a creature you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/95.png" num="11">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Princess of the Ball</name>
+			<text>Distraction (This creature can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)
+As long as Princess of the Ball is tapped, tapped creatures you don&apos;t control lose all abilities.
+{1}{W}, {T}: Tap target creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/96.png" num="14">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacred Vault Guardian</name>
+			<text>{W}: This creature becomes a 2/2 Human Soldier and gains vigilance.
+{R}{W}: If this creature is a Soldier, it becomes Adienna, Thief-Saint, a legendary 4/3 Human Rogue with vigilance and &quot;Whenever this creature attacks, create a Treasure token.&quot;
+{R}{R}{R}: If this creature is legendary, it gains double strike.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/97.png" num="15">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undercover Guard</name>
+			<text>Flash
+This creature enters tapped. When it does, target creature you control gains your choice of lifelink or hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/98.png" num="20">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Augury</name>
+			<text>Draw cards equal to the number of different mana values among instant and sorcery cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/99.png" num="22">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mira, Starguided Prophet</name>
+			<text>You may look at the top card of your library any time.
+Once during each of your turns, you may cast an instant or sorcery spell from the top of your library if no instant or sorcery card in your graveyard shares a mana value with it.
+{T}: Draw a card, then exile a card from your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/100.png" num="31">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mira&apos;s Foresight</name>
+			<text>When this enchantment enters, scry 1, then draw a card.
+Whenever you draw one or more cards, if it&apos;s not your draw step, put a meditation counter on this enchantment. Then if there are six or more meditation counters on this enchantment, exile it and take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/101.png" num="32">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peer Through Time</name>
+			<text>Counter target spell unless its controller pays {2}. If it&apos;s your turn, counter that spell instead.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/102.png" num="37">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spymaster of Aggaloth</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Other creatures you control with power 1 or less have distraction. (A creature with distraction can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/103.png" num="41">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enticing Relics</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Equipped creature gets +X/+X and has &quot;Whenever this creature attacks, each opponent loses X life and you gain X life.&quot; X is the number of modified creatures you control. (Equipment, Auras you control, and counters are modifications.)
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/104.png" num="47">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grailseeker&apos;s Demise</name>
+			<text>Menace
+Ward—Pay 6 life.
+Noncreature spells opponents cast have breach. (They cost {1} less to cast if they attacked this turn, and an additional {1} less if a creature they control dealt combat damage to one of their opponents this turn.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/105.png" num="48">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Out of Reach</name>
+			<text>An opponent chooses a mana value. Search your library for a card with a mana value other than the chosen mana value, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/106.png" num="55">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sydney, Digital Infiltrator</name>
+			<text>Haste
+Instant and sorcery spells you cast have breach. (They cost {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/107.png" num="79">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sydney&apos;s Exposé</name>
+			<text>Sydney&apos;s Exposé deals X damage to any target, where X is two plus the number of artifacts you control. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/108.png" num="80">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viral Disruptor</name>
+			<text>At the beginning of your end step, if you cast fewer than two spells this turn, this creature deals damage to you equal to the difference.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/109.png" num="82">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tooth&apos;s Liberation</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt combat damage to an opponent this turn.)
+Return up to one target card from your graveyard to your hand and up to one target land card from your graveyard to the battlefield tapped.
+Exile Tooth&apos;s Liberation.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/110.png" num="99">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasured Spyglass</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Whenever equipped creature attacks, if the number of lands you control is less than or equal to equipped creature&apos;s power, you may put a land card from your hand onto the battlefield tapped.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/111.png" num="102">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verdant Beauty Amidst Greed</name>
+			<text>At the beginning of combat on your turn, put two +1/+1 counters on up to one target land you control. It becomes a 0/0 Elemental creature until end of turn. It&apos;s still a land.
+Modified creatures you control have haste and can&apos;t be blocked by creatures with power 2 or less. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/112.png" num="103">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ballroom Attire</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+Whenever equipped creature attacks, it and each other attacking creature with lesser power gain deathtouch and lifelink until end of turn.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/113.png" num="108">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Masquerade Ensemble</name>
+			<text>First strike
+Ward {4}
+Whenever The Masquerade Ensemble enters or attacks, put a dance counter on up to one target creature. That creature loses all abilities and has base power and toughness 4/4 for as long as it has a dance counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/114.png" num="121">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Qoyan, Decoy Duplicator</name>
+			<text>Whenever another nontoken creature you control dies during your turn, choose one —
+• Create a token that&apos;s a copy of that card, except it&apos;s a 1/1 blue Illusion.
+• Create an X/X colorless Construct artifact creature token, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/115.png" num="124">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radiant Unveiler</name>
+			<text>Face-down creatures you control have haste.
+Whenever an attacking creature you control is turned face up, it gains first strike until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/116.png" num="126">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turning Off the Grid</name>
+			<text>When this enchantment enters, it deals 4 damage to target creature or planeswalker.
+Whenever a noncreature source you control deals excess damage, you may scry X, where X is the excess damage dealt this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/117.png" num="135">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valerie&apos;s Rampage</name>
+			<text>Choose one. If you control two or more modified creatures, you may choose two instead. (Equipment, Auras you control, and counters are modifications.)
+• Destroy target nonland permanent an opponent controls.
+• Return up to one target creature card from your graveyard to the battlefield tapped.
+• Target opponent loses 4 life and you gain 4 life.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/118.png" num="137">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aquila&apos;s Endless Handbag</name>
+			<text>At the beginning of combat on your turn, choose one at random. Create a colorless Equipment artifact token with that ability and equip {2} and attach it to a creature you control.
+• &quot;Equipped creature gets +1/+1.&quot;
+• &quot;Equipped creature has deathtouch and lifelink.&quot;
+• &quot;Equipped creature has vigilance and haste.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/119.png" num="141">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Multifaceted Automaton</name>
+			<text>Whenever you cast a spell that targets only this creature, copy it for each other creature you control that&apos;s modified. Each copy targets a different one of those creatures. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/120.png" num="146">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whispering Mask</name>
+			<text>{T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Whenever you sacrifice a Clue, add one mana of any color.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/121.png" num="151">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cate&apos;s Armory</name>
+			<text>{T}: Add {C}.
+{T}: Add {C}{C}. Spend this mana only to activate equip abilities.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/122.png" num="152">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Observation Deck</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Target creature gains distraction until end of turn. (It can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/123.png" num="155">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>At Last, Reunited</name>
+			<text>This spell costs {2} less to cast if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)
+You gain 5 life.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/124.png" num="1">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glamorous Socialite</name>
+			<text>At the beginning of combat on your turn, target creature you control gains lifelink until end of turn. Then put a +1/+1 counter on that creature if Glamorous Socialite is modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/125.png" num="7">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>TsuCo Guard-Dog</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt damage to an opponent this turn.)
+Vigilance
+This creature can&apos;t attack or block unless you control another artifact creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/126.png" num="19">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Heist</name>
+			<text>Breach (This spell costs {1} less to cast if you attacked this turn, and an additional {1} less if a creature you control dealt damage to an opponent this turn.)
+Scry 2, then draw X cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/127.png" num="24">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eons Away From the Vault</name>
+			<text>Choose target creature you control and target creature you don&apos;t control. Return them to their owner&apos;s hands. If the creature you controlled dealt combat damage to a player this turn, untap up to three lands.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/128.png" num="26">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald on the Tides</name>
+			<text>Distraction (This creature can&apos;t be blocked as long as there&apos;s an attacking creature with greater power.)
+When this creature enters, investigate three times. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Whenever this creature deals combat damage to a player, you may sacrifice an artifact. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/129.png" num="28">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Misdirect</name>
+			<text>Misdirect costs {3} less to cast if you&apos;ve cast another spell this turn.
+Return up to three target nonland permanents to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/130.png" num="34">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Operative Libra</name>
+			<text>{T}: Draw a card, then discard a card.
+As long as there&apos;s an even number of cards in your graveyard, instant spells you cast cost {1} less to cast. Otherwise, sorcery spells you cast cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/131.png" num="35">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Among All the Stars</name>
+			<text>Search your library for a card and exile it face down. You may cast it without paying its mana cost if its mana value is less than the number of tapped creatures you control. Otherwise, put it into your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/132.png" num="43">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doubt Creeps In</name>
+			<text>You can&apos;t cast this spell during your first, second, or third turns of the game.
+Target opponent reveals their hand. You choose a nonland card from it. Exile that card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/133.png" num="46">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horrific Watcher</name>
+			<text>Flying
+When this creature enters, you may sacrifice a token. If you do, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/134.png" num="50">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Scout Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mask of No Self</name>
+			<text>Masquerade
+As long as you have one or fewer cards in hand, equipped creature gets +2/+2 and has lifelink.
+Equip—Discard a card</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/135.png" num="53">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Thousand Lives&apos; Agony</name>
+			<text>Target player exiles two cards from their hand. Then they may pay 4 life. If they do, put those cards into their owner&apos;s graveyard. Otherwise, you may play them for as long as they&apos;re exiled, and spend mana as though it were mana of any color to cast them.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/136.png" num="58">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Witchy Mastermind</name>
+			<text>Flying, deathtouch, lifelink
+Whenever another modified creature you control dies, you may pay 3 life. If you do, return it to its owner&apos;s hand. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/137.png" num="61">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calculated Risk</name>
+			<text>Any player may have Calculated Risk deal 4 damage to them. If no player does, exile Calculated Risk and draw three cards.
+Whenever you attack with creatures with total power 8 or greater, return this card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/138.png" num="65">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shimmering Vault Mantra</name>
+			<text>Exile up to two nonred instant and/or sorcery cards each with mana value X or less from your graveyard. You may cast copies of each without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/139.png" num="73">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>X1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starblade Breacher</name>
+			<text>Haste
+Whenever this creature attacks, create a tapped and attacking token that&apos;s a copy of target modified creature you control. Exile that token at the beginning of your next end step. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/140.png" num="75">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Warden</name>
+			<text>Vigilance
+Whenever an enchantment you control enters, draw a card and create a Treasure token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/141.png" num="84">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Blade Emergence</name>
+			<text>Masquerade
+Equipped creature gets +5/+5 and has vigilance and &quot;Whenever this attacks or blocks, you gain 3 life.&quot;
+Equip {W}{U}{B}{R}{G}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/142.png" num="94">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prizes Most Overgrown</name>
+			<text>Search your library for a basic land card, put it onto the battlefield, then shuffle. Then if it&apos;s a Plains, Island, Swamp, or Mountain, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/143.png" num="95">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rugged Lock-Melter</name>
+			<text>Whenever you attack with creatures with total power 8 or greater, destroy target artifact or enchantment.
+{1}, Sacrifice Rugged Lock-Melter: Destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/144.png" num="96">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sugar Rush!</name>
+			<text>Return target card from your graveyard to your hand, then put two +1/+1 counters on up to one target creature you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/145.png" num="97">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tooth&apos;s Retainers</name>
+			<text>This spell can&apos;t be countered.
+Trample
+{1}: This creature gains your choice of haste or hexproof until end of turn. Spend only mana that could pay for any color to activate this.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/146.png" num="100">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traveller&apos;s Tux</name>
+			<text>Masquerade (When this Equipment enters, manifest the top card of your library as a 2/2, then attach this to it.)
+When this Equipment enters, you may put a land card from your hand onto the battlefield.
+Equipped creature gets +3/+3 as long as you control six or more lands.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/147.png" num="101">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aggaloth&apos;s Prize</name>
+			<text>Flying, lifelink
+When this creature dies, exile it and create three Treasure tokens.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/148.png" num="105">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>BBGG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diamond Dame</name>
+			<text>This spell can&apos;t be countered.
+Vigilance
+{G}{U}: This creature gains hexproof and indestructible until end of turn. Activate only if this creature is modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/149.png" num="113">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Elemental Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eerie Wall-Walker</name>
+			<text>Flash
+As this creature enters, if it&apos;s your turn, discard a card and it becomes a 5/5 Horror Berserker with flying and haste. Otherwise, draw a card and it enters as a 3/3 Spirit Rogue with lifelink.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/150.png" num="114">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabbit Rascal</name>
+			<text>Haste, lifelink
+This creature has double strike and trample as long as you have one or fewer cards in hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/151.png" num="125">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Troublebreaker Circle</name>
+			<text>The Troublebreaker Circle enters with four +1/+1 counters on it.
+{G}{W}, Remove a counter from The Troublebreaker Circle: Choose one that hasn&apos;t been chosen yet—
+• Exile all cards from target graveyard.
+• Destroy target artifact or enchantment.
+• It gets +3/+3 and gains trample until end of turn.
+• You gain 6 life.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/152.png" num="132">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Truth From the Grail</name>
+			<text>Truth From the Grail deals damage to any target equal to the number of cards in your hand. Then draw seven cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/153.png" num="133">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quicksilver Harbinger</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, you may pay {4}. If you do, you may put a creature card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/1ND-files/img/154.png" num="148">1ND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

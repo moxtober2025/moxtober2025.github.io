@@ -1,0 +1,2729 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SHH</name>
+			<longname>Starfall Upon Halcyon Heights</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-30</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Anton Sheer, Moxite Man</name>
+			<text>Flying, haste
+Whenever Moxite Man attacks, exile the top X cards of your library, where X is the number of permanents attached to him. You may cast spells with mana value X or less from among the exiled cards without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/0.png" num="66">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beebo, Swooping Guardian</name>
+			<text>Flying, vigilance
+{1}{U}, {T}: Exile another target creature you control and all permanents attached to it, then return that card to the battlefield tapped under its owner&apos;s control. If you do, return the other cards exiled this way to the battlefield under their owners&apos; control attached to that creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/1.png" num="24">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Drake Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamarie, the Octogarch</name>
+			<text>Calamarie and Tentacles you control each have protection from modified creatures.
+Whenever Calamarie attacks, you may create a Lackey Role token attached to target creature defending player controls. If you do, create a 1/1 blue Tentacle creature token for each Lackey Role token you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/2.png" num="109">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catch the Express</name>
+			<text>Create a 4/4 colorless Vehicle artifact creature token with trample and haste. It must be blocked this turn if able. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/3.png" num="110">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystallicer&apos;s Cryoperative</name>
+			<text>When this creature enters, if you cast it, tap all creatures target opponent controls. Those creatures don&apos;t untap during that player&apos;s next untap step.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/4.png" num="27">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scientist Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dandylion, Flower Ranger</name>
+			<text>Vigilance
+Whenever Dandylion becomes the target of a spell or ability you control for the first time each turn, you may have her become a white Plant with base power and toughness 1/1, lose all abilities, and gain flying and hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/5.png" num="114">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dryad Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defining Moment</name>
+			<text>Choose one —
+• Destroy target creature or enchantment you don&apos;t control.
+• Return target creature or enchantment card from your graveyard to the battlefield tapped with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/6.png" num="115">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dr. Darkstar, Astronomancer</name>
+			<text>Constellation — Whenever an enchantment you control enters, put a +1/+1 counter on Dr. Darkstar and surveil 1.
+Once during each of your turns, you may cast an enchantment spell from your graveyard by paying life equal to its mana value rather than paying its mana cost. If you cast a spell this way, that enchantment enters with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/7.png" num="53">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falling Star</name>
+			<text>Falling Star deals X damage to target creature. Exile a number of cards from the top of your library equal to the amount of excess damage dealt this way. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/8.png" num="72">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goon Squad</name>
+			<text>When this creature enters, create three 1/1 black Minion creature tokens.
+Minions and modified creatures you control have menace. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/9.png" num="73">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Head of Security</name>
+			<text>Ward {2}
+Other modified creatures you control have ward {2}.
+Whenever you cast a spell that targets this creature, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/10.png" num="9">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hibisca&apos;s Petal</name>
+			<text>Sidekick — Whenever this creature attacks with another creature with greater power, up to one target attacking creature with greater power gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/11.png" num="11">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dog Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interrobang</name>
+			<text>Menace
+Sidekick — Whenever Interrobang attacks with another creature with greater power, reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and exile the other. Interrobang deals 1 damage to each opponent for each card exiled this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/12.png" num="121">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Just a Hologram</name>
+			<text>Flash
+Enchant creature
+Enchanted creature is an Illusion with base power and toughness 1/1 and indestructible in addition to its other types and abilities.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/13.png" num="122">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Love Interest</name>
+			<text>This creature can&apos;t block.
+When this creature dies, up to one target creature you control deals damage equal to its power to another target creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/14.png" num="76">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Manawave Project</name>
+			<text>Enchant creature
+As this Aura enters, choose Success or Failure.
+• Success — Enchanted creature has base power and toughness 6/6 and trample.
+• Failure — Enchanted creature has base power and toughness 2/2.
+Enchanted creature loses all other abilities and is a green Lizard Mutant creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/15.png" num="95">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Power of Flight</name>
+			<text>When you cast this spell, if it targets a legendary creature you control, draw a card.
+Enchant creature
+Enchanted creature gets +2/+2 and has flying.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/16.png" num="16">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pretty Penny, Auramancer</name>
+			<text>Flash
+Ward—Sacrifice a modified creature.
+When Pretty Penny enters, destroy up to one target creature or enchantment you don&apos;t control.
+If a creature or enchantment card would be put into an opponent&apos;s graveyard from the battlefield, instead exile it and create a Treasure token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/17.png" num="59">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prodigious Protégé</name>
+			<text>Flying
+Sidekick — Whenever this creature attacks with another creature with greater power, create a token that&apos;s a copy of up to one target nontoken Aura you control. It enters attached to this creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/18.png" num="17">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Refract</name>
+			<text>Change the target of target spell or ability with a single target. If you change the target to a creature you control, copy that spell or ability. The copy targets another creature you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/19.png" num="81">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shooting Star</name>
+			<text>When this creature enters, up to one target creature gets -X/-X until end of turn.
+Minions and modified creatures you control have deathtouch. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/20.png" num="60">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Something Worth Protecting</name>
+			<text>Enchant creature or land you control
+Creatures you control get +1/+1.
+Enchanted permanent has &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/21.png" num="137">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Suit Up Sequence</name>
+			<text>When this enchantment enters, draw a card.
+The first spell you cast each turn that targets a creature you control costs {1} less to cast and can&apos;t be countered.
+The first ability you activate each turn that targets a creature you control costs {1} less to activate and can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/22.png" num="139">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>TeleKay, Charity Collector</name>
+			<text>As long as it&apos;s your turn, TeleKay has first strike.
+Whenever TeleKay deals combat damage to a creature, gain control of up to one target permanent attached to it, then attach it to TeleKay.
+Whenever TeleKay deals combat damage to a player, for each permanent attached to TeleKay, you gain 1 life and draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/23.png" num="141">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Forces of Evil</name>
+			<text>Amass Minions X, where X is 2 plus the total power of modified creatures you control. (Put a +1/+1 counter on an Army you control. It&apos;s also a Minion. If you don&apos;t control an Army, create a 0/0 black Minion Army creature token first. Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/24.png" num="117">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Light Serene</name>
+			<text>Enchant creature
+Whenever The Light Serene or another Aura you control enters, exile up to one target creature until The Light Serene leaves the battlefield.
+Enchanted creature and permanents attached to it each have ward {3}.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/25.png" num="13">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Overfisher</name>
+			<text>Flash
+Vigilance, reach, trample
+Whenever The Overfisher deals combat damage to a creature with flying or a player, create that many tapped 1/1 blue Fish creature tokens.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/26.png" num="99">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tux.exe, Version 3.14</name>
+			<text>Pay 3 life: Tux.exe phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Whenever a player casts a spell that targets Tux.exe or another creature you control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/27.png" num="19">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vigilante&apos;s Hopalong</name>
+			<text>Sidekick — Whenever this creature attacks with another creature with greater power, you may have this creature becomes a copy of that creature, except it&apos;s a 2/2 Rabbit Minion, it isn&apos;t legendary, and it has this ability.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/28.png" num="43">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wyre, the Telekinetworker</name>
+			<text>Whenever Wyre or an Aura you control enters, surveil 1. If this is the first time this ability has resolved this turn, draw a card.
+Each modified creature you control has vigilance and &quot;{T}: Add one mana of any color.&quot; (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/29.png" num="146">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Better in Pairs</name>
+			<text>Enchant creature
+If a triggered ability of enchanted creature or a permanent you control attached to it triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/30.png" num="107">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Biosymphony Project</name>
+			<text>As long as this creature is modified, it has trample and haste. (Equipment, Auras you control, and counters are modifications.)
+Whenever this creature deals combat damage to a player, create a token that&apos;s a copy of it.
+As long as you control four creatures named Biosymphony Project, you may cast spells without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/31.png" num="108">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cassian, One with Oblivion</name>
+			<text>Whenever you cast a black spell, Cassian deals 1 damage to each opponent. Surveil 1.
+Exhaust — {1}{B}: Create an X/X black Elemental creature token, where X is the number of black mana symbols among mana costs of cards in your graveyard. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/32.png" num="48">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Circuit Hopper</name>
+			<text>Reach
+When this creature dies, if it was modified, create a Food token and draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/33.png" num="151">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crown Joule</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+If you casting a spell during combat causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/34.png" num="69">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Seal&apos;s Shattering</name>
+			<text>Each player chooses a creature they control. Destroy the rest. Each player loses life equal to the total mana value of creatures they control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/35.png" num="112">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Directive in Darkness</name>
+			<text>Choose one—
+• Counter target spell an opponent controls with mana value 3 or greater.
+• Draw three cards, then discard two cards.
+• Create a token that&apos;s a copy of target creature you control with mana value 3 or less.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/36.png" num="29">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Double Tap</name>
+			<text>Flash
+When this enchantment enters, it deals 2 damage divided as you choose among one or two targets.
+Whenever a creature an opponent controls dies, this enchantment deals 1 damage to that player.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/37.png" num="70">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Echo of Light</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+{4}{W}{W}, Exile this card from your graveyard: Until end of turn, the base power and toughness of each creature you control becomes equal to the number of creatures you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/38.png" num="6">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feeding Time</name>
+			<text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Sacrifice a creature with the greatest power among creatures you control if this spell wasn&apos;t kicked. Then draw cards equal to the greatest power among creatures you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/39.png" num="89">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Halcyon Heights</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell.
+{2}, {T}: Add X mana of any one color, where X is the greatest power among legendary creatures you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/40.png" num="155">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hammer Down</name>
+			<text>Counter target spell with mana value less than or equal to the greatest power among creatures you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/41.png" num="32">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of the Forerunners</name>
+			<text>Whenever you cast a legendary spell, create a 1/1 black Minion creature token. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/42.png" num="10">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Human Shield</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. Create a Treasure token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/43.png" num="55">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impervious Technique</name>
+			<text>Return target creature card from your graveyard to the battlefield. Until your next turn, that creature can&apos;t block and all damage that would be dealt to you is dealt to that creature instead.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/44.png" num="56">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Karate King, Final Threat</name>
+			<text>When Karate King enters, destroy up to one other target creature. It&apos;s controller creates two tokens that are copies of it, except the tokens are 1/1 and aren&apos;t legendary.
+Whenever another legendary creature you control dies, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/45.png" num="123">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Krong&apos;s Bruiser</name>
+			<text>Whenever another creature you control enters, if that creature has greater power than this creature, put a +1/+1 counter on this creature.
+Sidekick — Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/46.png" num="92">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kuzuryo, Moonsent King</name>
+			<text>Flying
+When Kuzuryo dies, each player loses half their life, then discards half the cards in their hand, then sacrifices half the creatures they control of their choice. Round up each time.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/47.png" num="57">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord Dissonance</name>
+			<text>You may pay {W}{U}{B}{R}{G} rather than pay the mana costs for spells you cast. Whenever you cast a spell with mana value less than 5 this way, put a number of +1/+1 counters on Lord Dissonance equal to the difference.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/48.png" num="124">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucy Chaos</name>
+			<text>Flying, menace
+Whenever Lucy Chaos attacks, draw a card, then discard a card.
+Lucy Chaos has all activated and triggered abilities of legendary cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/49.png" num="125">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechatyrant Kuzuryo</name>
+			<text>Flying
+When Mechatyrant Kuzuryo enters, create three tapped colorless artifact tokens each named Meteorite with &quot;When this token enters, it deals 2 damage to any target&quot; and &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/50.png" num="127">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miss Mach</name>
+			<text>Flying, vigilance
+{WU}, {T}: Copy target creature spell with flying you control. Activate only if Miss Mach attacked this turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/51.png" num="129">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mister Mach</name>
+			<text>Flash
+Haste
+{UR}, {T}: Copy target spell you control. You may choose new targets for the copies. Activate only during an opponent&apos;s turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/52.png" num="130">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moon Man, First Hero</name>
+			<text>Flying, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+As long as you have an odd number of cards in hand, noncreature spells you cast cost {X} less to cast, where X is Moon Man&apos;s power.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/53.png" num="33">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pilot Zero</name>
+			<text>You may look at the top card of your library any time.
+Once during each of your turns, you may cast the top card of your library by discarding a card in addition to that spell&apos;s other costs.
+{T}: Another target creature gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/54.png" num="79">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Project P.R.I.S.M.</name>
+			<text>You may look at the top card of your library any time.
+Once during each of your turns, you may cast a spell from the top of your library if you spend only mana of different types to cast it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/55.png" num="35">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terrifying Savior</name>
+			<text>When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Lackey Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/56.png" num="142">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>This Time, They Will Live</name>
+			<text>Time loop (As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
+I — Each player discards a card, then mills two cards.
+II — Exile up to one target creature card from a graveyard.
+III — You may sacrifice this Saga. If you do, put all creature cards exiled with it onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/57.png" num="143">SHH</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Touch of Eternity</name>
+			<text>Enchant creature
+Sidekick — Whenever enchanted creature attacks with another creature with greater power, you draw a card and lose 1 life.
+Umbra armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/58.png" num="64">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wish Upon a Star</name>
+			<text>When this enchantment enters, create a tapped colorless artifact token named Meteorite with &quot;When this token enters, it deals 2 damage to any target&quot; and &quot;{T}: Add one mana of any color.&quot;
+Once during each of your turns, you may cast a spell you own from outside the game if you spend only mana from nonland sources to cast it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/59.png" num="83">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zero G, Matter Manipulator</name>
+			<text>Once during each of your turns, you may play a land from your graveyard.
+Landfall — Whenever a land you control enters, add {G}.
+{5}{G}{G}: Target land you control becomes a 8/8 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/60.png" num="104">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dapper SHH</name>
+			<text>Enchant creature
+You control enchanted creature as long as you control an Okus.</text>
+			<set rarity="common" picurl="https://moxtober2025.github.io/sets/SHH-files/img/61.png" num="1">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura Role</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Behold Creation</name>
+			<text>Exile your hand, graveyard, and the top twenty cards of your library. You may put any number of cards you own from exile or from outside the game on top of your library, then shuffle. Draw seven cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/62.png" num="106">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BGU</manacost>
+				<cmc>6</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blue Queen Karnolia</name>
+			<text>When Karnolia enters, create a Supporting Role token attached to her. (It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)
+Whenever a creature you control deals combat damage to a player, if it was the target of a spell or ability you controlled this turn, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/63.png" num="25">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Human</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boris Deadman</name>
+			<text>Menace
+Sidekick — When Boris Deadman enters and whenever he attacks with another creature with greater power, return target creature from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/64.png" num="46">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bulwark of Will</name>
+			<text>Target creature gains hexproof and indestructible until end of turn. Create a Valiant Role attached to that creature. (If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/65.png" num="86">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Caleborn the Punished</name>
+			<text>Flying, menace
+When Caleborn the Punished enters, if you cast it, each player shuffles their hand and graveyard into their library, then searches their library for five cards and exiles the rest.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/66.png" num="47">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Compact of Mercury</name>
+			<text>You may sacrifice a modified creature rather than pay this spell&apos;s mana cost. (Equipment, Auras you control, and counters are modifications.)
+Creatures you control gain hexproof and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/67.png" num="4">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contemplate</name>
+			<text>Draw two cards. Then discard a card unless you control a modified creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/68.png" num="26">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dance with Doom</name>
+			<text>Each player sacrifices a creature. If they can&apos;t, they discard a card. If they can&apos;t, they lose 3 life. Repeat this process three times.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/69.png" num="51">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deep-Field Arcanonuclear Reactor</name>
+			<text>Rather than pay the mana cost for a spell, you may sacrifice a number of permanents equal to its mana value.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/70.png" num="152">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exile from the Hell Dimension</name>
+			<text>Flying, haste
+This creature can&apos;t block.
+Whenever this creature deals combat damage to a player, sacrifice it unless you sacrifice a permanent attached to it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/71.png" num="71">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fair Lady Silver</name>
+			<text>Flying
+When Fair Lady Silver enters, it deals 2 damage to each other creature. 
+If a nontoken creature dealt damage this turn by Fair Lady Silver would die, exile it instead. Fair Lady Silver gains all activated and triggered abilities of that card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/72.png" num="1">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3CC</manacost>
+				<cmc>5</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of One Thousand Suns</name>
+			<text>Choose one—
+• Force of One Thousand Suns deals 10 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.
+• Target creature you control gains lifelink, trample and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/73.png" num="116">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heartstone Synthesizer</name>
+			<text>Sidekick — Whenever this creature attacks with another creature with greater power, create a Mox Emerald token. (It&apos;s a colorless artifact with &quot;{T}: Add {G}.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/74.png" num="91">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Just In Time</name>
+			<text>This spell deals 3 damage to target creature or planeswalker. Create a Supporting Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/75.png" num="75">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kyo Uun, Herald of Doom</name>
+			<text>Deathtouch
+As long as you control no other creatures, you may cast creature spells from your graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/76.png" num="58">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leap Into Action</name>
+			<text>Mill four cards. Then put up to two creature cards each with mana value 3 or less from your hand or graveyard onto the battlefield.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/77.png" num="12">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monolith</name>
+			<text>Modified creatures you control have trample and haste. (Equipment, Auras you control, and counters are modifications.)
+Lands you control have &quot;At the beginning of combat on your turn, put a +1/+1 counter on target creature.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/78.png" num="96">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Papercut</name>
+			<text>Haste
+Whenever Papercut attacks, create a token that&apos;s a copy of target token you control. If it&apos;s a creature, it enters tapped and attacking. Exile it at the beginning of the next upkeep.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/79.png" num="78">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Princess Vermora the Last</name>
+			<text>When Princess Vermora enters, create a 3/3 green Beast creature token.
+At the beginning of combat on your turn, create a Valiant Role attached to target creature. (If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/80.png" num="133">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebirth of the Moon Man</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga deals 6 damage to each of up to three targets.
+II — Spells you cast this turn cost {U}{R} less to cast.
+III — Draw a card. You may put this Saga on top of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/81.png" num="134">SHH</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rose, Rogue Ranger</name>
+			<text>Haste
+When Rose enters, target creature can&apos;t block this turn. When Rose deals combat damage to a player this turn, destroy that creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/82.png" num="135">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scratch, Soldier of Fortune</name>
+			<text>Double strike
+Whenever Scratch deals combat damage to a player, you may sacrifice a permanent. If you do, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/83.png" num="82">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serenity Grace, Murder Queen</name>
+			<text>When Serenity Grace enters, return target creature card with mana value 1 from your graveyard to the battlefield with a finality counter on it. It gains flying. 
+Whenever a modified creature you control leaves the battlefield, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/84.png" num="136">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supremacy</name>
+			<text>At the beginning of your upkeep, create a 1/1 black Minion creature token.
+Whenever you create a creature token, create a Lackey Role and attach it to that token. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/85.png" num="63">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Cat&apos;s Paw</name>
+			<text>When The Cat&apos;s Paw enters, each player discards a card. Create a Lackey Role token attached to a creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token leaves play, draw a card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/86.png" num="49">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Enchantrix</name>
+			<text>When The Enchantrix enters, create a Supporting Role token attached to her. (It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)
+Whenever an enchantment you control enters, draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/87.png" num="88">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Mask of Degorah</name>
+			<text>Modified creatures you don&apos;t control get -2/-2.
+[+1]: Create a Lackey Role attached to target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When the Role leaves play, draw a card.)
+[-1]: Each opponent loses X life and you gain X life, where X is the number of tokens you control.
+[-3]: Create a Dapper Role attached to target creature. (If you control another Role on it, put that one into the graveyard. You control enchanted creature as long as you control an Okus.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/88.png" num="126">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Okus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Stone of Eri-Nathor</name>
+			<text>When The Stone of Eri-Nathor enters, draw a card.
+{T}, Tap an untapped permanent you control: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/89.png" num="154">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Time After Time</name>
+			<text>As an additional cost to cast Time After Time, shuffle a modified creature you control into your library or pay {3}. (Equipment, Auras you control, and counters are modifications.)
+Take an extra turn after this one. Exile Time After Time.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/90.png" num="41">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worldwalker</name>
+			<text>Whenever Worldwalker deals combat damage to a player, if she&apos;s modified, you may exile her. If you do, you may put a card you own from outside the game into your hand. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/91.png" num="145">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zarqa&apos;s Neophytes</name>
+			<text>At the beginning of combat on your turn, target creature gains haste until end of turn.
+Sidekick — Whenever this creature attacks with another creature with greater power, those creatures gain double strike until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/92.png" num="84">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Power</name>
+			<text>Ancient Power deals 1000 damage to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/93.png" num="105">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Antimatter Destructron</name>
+			<text>Whenever a legendary permanent enters the battlefield under your control, untap this artifact.
+{T}: Add one mana of any color.
+{100}: This artifact deals 1000 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/94.png" num="149">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>At the End of the Day</name>
+			<text>Choose one —
+• End the turn.
+• Take an extra turn after this one.
+Exile At the End of the Day.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/95.png" num="23">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bucket of Glop</name>
+			<text>Equipped creature has menace, deathtouch, and base toughness 1.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/96.png" num="150">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clothes Make the Man</name>
+			<text>When this enchantment enters, it becomes an Aura with enchant creature. Return a creature card from your graveyard to the battlefield and attach this enchantment to it.
+Enchanted creature has menace.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/97.png" num="50">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daring Rescue</name>
+			<text>Target permanent gains protection from all colors until end of turn. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything that&apos;s white, blue, black, red, or green.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/98.png" num="5">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diamond Skin</name>
+			<text>Target creature gains hexproof until end of turn. Create a Supporting Role token attached to it. (It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/99.png" num="87">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>From Mighty Acorns</name>
+			<text>Enchant creature
+When From Mighty Acorns enters, enchanted creature deals damage equal to its power to target creature, planeswalker, or battle.
+Enchanted creature gets +1/+1 for each Forest you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/100.png" num="90">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gilled Goons</name>
+			<text>Creatures you control with power X or less can&apos;t be blocked, where X is the number of basic Islands you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/101.png" num="31">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meditative State</name>
+			<text>Your life total becomes equal to the total power of creatures you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/102.png" num="128">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multiversal Mooks</name>
+			<text>A deck can have any number of cards named Multiversal Mooks.
+When this creature enters, you may reveal a card you own named Multiversal Mooks from outside the game and put it into your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/103.png" num="14">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Punch the Moon</name>
+			<text>Each opponent sacrifices a nonbasic land of their choice.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/104.png" num="80">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Relentless Rescuer</name>
+			<text>As long as this creature is modified, creatures you control with base power and toughness 1/1 get +1/+1. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/105.png" num="100">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sorcerous Sidekick</name>
+			<text>Sidekick — Whenever this creature attacks with another creature with greater power, that creature gains &quot;Whenever this creature dies, return it to the battlefield tapped under its owner&apos;s control with a menace counter on it&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/106.png" num="62">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Crimson Mask Descends</name>
+			<text>Gain control of target creature until end of turn. Untap it. Until end of turn it gets +1/+0 and gains haste, trample, and &quot;Whenever this creature deals combat damage to a player, it deals that much damage to each other permanent.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/107.png" num="68">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>There&apos;s Always More Mooks</name>
+			<text>Choose X. You may choose the same mode more than once.
+• Create a 1/1 black Minion creature token.
+• Create a Lackey role token attached to a creature you control that isn&apos;t enchanted. (Enchanted creature gets +1/+1. When this token leaves play, draw a card.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/108.png" num="18">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unobtanium Implant</name>
+			<text>Put a +1/+1 counter, a flying counter, and an argent counter on target creature. It&apos;s an artifact creature for as long as it has an argent counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/109.png" num="42">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Auroral Dancer</name>
+			<text>This creature enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Sidekick — Whenever this creature attacks with another creature with greater power, double the number of +1/+1 counters on this creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/110.png" num="85">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Back on the Streets</name>
+			<text>Choose X target creature cards in your graveyard. Return one of them to the battlefield and the rest to your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/111.png" num="45">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blessing of the Crescent</name>
+			<text>Flash
+Enchant creature you control
+As this Aura enters, choose a card name.
+Enchanted creature gets +1/+1 and has protection from the chosen name. (It can&apos;t be targeted, dealt damage, enchanted, or equipped by anything with the chosen name.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/112.png" num="3">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Catch the Stars</name>
+			<text>Catch the Stars deals 4 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead. Until the end of your next turn, you may cast a creature card you own exiled this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/113.png" num="111">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RRWW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Damsel, Daring Nemesis</name>
+			<text>Haste
+Whenever Damsel deals combat damage to a player, put your choice of counter on her from among first strike, menace, or deathtouch.
+When Damsel dies, if she had three or more counters on her, return her to your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/114.png" num="113">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disorienting Blast</name>
+			<text>Return target spell or nonland permanent to its owner&apos;s hand. If you controlled it, you may cast a spell with lesser mana value from your hand without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/115.png" num="30">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doom Desired</name>
+			<text>Target player draws a card and loses 1 life. If there are three or more cards named Doom Desired in your graveyard, instead that player draws seven cards and loses 7 life.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/116.png" num="52">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flower // Power</name>
+			<text>Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle.
+
+---
+
+Create a 0/1 green Plant token, then put a +1/+1 counter on it for each creature and/or land you control.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/117.png" num="148">SHH</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G/W // 4R/G</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gifts from the Skyfish</name>
+			<text>When this enchantment enters, search your library for exactly seven cards with different names, exile them, then shuffle.
+If you would draw a card, you may instead choose a card at random exiled with this enchantment and put it into your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/118.png" num="118">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glintwing Familiar</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, you may choose one —
+• Draw two cards. If you do, discard three cards at the beginning of the next end step.
+• Discard two cards. If you do, draw three cards at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/119.png" num="119">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grace of the Cosmos</name>
+			<text>Enchant creature you control
+When this Aura enters, draw a card for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
+Modified creatures you control get +1/+1 and have flying.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/120.png" num="8">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jazi Stormblood</name>
+			<text>Whenever Jazi Stormblood attacks, you may pay {R}{R}{R}, reduced by {R} for each kind of modification on her. If you do, create a 6/1 red Elemental creature token with trample that&apos;s tapped and attacking. Sacrifice that token at the beginning of the next end step. (The kinds of modifications are Equipment, Auras you control, and counters.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/121.png" num="74">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lady of the Ley</name>
+			<text>If you would lose unspent mana of a color, you lose all but one mana of that color instead.
+This creature gets +1/+0 for each color of unspent mana you have.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/122.png" num="93">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lumin Starbright</name>
+			<text>Whenever another creature or enchantment you control enters, Lumin gets +1/+1 until end of turn.
+Whenever Lumin attacks, if her power is seven or greater, search your library for an Insect creature card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/123.png" num="94">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirage Meddler</name>
+			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Whenever this creature attacks, create three tapped and attacking tokens that are copies of this creature. At end of combat, choose this creature or a token created this way, then sacrifice each one of those creatures not chosen this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/124.png" num="77">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Need a Hand?</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped, then create a Supporting Role token attached to that creature. (It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/125.png" num="15">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One with the Lifestream</name>
+			<text>Enchant creature you control
+When this enchantment enters, draw cards equal to enchanted creature&apos;s power.
+Enchanted creature has vigilance and &quot;{T}: Add an amount of {G} equal to this creature&apos;s power.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/126.png" num="98">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reverie of the Cosmos</name>
+			<text>At the beginning of your end step, if you have no cards in hand, draw seven cards.
+{2}, Discard a card: Create a tapped 1/1 blue Fish creature token.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/127.png" num="37">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skeeter Swarm</name>
+			<text>Flying
+Whenever this creature attacks, you may sacrifice a non-Insect, nonland permanent. If you do, create a tapped and attacking token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/128.png" num="61">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Split the Storm</name>
+			<text>Counter target spell, activated ability, or triggered ability. If it had a single target, copy it up to X times, and you may choose new targets for the copies. Each copy must target a different target.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/129.png" num="38">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starborn Stomper</name>
+			<text>Trample
+Other creatures you control have trample.
+Whenever one or more creatures you control deal combat damage to a player, put that many +1/+1 counters on this creature, then create a 1/1 green Insect creature token for each +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/130.png" num="101">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starlighting</name>
+			<text>Exile Starlighting and the top three cards of your library. Until the end of your next turn, you may play one of the exiled cards.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/131.png" num="138">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suki, Chosen by the Sky</name>
+			<text>Flying
+Whenever Suki enters or attacks, put a fate counter on her. Then draw cards equal to the number of fate counters on her, then put that many cards from your hand on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/132.png" num="140">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take On the Mantle</name>
+			<text>Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. You may move any number of counters from among creatures you control onto that creature, and may attach any number of Auras and Equipment you control to it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/133.png" num="102">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take the Night Off</name>
+			<text>At the beginning of your end step, you may tap one or more untapped creatures you control. If you do, draw that many cards, then discard a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/134.png" num="39">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Nameless Hero</name>
+			<text>[+1]: The Nameless Hero becomes a copy of up to one target creature card in a graveyard until end of turn, except she has no name.
+[0]: Draw three cards. For each card drawn this way, discard a card unless you sacrifice a creature.
+[-7]: You get an emblem with &quot;You may have nontoken creatures you control enter as a copy of any creature card in a graveyard.&quot;</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/135.png" num="132">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thwart Plans</name>
+			<text>This spell costs {1} less to cast if it targets a spell with mana value 2 or less.
+Counter target spell. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/136.png" num="40">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Utter Annihilation</name>
+			<text>Exile target creature or planeswalker. When you do, if its mana value was less than three, put a number of +1/+1 counters on target creature you control equal to the difference.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/137.png" num="21">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vile Seedling</name>
+			<text>When one or more other creatures die, put a +1/+1 counter on this creature.
+When this creature dies, each opponent loses 2 life. If its power was 4 or greater, they discard a card. If its power was 6 or greater, they sacrifice a creature of their choice.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/138.png" num="144">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weave The Lifestream</name>
+			<text>Look at the top ten cards of your library. You may put a creature card from your hand or among those cards onto the battlefield, then put any number of Aura cards from your hand and among those cards onto the battlefield attached to that creature. Then shuffle. (The Auras must be able to enchant that craeture.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/139.png" num="103">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wyre&apos;s Strings</name>
+			<text>{T}: For each creature you control, if it was the target of a spell or ability you controlled this turn, you may create a Valiant Role token attached to that creature. (If you control another Role on it, put that one into your graveyard. When this token enters and, once each turn, when enchanted creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/140.png" num="147">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ace, Card Cheat</name>
+			<text>When Ace enters, you may discard any number of cards. Ace deals X damage to each opponent and you draw X cards, where X is the greatest number of sequential mana values among cards discarded this way. (Lands have mana value 0.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/141.png" num="65">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alysha, Penny&apos;s Protégé</name>
+			<text>Menace
+When Alysha enters, any opponent may discard a card. If no one does, you lose 1 life and draw a card.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/142.png" num="44">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bastion, People&apos;s Champion</name>
+			<text>Whenever another nontoken creature you control enters, you may create a Supporting Role token and attach it to that creature. (If you control another Role on it, put that one into the graveyard. It&apos;s an Aura Role with &quot;At the beginning of combat on your turn, target creature gets +1/+1 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/143.png" num="2">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Break the Fourth Wall</name>
+			<text>You may reveal a legendary creature or planeswalker card you own from outside the game and put it into your hand. Exile Break the Fourth Wall.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/144.png" num="67">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Data Optimization</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Counter target spell. Then if this spell was kicked, search its controller&apos;s graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/145.png" num="28">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elseworlds Invader</name>
+			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Constellation — Whenever an enchantment you control enters, exile the top card of target opponent&apos;s library. You may play that card for as long as you control this creature, and mana of any color can be spent to cast it.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/146.png" num="54">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galactic Vanguards</name>
+			<text>Lifelink
+Constellation — Whenever an enchantment you control enters, look at the top card of your library. If it&apos;s a creature card with mana value 1 or less, you may put it onto the battlefield. Otherwise, put that card into your hand.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/147.png" num="7">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Alien Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gritty Reboot</name>
+			<text>Any opponent may pay 4 life. If no opponent does, return target creature card with mana value 4 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/148.png" num="120">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moonlighter, Park Protector</name>
+			<text>Trample
+During turns other than your own, Moonlighter is a 1/1 Citizen creature and has hexproof.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/149.png" num="97">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Werewolf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paradoxical Prism</name>
+			<text>This artifact enters tapped.
+{T}: Add {C}.
+{4}, {T}: Create an X/X blue Construct creature token, where X is the number of card types among permanents you control. Then sacrifice this artifact.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/150.png" num="153">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prep Time</name>
+			<text>Look at the top three cards of your library. Put one into your hand and the rest on the bottom in a random order.
+Flashback {4}{U}</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/151.png" num="34">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Renegade Geneticist</name>
+			<text>{T}: Draw a card, then discard a card.
+{3}{U}{U}, {T}, Sacrifice this creature: Create a 4/4 blue Mutant Scientist creature token with flying. Activate only if there are five or more cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/152.png" num="36">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unassuming Reporter</name>
+			<text>This creature enters with a Supporting Role token attached to it.
+Whenever you attack with three or more creatures, you may sacrifice an Aura attached to this creature. If you do, put two +1/+1 counters and a flying counter on this creature. Do this only once.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/153.png" num="20">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valorous Bouncer</name>
+			<text>As long as this creature is modified, it gets +1/+1 and is a Mutant in addition to its other types. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/154.png" num="22">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mr. E, Burning Question</name>
+			<text>Vigilance, menace
+If an opponent would draw two or more cards, instead you and that player each investigate.
+{T}, Sacrifice a token: Mr. E deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://moxtober2025.github.io/sets/SHH-files/img/155.png" num="131">SHH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Inquisitor</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

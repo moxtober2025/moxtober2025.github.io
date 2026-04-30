@@ -1,7 +1,7 @@
 ﻿{
     "name": "Last Days of the Immortal Table",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "empty",
@@ -799,10 +799,10 @@
             "type": "Creature \u2014 Human Knight",
             "number": 79,
             "color_identity": "R",
-            "cost": "{R}",
+            "cost": "{1}{R}",
             "rules_text": "Forswear {R} [i]({R}: Put a +1/+1 counter on this and up to one other creature. That creature gains the following abilities until end of turn and this is no longer Human. Activate only as a sorcery and only once.)[/i]\nHaste",
             "flavor_text": "[i]To be loved is to be changed. [/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "LDT",
@@ -1981,7 +1981,7 @@
             "type": "Enchantment \u2014 Aura Curse",
             "number": 39,
             "color_identity": "U",
-            "cost": "{4}{U}",
+            "cost": "{4}{U}{U}",
             "rules_text": "Enchant player\nWhenever enchanted player draws a card, each of their opponents may surveil 1, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3452,5 +3452,5 @@
             "notes": ""
         }
     ],
-    "version": 13
+    "version": 14
 }

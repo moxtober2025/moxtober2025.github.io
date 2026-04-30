@@ -373,7 +373,7 @@
 		{
 			"name": "Blushing Bride",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Knight",
 			"collector_number": "79",
 			"image_uris": {
@@ -953,7 +953,7 @@
 		{
 			"name": "Meditations on Truth",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "39",
 			"image_uris": {
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"name": "Caelia, the South Star (Promo)",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "1",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"name": "Ruin to be Wrought (Promo)",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "2",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "The Red Grail (Promo)",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "3",
@@ -1809,7 +1809,11 @@
 	2 Drink Deep
 	2 Steel Your Heart
 [uncommon(3)]
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
+	3 Caelia, the South Star (Promo)
+	3 Ruin to be Wrought (Promo)
+	3 The Red Grail (Promo)
 [foil(1)]
 	2 Tiny Beating Hearts
 	2 Forsaken Shepherd

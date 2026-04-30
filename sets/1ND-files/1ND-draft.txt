@@ -1709,7 +1709,8 @@
 	2 Truth From the Grail
 	2 Quicksilver Harbinger
 [uncommon(3)]
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	2 Skyline Daredevil
 	2 Hands Outstretched

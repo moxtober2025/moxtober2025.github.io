@@ -1719,7 +1719,8 @@
 	2 Valorous Bouncer
 	2 Mr. E, Burning Question
 [uncommon(3)]
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	2 Anton Sheer, Moxite Man
 	2 Beebo, Swooping Guardian

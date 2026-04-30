@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/LDT-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/LDT-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>LDT visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,271 +181,287 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/LDT-files/logo.png" />
-	<img class="preload-hidden" src="/sets/1ND-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LDT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MIX-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SHH-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/LDT-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/LDT-files/logo.png" />
+	<img class="preload-hidden" src="../sets/1ND-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LDT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MIX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SHH-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/LDT-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="LDT"><img src="/sets/LDT-files/icon.png">Last Days of the Immortal Table</a>
+		<a class="set-bar" href="../previews/LDT"><img src="../sets/LDT-files/icon.png">Last Days of the Immortal Table</a>
 	
-		<a class="set-bar inactive" href="1ND"><img src="/sets/1ND-files/icon.png">One Night in the Dragon’s Den</a>
+		<a class="set-bar inactive" href="../previews/1ND"><img src="../sets/1ND-files/icon.png">One Night in the Dragon’s Den</a>
 	
-		<a class="set-bar inactive" href="MIX"><img src="/sets/MIX-files/icon.png">Mix</a>
+		<a class="set-bar inactive" href="../previews/MIX"><img src="../sets/MIX-files/icon.png">Mix</a>
 	
-		<a class="set-bar inactive" href="SHH"><img src="/sets/SHH-files/icon.png">Starfall Upon Halcyon Heights</a>
+		<a class="set-bar inactive" href="../previews/SHH"><img src="../sets/SHH-files/icon.png">Starfall Upon Halcyon Heights</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/LDT-files/logo.png">
+		<img class="logo" src="../sets/LDT-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/96.png" id="96" data-flag="@X" onclick="openSidebar('96',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/59.png" id="59" data-flag="@X" onclick="openSidebar('59',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/116.png" id="116" data-flag="@X" onclick="openSidebar('116',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/35.png" id="35" data-flag="@X" onclick="openSidebar('35',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/50.png" id="50" data-flag="@X" onclick="openSidebar('50',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/71.png" id="71" data-flag="@X" onclick="openSidebar('71',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/56.png" id="56" data-flag="@X" onclick="openSidebar('56',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/113.png" id="113" data-flag="@X" onclick="openSidebar('113',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/129.png" id="129" data-flag="@X" onclick="openSidebar('129',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/130.png" id="130" data-flag="@X" onclick="openSidebar('130',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/119.png" id="119" data-flag="@X" onclick="openSidebar('119',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/38.png" id="38" data-flag="@X" onclick="openSidebar('38',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/9.png" id="9" data-flag="@X" onclick="openSidebar('9',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/23.png" id="23" data-flag="@X" onclick="openSidebar('23',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/32.png" id="32" data-flag="@X" onclick="openSidebar('32',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/65.png" id="65" data-flag="@X" onclick="openSidebar('65',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/85.png" id="85" data-flag="@X" onclick="openSidebar('85',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/66.png" id="66" data-flag="@X" onclick="openSidebar('66',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/37.png" id="37" data-flag="@X" onclick="openSidebar('37',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/134.png" id="134" data-flag="@X" onclick="openSidebar('134',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/51.png" id="51" data-flag="@X" onclick="openSidebar('51',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/28.png" id="28" data-flag="@X" onclick="openSidebar('28',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/102.png" id="102" data-flag="@X" onclick="openSidebar('102',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/114.png" id="114" data-flag="@X" onclick="openSidebar('114',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/14.png" id="14" data-flag="@X" onclick="openSidebar('14',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/121.png" id="121" data-flag="@X" onclick="openSidebar('121',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/103.png" id="103" data-flag="@X" onclick="openSidebar('103',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/40.png" id="40" data-flag="@X" onclick="openSidebar('40',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/61.png" id="61" data-flag="@X" onclick="openSidebar('61',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/60.png" id="60" data-flag="@X" onclick="openSidebar('60',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/41.png" id="41" data-flag="@X" onclick="openSidebar('41',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/107.png" id="107" data-flag="@X" onclick="openSidebar('107',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/135.png" id="135" data-flag="@X" onclick="openSidebar('135',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/82.png" id="82" data-flag="@X" onclick="openSidebar('82',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/163.png" id="163" data-flag="@X" onclick="openSidebar('163',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/3.png" id="3" data-flag="@X" onclick="openSidebar('3',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/137.png" id="137" data-flag="@X" onclick="openSidebar('137',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/94.png" id="94" data-flag="@X" onclick="openSidebar('94',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/76.png" id="76" data-flag="@X" onclick="openSidebar('76',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/136.png" id="136" data-flag="@X" onclick="openSidebar('136',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/112.png" id="112" data-flag="@X" onclick="openSidebar('112',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/42.png" id="42" data-flag="@X" onclick="openSidebar('42',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/83.png" id="83" data-flag="@X" onclick="openSidebar('83',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/99.png" id="99" data-flag="@X" onclick="openSidebar('99',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/34.png" id="34" data-flag="@X" onclick="openSidebar('34',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/17.png" id="17" data-flag="@X" onclick="openSidebar('17',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/140.png" id="140" data-flag="@X" onclick="openSidebar('140',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/111.png" id="111" data-flag="@X" onclick="openSidebar('111',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/138.png" id="138" data-flag="@X" onclick="openSidebar('138',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/145.png" id="145" data-flag="@X" onclick="openSidebar('145',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/108.png" id="108" data-flag="@X" onclick="openSidebar('108',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/98.png" id="98" data-flag="@X" onclick="openSidebar('98',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/132.png" id="132" data-flag="@X" onclick="openSidebar('132',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/139.png" id="139" data-flag="@X" onclick="openSidebar('139',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/133.png" id="133" data-flag="@X" onclick="openSidebar('133',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/142.png" id="142" data-flag="@X" onclick="openSidebar('142',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/92.png" id="92" data-flag="@X" onclick="openSidebar('92',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/143.png" id="143" data-flag="@X" onclick="openSidebar('143',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/30.png" id="30" data-flag="@X" onclick="openSidebar('30',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/93.png" id="93" data-flag="@X" onclick="openSidebar('93',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/57.png" id="57" data-flag="@X" onclick="openSidebar('57',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/144.png" id="144" data-flag="@X" onclick="openSidebar('144',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/4.png" id="4" data-flag="@X" onclick="openSidebar('4',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/126.png" id="126" data-flag="@X" onclick="openSidebar('126',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/105.png" id="105" data-flag="@X" onclick="openSidebar('105',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/27.png" id="27" data-flag="@X" onclick="openSidebar('27',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/95.png" id="95" data-flag="@X" onclick="openSidebar('95',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/39.png" id="39" data-flag="@X" onclick="openSidebar('39',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/5.png" id="5" data-flag="@X" onclick="openSidebar('5',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/7.png" id="7" data-flag="@X" onclick="openSidebar('7',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/77.png" id="77" data-flag="@X" onclick="openSidebar('77',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/63.png" id="63" data-flag="@X" onclick="openSidebar('63',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/97.png" id="97" data-flag="@X" onclick="openSidebar('97',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/43.png" id="43" data-flag="@X" onclick="openSidebar('43',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/91.png" id="91" data-flag="@X" onclick="openSidebar('91',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/84.png" id="84" data-flag="@X" onclick="openSidebar('84',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/72.png" id="72" data-flag="@X" onclick="openSidebar('72',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/147.png" id="147" data-flag="@X" onclick="openSidebar('147',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/25.png" id="25" data-flag="@X" onclick="openSidebar('25',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/149.png" id="149" data-flag="@X" onclick="openSidebar('149',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/74.png" id="74" data-flag="@X" onclick="openSidebar('74',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/6.png" id="6" data-flag="@X" onclick="openSidebar('6',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/52.png" id="52" data-flag="@X" onclick="openSidebar('52',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/31.png" id="31" data-flag="@X" onclick="openSidebar('31',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/86.png" id="86" data-flag="@X" onclick="openSidebar('86',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/24.png" id="24" data-flag="@X" onclick="openSidebar('24',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/53.png" id="53" data-flag="@X" onclick="openSidebar('53',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/46.png" id="46" data-flag="@X" onclick="openSidebar('46',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/120.png" id="120" data-flag="@X" onclick="openSidebar('120',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/151.png" id="151" data-flag="@X" onclick="openSidebar('151',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/146.png" id="146" data-flag="@X" onclick="openSidebar('146',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/157.png" id="157" data-flag="@X" onclick="openSidebar('157',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/115.png" id="115" data-flag="@X" onclick="openSidebar('115',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/62.png" id="62" data-flag="@X" onclick="openSidebar('62',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/10.png" id="10" data-flag="@X" onclick="openSidebar('10',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/150.png" id="150" data-flag="@X" onclick="openSidebar('150',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/155.png" id="155" data-flag="@X" onclick="openSidebar('155',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/87.png" id="87" data-flag="@X" onclick="openSidebar('87',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/81.png" id="81" data-flag="@X" onclick="openSidebar('81',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/117.png" id="117" data-flag="@X" onclick="openSidebar('117',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/88.png" id="88" data-flag="@X" onclick="openSidebar('88',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/78.png" id="78" data-flag="@X" onclick="openSidebar('78',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/48.png" id="48" data-flag="@X" onclick="openSidebar('48',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/164.png" id="164" data-flag="@X" onclick="openSidebar('164',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/104.png" id="104" data-flag="@X" onclick="openSidebar('104',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/152.png" id="152" data-flag="@X" onclick="openSidebar('152',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/19.png" id="19" data-flag="@X" onclick="openSidebar('19',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/26.png" id="26" data-flag="@X" onclick="openSidebar('26',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/100.png" id="100" data-flag="@X" onclick="openSidebar('100',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/49.png" id="49" data-flag="@X" onclick="openSidebar('49',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/89.png" id="89" data-flag="@X" onclick="openSidebar('89',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/122.png" id="122" data-flag="@X" onclick="openSidebar('122',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/0.png" id="0" data-flag="@X" onclick="openSidebar('0',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/55.png" id="55" data-flag="@X" onclick="openSidebar('55',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/162.png" id="162" data-flag="@X" onclick="openSidebar('162',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/8.png" id="8" data-flag="@X" onclick="openSidebar('8',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/160.png" id="160" data-flag="@X" onclick="openSidebar('160',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/159.png" id="159" data-flag="@X" onclick="openSidebar('159',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/106.png" id="106" data-flag="@X" onclick="openSidebar('106',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/79.png" id="79" data-flag="@X" onclick="openSidebar('79',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/153.png" id="153" data-flag="@X" onclick="openSidebar('153',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/161.png" id="161" data-flag="@X" onclick="openSidebar('161',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/158.png" id="158" data-flag="@X" onclick="openSidebar('158',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/54.png" id="54" data-flag="@X" onclick="openSidebar('54',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/75.png" id="75" data-flag="@X" onclick="openSidebar('75',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets/LDT-files/img/96.png" id="LDT_96" data-flag="@X" onclick="openSidebar('LDT_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/59.png" id="LDT_59" data-flag="@X" onclick="openSidebar('LDT_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/116.png" id="LDT_116" data-flag="@X" onclick="openSidebar('LDT_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/35.png" id="LDT_35" data-flag="@X" onclick="openSidebar('LDT_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/50.png" id="LDT_50" data-flag="@X" onclick="openSidebar('LDT_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/71.png" id="LDT_71" data-flag="@X" onclick="openSidebar('LDT_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/56.png" id="LDT_56" data-flag="@X" onclick="openSidebar('LDT_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/113.png" id="LDT_113" data-flag="@X" onclick="openSidebar('LDT_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/129.png" id="LDT_129" data-flag="@X" onclick="openSidebar('LDT_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/130.png" id="LDT_130" data-flag="@X" onclick="openSidebar('LDT_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/119.png" id="LDT_119" data-flag="@X" onclick="openSidebar('LDT_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/38.png" id="LDT_38" data-flag="@X" onclick="openSidebar('LDT_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/9.png" id="LDT_9" data-flag="@X" onclick="openSidebar('LDT_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/23.png" id="LDT_23" data-flag="@X" onclick="openSidebar('LDT_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/32.png" id="LDT_32" data-flag="@X" onclick="openSidebar('LDT_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/65.png" id="LDT_65" data-flag="@X" onclick="openSidebar('LDT_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/85.png" id="LDT_85" data-flag="@X" onclick="openSidebar('LDT_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/66.png" id="LDT_66" data-flag="@X" onclick="openSidebar('LDT_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/37.png" id="LDT_37" data-flag="@X" onclick="openSidebar('LDT_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/134.png" id="LDT_134" data-flag="@X" onclick="openSidebar('LDT_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/51.png" id="LDT_51" data-flag="@X" onclick="openSidebar('LDT_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/28.png" id="LDT_28" data-flag="@X" onclick="openSidebar('LDT_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/102.png" id="LDT_102" data-flag="@X" onclick="openSidebar('LDT_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/114.png" id="LDT_114" data-flag="@X" onclick="openSidebar('LDT_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/14.png" id="LDT_14" data-flag="@X" onclick="openSidebar('LDT_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/121.png" id="LDT_121" data-flag="@X" onclick="openSidebar('LDT_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/103.png" id="LDT_103" data-flag="@X" onclick="openSidebar('LDT_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/40.png" id="LDT_40" data-flag="@X" onclick="openSidebar('LDT_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/61.png" id="LDT_61" data-flag="@X" onclick="openSidebar('LDT_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/60.png" id="LDT_60" data-flag="@X" onclick="openSidebar('LDT_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/41.png" id="LDT_41" data-flag="@X" onclick="openSidebar('LDT_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/107.png" id="LDT_107" data-flag="@X" onclick="openSidebar('LDT_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/135.png" id="LDT_135" data-flag="@X" onclick="openSidebar('LDT_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/82.png" id="LDT_82" data-flag="@X" onclick="openSidebar('LDT_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/163.png" id="LDT_163" data-flag="@X" onclick="openSidebar('LDT_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/3.png" id="LDT_3" data-flag="@X" onclick="openSidebar('LDT_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/137.png" id="LDT_137" data-flag="@X" onclick="openSidebar('LDT_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/94.png" id="LDT_94" data-flag="@X" onclick="openSidebar('LDT_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/76.png" id="LDT_76" data-flag="@X" onclick="openSidebar('LDT_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/136.png" id="LDT_136" data-flag="@X" onclick="openSidebar('LDT_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/112.png" id="LDT_112" data-flag="@X" onclick="openSidebar('LDT_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/42.png" id="LDT_42" data-flag="@X" onclick="openSidebar('LDT_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/83.png" id="LDT_83" data-flag="@X" onclick="openSidebar('LDT_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/99.png" id="LDT_99" data-flag="@X" onclick="openSidebar('LDT_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/34.png" id="LDT_34" data-flag="@X" onclick="openSidebar('LDT_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/17.png" id="LDT_17" data-flag="@X" onclick="openSidebar('LDT_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/140.png" id="LDT_140" data-flag="@X" onclick="openSidebar('LDT_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/111.png" id="LDT_111" data-flag="@X" onclick="openSidebar('LDT_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/138.png" id="LDT_138" data-flag="@X" onclick="openSidebar('LDT_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/145.png" id="LDT_145" data-flag="@X" onclick="openSidebar('LDT_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/108.png" id="LDT_108" data-flag="@X" onclick="openSidebar('LDT_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/98.png" id="LDT_98" data-flag="@X" onclick="openSidebar('LDT_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/132.png" id="LDT_132" data-flag="@X" onclick="openSidebar('LDT_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/139.png" id="LDT_139" data-flag="@X" onclick="openSidebar('LDT_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/133.png" id="LDT_133" data-flag="@X" onclick="openSidebar('LDT_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/142.png" id="LDT_142" data-flag="@X" onclick="openSidebar('LDT_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/92.png" id="LDT_92" data-flag="@X" onclick="openSidebar('LDT_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/143.png" id="LDT_143" data-flag="@X" onclick="openSidebar('LDT_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/30.png" id="LDT_30" data-flag="@X" onclick="openSidebar('LDT_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/93.png" id="LDT_93" data-flag="@X" onclick="openSidebar('LDT_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/57.png" id="LDT_57" data-flag="@X" onclick="openSidebar('LDT_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/144.png" id="LDT_144" data-flag="@X" onclick="openSidebar('LDT_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/4.png" id="LDT_4" data-flag="@X" onclick="openSidebar('LDT_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/126.png" id="LDT_126" data-flag="@X" onclick="openSidebar('LDT_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/105.png" id="LDT_105" data-flag="@X" onclick="openSidebar('LDT_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/27.png" id="LDT_27" data-flag="@X" onclick="openSidebar('LDT_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/95.png" id="LDT_95" data-flag="@X" onclick="openSidebar('LDT_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/39.png" id="LDT_39" data-flag="@X" onclick="openSidebar('LDT_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/5.png" id="LDT_5" data-flag="@X" onclick="openSidebar('LDT_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/7.png" id="LDT_7" data-flag="@X" onclick="openSidebar('LDT_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/77.png" id="LDT_77" data-flag="@X" onclick="openSidebar('LDT_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/63.png" id="LDT_63" data-flag="@X" onclick="openSidebar('LDT_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/97.png" id="LDT_97" data-flag="@X" onclick="openSidebar('LDT_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/43.png" id="LDT_43" data-flag="@X" onclick="openSidebar('LDT_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/91.png" id="LDT_91" data-flag="@X" onclick="openSidebar('LDT_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/84.png" id="LDT_84" data-flag="@X" onclick="openSidebar('LDT_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/72.png" id="LDT_72" data-flag="@X" onclick="openSidebar('LDT_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/147.png" id="LDT_147" data-flag="@X" onclick="openSidebar('LDT_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/25.png" id="LDT_25" data-flag="@X" onclick="openSidebar('LDT_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/149.png" id="LDT_149" data-flag="@X" onclick="openSidebar('LDT_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/74.png" id="LDT_74" data-flag="@X" onclick="openSidebar('LDT_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/6.png" id="LDT_6" data-flag="@X" onclick="openSidebar('LDT_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/52.png" id="LDT_52" data-flag="@X" onclick="openSidebar('LDT_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/31.png" id="LDT_31" data-flag="@X" onclick="openSidebar('LDT_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/86.png" id="LDT_86" data-flag="@X" onclick="openSidebar('LDT_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/24.png" id="LDT_24" data-flag="@X" onclick="openSidebar('LDT_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/53.png" id="LDT_53" data-flag="@X" onclick="openSidebar('LDT_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/46.png" id="LDT_46" data-flag="@X" onclick="openSidebar('LDT_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/120.png" id="LDT_120" data-flag="@X" onclick="openSidebar('LDT_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/151.png" id="LDT_151" data-flag="@X" onclick="openSidebar('LDT_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/146.png" id="LDT_146" data-flag="@X" onclick="openSidebar('LDT_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/157.png" id="LDT_157" data-flag="@X" onclick="openSidebar('LDT_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/115.png" id="LDT_115" data-flag="@X" onclick="openSidebar('LDT_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/62.png" id="LDT_62" data-flag="@X" onclick="openSidebar('LDT_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/10.png" id="LDT_10" data-flag="@X" onclick="openSidebar('LDT_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/150.png" id="LDT_150" data-flag="@X" onclick="openSidebar('LDT_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/155.png" id="LDT_155" data-flag="@X" onclick="openSidebar('LDT_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/87.png" id="LDT_87" data-flag="@X" onclick="openSidebar('LDT_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/81.png" id="LDT_81" data-flag="@X" onclick="openSidebar('LDT_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/117.png" id="LDT_117" data-flag="@X" onclick="openSidebar('LDT_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/88.png" id="LDT_88" data-flag="@X" onclick="openSidebar('LDT_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/78.png" id="LDT_78" data-flag="@X" onclick="openSidebar('LDT_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/48.png" id="LDT_48" data-flag="@X" onclick="openSidebar('LDT_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/164.png" id="LDT_164" data-flag="@X" onclick="openSidebar('LDT_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/104.png" id="LDT_104" data-flag="@X" onclick="openSidebar('LDT_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/152.png" id="LDT_152" data-flag="@X" onclick="openSidebar('LDT_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/19.png" id="LDT_19" data-flag="@X" onclick="openSidebar('LDT_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/26.png" id="LDT_26" data-flag="@X" onclick="openSidebar('LDT_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/100.png" id="LDT_100" data-flag="@X" onclick="openSidebar('LDT_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/49.png" id="LDT_49" data-flag="@X" onclick="openSidebar('LDT_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/89.png" id="LDT_89" data-flag="@X" onclick="openSidebar('LDT_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/122.png" id="LDT_122" data-flag="@X" onclick="openSidebar('LDT_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/0.png" id="LDT_0" data-flag="@X" onclick="openSidebar('LDT_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/55.png" id="LDT_55" data-flag="@X" onclick="openSidebar('LDT_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/162.png" id="LDT_162" data-flag="@X" onclick="openSidebar('LDT_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/8.png" id="LDT_8" data-flag="@X" onclick="openSidebar('LDT_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/160.png" id="LDT_160" data-flag="@X" onclick="openSidebar('LDT_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/159.png" id="LDT_159" data-flag="@X" onclick="openSidebar('LDT_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/106.png" id="LDT_106" data-flag="@X" onclick="openSidebar('LDT_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/79.png" id="LDT_79" data-flag="@X" onclick="openSidebar('LDT_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/153.png" id="LDT_153" data-flag="@X" onclick="openSidebar('LDT_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/161.png" id="LDT_161" data-flag="@X" onclick="openSidebar('LDT_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/158.png" id="LDT_158" data-flag="@X" onclick="openSidebar('LDT_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/54.png" id="LDT_54" data-flag="@X" onclick="openSidebar('LDT_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/75.png" id="LDT_75" data-flag="@X" onclick="openSidebar('LDT_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/101.png" id="101" data-flag="@X" onclick="openSidebar('101',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/156.png" id="156" data-flag="@X" onclick="openSidebar('156',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/131.png" id="131" data-flag="@X" onclick="openSidebar('131',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/58.png" id="58" data-flag="@X" onclick="openSidebar('58',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/118.png" id="118" data-flag="@X" onclick="openSidebar('118',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/47.png" id="47" data-flag="@X" onclick="openSidebar('47',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/73.png" id="73" data-flag="@X" onclick="openSidebar('73',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/67.png" id="67" data-flag="@X" onclick="openSidebar('67',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/13.png" id="13" data-flag="@X" onclick="openSidebar('13',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/11.png" id="11" data-flag="@X" onclick="openSidebar('11',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/109.png" id="109" data-flag="@X" onclick="openSidebar('109',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/110.png" id="110" data-flag="@X" onclick="openSidebar('110',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/64.png" id="64" data-flag="@X" onclick="openSidebar('64',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/16.png" id="16" data-flag="@X" onclick="openSidebar('16',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/69.png" id="69" data-flag="@X" onclick="openSidebar('69',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/141.png" id="141" data-flag="@X" onclick="openSidebar('141',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/68.png" id="68" data-flag="@X" onclick="openSidebar('68',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/70.png" id="70" data-flag="@X" onclick="openSidebar('70',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/44.png" id="44" data-flag="@X" onclick="openSidebar('44',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/12.png" id="12" data-flag="@X" onclick="openSidebar('12',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/33.png" id="33" data-flag="@X" onclick="openSidebar('33',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/15.png" id="15" data-flag="@X" onclick="openSidebar('15',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/148.png" id="148" data-flag="@X" onclick="openSidebar('148',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/36.png" id="36" data-flag="@X" onclick="openSidebar('36',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/29.png" id="29" data-flag="@X" onclick="openSidebar('29',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/101.png" id="LDT_101" data-flag="@X" onclick="openSidebar('LDT_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/156.png" id="LDT_156" data-flag="@X" onclick="openSidebar('LDT_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/131.png" id="LDT_131" data-flag="@X" onclick="openSidebar('LDT_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/58.png" id="LDT_58" data-flag="@X" onclick="openSidebar('LDT_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/118.png" id="LDT_118" data-flag="@X" onclick="openSidebar('LDT_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/47.png" id="LDT_47" data-flag="@X" onclick="openSidebar('LDT_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/73.png" id="LDT_73" data-flag="@X" onclick="openSidebar('LDT_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/67.png" id="LDT_67" data-flag="@X" onclick="openSidebar('LDT_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/13.png" id="LDT_13" data-flag="@X" onclick="openSidebar('LDT_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/11.png" id="LDT_11" data-flag="@X" onclick="openSidebar('LDT_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/109.png" id="LDT_109" data-flag="@X" onclick="openSidebar('LDT_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/110.png" id="LDT_110" data-flag="@X" onclick="openSidebar('LDT_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/64.png" id="LDT_64" data-flag="@X" onclick="openSidebar('LDT_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/16.png" id="LDT_16" data-flag="@X" onclick="openSidebar('LDT_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/69.png" id="LDT_69" data-flag="@X" onclick="openSidebar('LDT_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/141.png" id="LDT_141" data-flag="@X" onclick="openSidebar('LDT_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/68.png" id="LDT_68" data-flag="@X" onclick="openSidebar('LDT_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/70.png" id="LDT_70" data-flag="@X" onclick="openSidebar('LDT_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/44.png" id="LDT_44" data-flag="@X" onclick="openSidebar('LDT_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/12.png" id="LDT_12" data-flag="@X" onclick="openSidebar('LDT_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/33.png" id="LDT_33" data-flag="@X" onclick="openSidebar('LDT_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/15.png" id="LDT_15" data-flag="@X" onclick="openSidebar('LDT_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/148.png" id="LDT_148" data-flag="@X" onclick="openSidebar('LDT_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/36.png" id="LDT_36" data-flag="@X" onclick="openSidebar('LDT_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/29.png" id="LDT_29" data-flag="@X" onclick="openSidebar('LDT_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/18.png" id="18" data-flag="@X" onclick="openSidebar('18',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/45.png" id="45" data-flag="@X" onclick="openSidebar('45',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/90.png" id="90" data-flag="@X" onclick="openSidebar('90',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/154.png" id="154" data-flag="@X" onclick="openSidebar('154',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/80.png" id="80" data-flag="@X" onclick="openSidebar('80',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/18.png" id="LDT_18" data-flag="@X" onclick="openSidebar('LDT_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/45.png" id="LDT_45" data-flag="@X" onclick="openSidebar('LDT_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/90.png" id="LDT_90" data-flag="@X" onclick="openSidebar('LDT_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/154.png" id="LDT_154" data-flag="@X" onclick="openSidebar('LDT_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/80.png" id="LDT_80" data-flag="@X" onclick="openSidebar('LDT_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/2.png" id="2" data-flag="@X" onclick="openSidebar('2',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/1.png" id="1" data-flag="@X" onclick="openSidebar('1',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/20.png" id="20" data-flag="@X" onclick="openSidebar('20',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/128.png" id="128" data-flag="@X" onclick="openSidebar('128',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/127.png" id="127" data-flag="@X" onclick="openSidebar('127',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/21.png" id="21" data-flag="@X" onclick="openSidebar('21',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/22.png" id="22" data-flag="@X" onclick="openSidebar('22',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/2.png" id="LDT_2" data-flag="@X" onclick="openSidebar('LDT_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/1.png" id="LDT_1" data-flag="@X" onclick="openSidebar('LDT_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/20.png" id="LDT_20" data-flag="@X" onclick="openSidebar('LDT_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/128.png" id="LDT_128" data-flag="@X" onclick="openSidebar('LDT_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/127.png" id="LDT_127" data-flag="@X" onclick="openSidebar('LDT_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/21.png" id="LDT_21" data-flag="@X" onclick="openSidebar('LDT_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/22.png" id="LDT_22" data-flag="@X" onclick="openSidebar('LDT_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
 				<div id="masterpiece" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/125.png" id="125" data-flag="@X" onclick="openSidebar('125',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/123.png" id="123" data-flag="@X" onclick="openSidebar('123',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets/LDT-files/img/124.png" id="124" data-flag="@X" onclick="openSidebar('124',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/125.png" id="LDT_125" data-flag="@X" onclick="openSidebar('LDT_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/123.png" id="LDT_123" data-flag="@X" onclick="openSidebar('LDT_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/LDT-files/img/124.png" id="LDT_124" data-flag="@X" onclick="openSidebar('LDT_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/e.png" id="LDT_e" data-flag="@E" onclick="openSidebar('LDT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img/er.png" id="LDT_er" data-flag="@E" onclick="openSidebar('LDT_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -451,19 +474,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -498,13 +613,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -658,16 +776,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -677,7 +795,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

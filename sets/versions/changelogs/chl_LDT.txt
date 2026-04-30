@@ -1,4 +1,17 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Blushing Bride
+cost: {R} => {1}{R}
+pt: 1/1 => 2/1
+
+Meditations on Truth
+cost: {4}{U} => {4}{U}{U}
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
